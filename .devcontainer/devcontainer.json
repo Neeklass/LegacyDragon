@@ -1,0 +1,17 @@
+{
+  "name": "LegacyDragon",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-python.python",
+        "ms-toolsai.jupyter",
+        "charliermarsh.ruff"  // linter
+      ]
+    }
+  },
+  "postCreateCommand": "uv venv && uv add ipykernel beautifulsoup4 lxml polars",
+  "remoteUser": "vscode"
+}
