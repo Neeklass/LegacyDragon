@@ -1,12 +1,218 @@
-# sample structure
-#champions:
-#  - name: "Alistar"
-#    keywords: ["Alistar", "Minotaur"]
-#  - name: "Annie"
-#    keywords: ["Annie", "Dark Child"]
 
-#items:
-#  - name: "B. F. Sword"
-#    keywords: ["B.F. Sword", "BF Sword"]
-#  - name: "Sunfire Cape"
-#    keywords: ["Sunfire Cape", "Sunfire"]
+champions:
+  - name: "Alistar"
+    keywords: ["Alistar", "Minotaur"]
+  - name: "Annie"
+    keywords: ["Annie", "Dark Child"]
+  - name: "Ashe"
+    keywords: ["Ashe", "Frost Archer"]
+  - name: "Fiddlesticks"
+    keywords: ["Fiddlesticks", "Ancient Fear"]
+  - name: "Jax"
+    keywords: ["Jax", "Grandmaster at Arms"]
+  - name: "Kayle"
+    keywords: ["Kayle", "Righteous"]
+  - name: "Master Yi"
+    keywords: ["Master Yi", "Wuju Bladesman"]
+  - name: "Morgana"
+    keywords: ["Morgana", "Fallen"]
+  - name: "Nunu & Willump"
+    keywords: ["Nunu & Willump", "Boy and His Yeti"]
+  - name: "Ryze"
+    keywords: ["Ryze", "Rune Mage"]
+  - name: "Sion"
+    keywords: ["Sion", "Undead Juggernaut"]
+  - name: "Sivir"
+    keywords: ["Sivir", "Battle Mistress"]
+  - name: "Soraka"
+    keywords: ["Soraka", "Starchild"]
+  - name: "Teemo"
+    keywords: ["Teemo", "Swift Scout"]
+  - name: "Tristana"
+    keywords: ["Tristana", "Yordle Gunner"]
+  - name: "Twisted Fate"
+    keywords: ["Twisted Fate", "Card Master"]
+  - name: "Warwick"
+    keywords: ["Warwick", "Uncaged Wrath of Zaun"]
+  - name: "Singed"
+    keywords: ["Singed", "Mad Chemist"]
+  - name: "Zilean"
+    keywords: ["Zilean", "Chronokeeper"]
+  - name: "Evelynn"
+    keywords: ["Evelynn", "Siren of the Void"]
+  - name: "Agony's Embrace"
+    keywords: ["Agony's Embrace", "Agony's Embrace"]
+  - name: "Tryndamere"
+    keywords: ["Tryndamere", "Barbarian King"]
+  - name: "Twitch"
+    keywords: ["Twitch", "Plague Rat"]
+  - name: "Karthus"
+    keywords: ["Karthus", "Deathsinger"]
+  - name: "Amumu"
+    keywords: ["Amumu", "Sad Mummy"]
+  - name: "Cho'Gath"
+    keywords: ["Cho'Gath", "Terror of the Void"]
+  - name: "Anivia"
+    keywords: ["Anivia", "Cryophoenix"]
+  - name: "Rammus"
+    keywords: ["Rammus", "Armordillo"]
+  - name: "Veigar"
+    keywords: ["Veigar", "Tiny Master of Evil"]
+  - name: "Kassadin"
+    keywords: ["Kassadin", "Void Walker"]
+  - name: "Gangplank"
+    keywords: ["Gangplank", "Saltwater Scourge"]
+  - name: "Taric"
+    keywords: ["Taric", "Shield of Valoran"]
+  - name: "Blitzcrank"
+    keywords: ["Blitzcrank", "Great Steam Golem"]
+  - name: "Dr. Mundo"
+    keywords: ["Dr. Mundo", "Madman of Zaun"]
+  - name: "Janna"
+    keywords: ["Janna", "Storm's Fury"]
+  - name: "Malphite"
+    keywords: ["Malphite", "Shard of the Monolith"]
+  - name: "Corki"
+    keywords: ["Corki", "Daring Bombardier"]
+  - name: "Katarina"
+    keywords: ["Katarina", "Sinister Blade"]
+  - name: "Nasus"
+    keywords: ["Nasus", "Curator of the Sands"]
+  - name: "Heimerdinger"
+    keywords: ["Heimerdinger", "Revered Inventor"]
+  - name: "Shaco"
+    keywords: ["Shaco", "Demon Jester"]
+  - name: "Udyr"
+    keywords: ["Udyr", "Spirit Walker"]
+  - name: "Nidalee"
+    keywords: ["Nidalee", "Bestial Huntress"]
+  - name: "Poppy"
+    keywords: ["Poppy", "Keeper of the Hammer"]
+  - name: "Gragas"
+    keywords: ["Gragas", "Rabble Rouser"]
+  - name: "Pantheon"
+    keywords: ["Pantheon", "Unbreakable Spear"]
+  - name: "Mordekaiser"
+    keywords: ["Mordekaiser", "Iron Revenant"]
+  - name: "Ezreal"
+    keywords: ["Ezreal", "Prodigal Explorer"]
+  - name: "Shen"
+    keywords: ["Shen", "Eye of Twilight"]
+  - name: "Kennen"
+    keywords: ["Kennen", "Heart of the Tempest"]
+  - name: "Garen"
+    keywords: ["Garen", "Might of Demacia"]
+  - name: "Akali"
+    keywords: ["Akali", "Rogue Assassin"]
+  - name: "Malzahar"
+    keywords: ["Malzahar", "Prophet of the Void"]
+  - name: "Olaf"
+    keywords: ["Olaf", "Berserker"]
+  - name: "Kog'Maw"
+    keywords: ["Kog'Maw", "Mouth of the Abyss"]
+  - name: "Xin Zhao"
+    keywords: ["Xin Zhao", "Seneschal of Demacia"]
+  - name: "Vladimir"
+    keywords: ["Vladimir", "Crimson Reaper"]
+  - name: "Galio"
+    keywords: ["Galio", "Colossus"]
+  - name: "Urgot"
+    keywords: ["Urgot", "Dreadnought"]
+  - name: "Miss Fortune"
+    keywords: ["Miss Fortune", "Bounty Hunter"]
+  - name: "Sona"
+    keywords: ["Sona", "Maven of the Strings"]
+  - name: "Swain"
+    keywords: ["Swain", "Noxian Grand General"]
+  - name: "Lux"
+    keywords: ["Lux", "Lady of Luminosity"]
+  - name: "LeBlanc"
+    keywords: ["LeBlanc", "Deceiver"]
+  - name: "Irelia"
+    keywords: ["Irelia", "Blade Dancer"]
+  - name: "Trundle"
+    keywords: ["Trundle", "Troll King"]
+  - name: "Cassiopeia"
+    keywords: ["Cassiopeia", "Serpent's Embrace"]
+  - name: "Caitlyn"
+    keywords: ["Caitlyn", "Sheriff of Piltover"]
+  - name: "Renekton"
+    keywords: ["Renekton", "Butcher of the Sands"]
+  - name: "Karma"
+    keywords: ["Karma", "Enlightened One"]
+  - name: "Maokai"
+    keywords: ["Maokai", "Twisted Treant"]
+  - name: "Jarvan IV"
+    keywords: ["Jarvan IV", "Exemplar of Demacia"]
+  - name: "Nocturne"
+    keywords: ["Nocturne", "Eternal Nightmare"]
+  - name: "Lee Sin"
+    keywords: ["Lee Sin", "Blind Monk"]
+  - name: "Brand"
+    keywords: ["Brand", "Burning Vengeance"]
+  - name: "Rumble"
+    keywords: ["Rumble", "Mechanized Menace"]
+  - name: "Vayne"
+    keywords: ["Vayne", "Night Hunter"]
+  - name: "Orianna"
+    keywords: ["Orianna", "Lady of Clockwork"]
+  - name: "Yorick"
+    keywords: ["Yorick", "Shepherd of Souls"]
+  - name: "Leona"
+    keywords: ["Leona", "Radiant Dawn"]
+  - name: "Wukong"
+    keywords: ["Wukong", "Monkey King"]
+  - name: "Skarner"
+    keywords: ["Skarner", "Primordial Sovereign"]
+  - name: "Talon"
+    keywords: ["Talon", "Blade's Shadow"]
+  - name: "Riven"
+    keywords: ["Riven", "Exile"]
+  - name: "Xerath"
+    keywords: ["Xerath", "Magus Ascendant"]
+  - name: "Graves"
+    keywords: ["Graves", "Outlaw"]
+  - name: "Shyvana"
+    keywords: ["Shyvana", "Half-Dragon"]
+  - name: "Fizz"
+    keywords: ["Fizz", "Tidal Trickster"]
+  - name: "Volibear"
+    keywords: ["Volibear", "Relentless Storm"]
+  - name: "Ahri"
+    keywords: ["Ahri", "Nine-Tailed Fox"]
+  - name: "Viktor"
+    keywords: ["Viktor", "Herald of the Arcane"]
+  - name: "Sejuani"
+    keywords: ["Sejuani", "Fury of the North"]
+  - name: "Ziggs"
+    keywords: ["Ziggs", "Hexplosives Expert"]
+  - name: "Nautilus"
+    keywords: ["Nautilus", "Titan of the Depths"]
+  - name: "Fiora"
+    keywords: ["Fiora", "Grand Duelist"]
+  - name: "Lulu"
+    keywords: ["Lulu", "Fae Sorceress"]
+  - name: "Hecarim"
+    keywords: ["Hecarim", "Shadow of War"]
+  - name: "Varus"
+    keywords: ["Varus", "Arrow of Retribution"]
+  - name: "Darius"
+    keywords: ["Darius", "Hand of Noxus"]
+  - name: "Draven"
+    keywords: ["Draven", "Glorious Executioner"]
+  - name: "Jayce"
+    keywords: ["Jayce", "Defender of Tomorrow"]
+  - name: "Zyra"
+    keywords: ["Zyra", "Rise of the Thorns"]
+  - name: "Diana"
+    keywords: ["Diana", "Scorn of the Moon"]
+  - name: "Rengar"
+    keywords: ["Rengar", "Pridestalker"]
+  - name: "Syndra"
+    keywords: ["Syndra", "Dark Sovereign"]
+  - name: "Kha'Zix"
+    keywords: ["Kha'Zix", "Voidreaver"]
+  - name: "Elise"
+    keywords: ["Elise", "Spider Queen"]
+  - name: "Zed"
+    keywords: ["Zed", "Master of Shadows"]
