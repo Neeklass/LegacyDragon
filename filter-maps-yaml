@@ -1,0 +1,11 @@
+maps:
+  - name: "Summoner's Rift"
+    keywords: ["5v5", "SR"]
+  - name: "Twisted Treeline"
+    keywords: ["3v3"]
+  - name: "Crystal Scar"
+    keywords: ["Dominion"]
+  - name: "Proving Grounds"
+    keywords: ["aram"]
+  #- name: "Howling Abyss"
+  #  keywords: ["technically not there yet was released in patch 3.5"]
