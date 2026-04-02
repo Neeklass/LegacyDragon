@@ -1,0 +1,103 @@
+{
+  "item_slug": "will-of-the-ancients",
+  "item_name": "Will of the Ancients",
+  "change_count": 8,
+  "timeline": [
+    {
+      "item_name": "Will of the Ancients",
+      "item_slug": "will-of-the-ancients",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "Will of the Ancients"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Will of the Ancients",
+      "item_slug": "will-of-the-ancients",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "Will of the Ancients"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Will of the Ancients",
+      "item_slug": "will-of-the-ancients",
+      "era": "season_one",
+      "patch_id": "1.0.0.108",
+      "matched_keywords": [
+        "Will of the Ancients"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.108/Release Notes v1.0.0.108 - League of Legends Community (16.3.2026 14：18：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.108"
+    },
+    {
+      "item_name": "Will of the Ancients",
+      "item_slug": "will-of-the-ancients",
+      "era": "season_one",
+      "patch_id": "1.0.0.115",
+      "matched_keywords": [
+        "Will of the Ancients"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.115/Release Notes v1.0.0.115 - League of Legends Community (16.3.2026 14：27：08).html",
+      "source_patch_dir": "patches/season_one/1.0.0.115"
+    },
+    {
+      "item_name": "Will of the Ancients",
+      "item_slug": "will-of-the-ancients",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "Will of the Ancients"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "Will of the Ancients",
+      "item_slug": "will-of-the-ancients",
+      "era": "season_one",
+      "patch_id": "1.0.0.94b",
+      "matched_keywords": [
+        "Will of the Ancients"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.94b/Release Notes： PVP.net v1.13.29 ＋ League of Legends 1.0.0.94(b) - League of Legends Community (16.3.2026 14：00：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.94b"
+    },
+    {
+      "item_name": "Will of the Ancients",
+      "item_slug": "will-of-the-ancients",
+      "era": "season_two",
+      "patch_id": "1.0.0.133",
+      "matched_keywords": [
+        "Will of the Ancients"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.133/Ziggs Patch Notes - League of Legends Community (16.3.2026 14：56：35).html",
+      "source_patch_dir": "patches/season_two/1.0.0.133"
+    },
+    {
+      "item_name": "Will of the Ancients",
+      "item_slug": "will-of-the-ancients",
+      "era": "season_two",
+      "patch_id": "1.0.0.139",
+      "matched_keywords": [
+        "Will of the Ancients"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.139/Spectator Mode Patch Notes - League of Legends Community (16.3.2026 15：08：02).html",
+      "source_patch_dir": "patches/season_two/1.0.0.139"
+    }
+  ]
+}

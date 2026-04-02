@@ -1,0 +1,67 @@
+{
+  "item_slug": "chalice-of-blessing",
+  "item_name": "Chalice of Blessing",
+  "change_count": 5,
+  "timeline": [
+    {
+      "item_name": "Chalice of Blessing",
+      "item_slug": "chalice-of-blessing",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "chalice"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Chalice of Blessing",
+      "item_slug": "chalice-of-blessing",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "chalice"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Chalice of Blessing",
+      "item_slug": "chalice-of-blessing",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "chalice"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "Chalice of Blessing",
+      "item_slug": "chalice-of-blessing",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "chalice"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "Chalice of Blessing",
+      "item_slug": "chalice-of-blessing",
+      "era": "season_one",
+      "patch_id": "1.0.0.83",
+      "matched_keywords": [
+        "chalice"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.83/Release Notes v1.0.0.83 - League of Legends Community (16.3.2026 13：55：42).html",
+      "source_patch_dir": "patches/season_one/1.0.0.83"
+    }
+  ]
+}

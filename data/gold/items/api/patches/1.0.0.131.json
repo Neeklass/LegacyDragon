@@ -1,0 +1,43 @@
+{
+  "patch_id": "1.0.0.131",
+  "era": "season_two",
+  "item_change_count": 17,
+  "items_changed": [
+    "Alacrity",
+    "Anathema's Chains",
+    "Bami's Cinder",
+    "Blade of the Ruined King",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Ionic Spark",
+    "Liandry's Anguish",
+    "Night Harvester",
+    "Phantom Dancer",
+    "Quicksilver Sash",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.131/alacrity.parquet",
+    "patches/season_two/1.0.0.131/anathema-s-chains.parquet",
+    "patches/season_two/1.0.0.131/bami-s-cinder.parquet",
+    "patches/season_two/1.0.0.131/blade-of-the-ruined-king.parquet",
+    "patches/season_two/1.0.0.131/boots-of-speed.parquet",
+    "patches/season_two/1.0.0.131/death-s-dance.parquet",
+    "patches/season_two/1.0.0.131/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.131/edge-of-night.parquet",
+    "patches/season_two/1.0.0.131/essence-reaver.parquet",
+    "patches/season_two/1.0.0.131/giant-slayer.parquet",
+    "patches/season_two/1.0.0.131/guardian-angel.parquet",
+    "patches/season_two/1.0.0.131/ionic-spark.parquet",
+    "patches/season_two/1.0.0.131/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.131/night-harvester.parquet",
+    "patches/season_two/1.0.0.131/phantom-dancer.parquet",
+    "patches/season_two/1.0.0.131/quicksilver-sash.parquet",
+    "patches/season_two/1.0.0.131/world-atlas.parquet"
+  ]
+}

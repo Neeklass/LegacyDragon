@@ -1,0 +1,35 @@
+{
+  "patch_id": "1.0.0.99",
+  "era": "season_one",
+  "item_change_count": 13,
+  "items_changed": [
+    "Anathema's Chains",
+    "Bami's Cinder",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Phantom Dancer",
+    "Radiant Virtue",
+    "Serylda's Grudge"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.99/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.99/bami-s-cinder.parquet",
+    "patches/season_one/1.0.0.99/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.99/death-s-dance.parquet",
+    "patches/season_one/1.0.0.99/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.99/edge-of-night.parquet",
+    "patches/season_one/1.0.0.99/essence-reaver.parquet",
+    "patches/season_one/1.0.0.99/giant-slayer.parquet",
+    "patches/season_one/1.0.0.99/guardian-angel.parquet",
+    "patches/season_one/1.0.0.99/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.99/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.99/radiant-virtue.parquet",
+    "patches/season_one/1.0.0.99/serylda-s-grudge.parquet"
+  ]
+}

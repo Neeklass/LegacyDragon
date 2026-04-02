@@ -1,0 +1,80 @@
+{
+  "item_slug": "blade-of-the-ruined-king",
+  "item_name": "Blade of the Ruined King",
+  "change_count": 6,
+  "timeline": [
+    {
+      "item_name": "Blade of the Ruined King",
+      "item_slug": "blade-of-the-ruined-king",
+      "era": "beta",
+      "patch_id": "2009-04-18",
+      "matched_keywords": [
+        "mist"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-04-18/Release Notes 04_18 - League of Legends Community (13.3.2026 15：27：39).html",
+      "source_patch_dir": "patches/beta/2009-04-18"
+    },
+    {
+      "item_name": "Blade of the Ruined King",
+      "item_slug": "blade-of-the-ruined-king",
+      "era": "beta",
+      "patch_id": "2009-06-06",
+      "matched_keywords": [
+        "mist"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-06/Release Notes 06_06 - League of Legends Community (13.3.2026 15：42：00).html",
+      "source_patch_dir": "patches/beta/2009-06-06"
+    },
+    {
+      "item_name": "Blade of the Ruined King",
+      "item_slug": "blade-of-the-ruined-king",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "mist"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Blade of the Ruined King",
+      "item_slug": "blade-of-the-ruined-king",
+      "era": "season_two",
+      "patch_id": "1.0.0.131",
+      "matched_keywords": [
+        "mist"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.131/Ahri Patch Notes - League of Legends Community (16.3.2026 14：53：58).html",
+      "source_patch_dir": "patches/season_two/1.0.0.131"
+    },
+    {
+      "item_name": "Blade of the Ruined King",
+      "item_slug": "blade-of-the-ruined-king",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "Blade of the Ruined King",
+        "mist"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    },
+    {
+      "item_name": "Blade of the Ruined King",
+      "item_slug": "blade-of-the-ruined-king",
+      "era": "season_two",
+      "patch_id": "1.0.0.151",
+      "matched_keywords": [
+        "mist"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.151/End of Season 2 Patch Notes - League of Legends Community (16.3.2026 15：33：33).html",
+      "source_patch_dir": "patches/season_two/1.0.0.151"
+    }
+  ]
+}

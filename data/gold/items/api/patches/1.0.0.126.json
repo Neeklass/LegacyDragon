@@ -1,0 +1,37 @@
+{
+  "patch_id": "1.0.0.126",
+  "era": "season_two",
+  "item_change_count": 14,
+  "items_changed": [
+    "Anathema's Chains",
+    "Bami's Cinder",
+    "Blighting Jewel",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Guardian Angel",
+    "Last Whisper",
+    "Liandry's Anguish",
+    "Magus",
+    "Phantom Dancer",
+    "Quicksilver Sash",
+    "Serylda's Grudge",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.126/anathema-s-chains.parquet",
+    "patches/season_two/1.0.0.126/bami-s-cinder.parquet",
+    "patches/season_two/1.0.0.126/blighting-jewel.parquet",
+    "patches/season_two/1.0.0.126/death-s-dance.parquet",
+    "patches/season_two/1.0.0.126/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.126/essence-reaver.parquet",
+    "patches/season_two/1.0.0.126/guardian-angel.parquet",
+    "patches/season_two/1.0.0.126/last-whisper.parquet",
+    "patches/season_two/1.0.0.126/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.126/magus.parquet",
+    "patches/season_two/1.0.0.126/phantom-dancer.parquet",
+    "patches/season_two/1.0.0.126/quicksilver-sash.parquet",
+    "patches/season_two/1.0.0.126/serylda-s-grudge.parquet",
+    "patches/season_two/1.0.0.126/world-atlas.parquet"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "patch_id": "1.0.0.94b",
+  "era": "season_one",
+  "item_change_count": 14,
+  "items_changed": [
+    "Anathema's Chains",
+    "Blighting Jewel",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Hellfire Hatchet",
+    "Innervating Locket",
+    "Liandry's Anguish",
+    "Radiant Virtue",
+    "Will of the Ancients",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.94b/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.94b/blighting-jewel.parquet",
+    "patches/season_one/1.0.0.94b/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.94b/death-s-dance.parquet",
+    "patches/season_one/1.0.0.94b/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.94b/essence-reaver.parquet",
+    "patches/season_one/1.0.0.94b/giant-slayer.parquet",
+    "patches/season_one/1.0.0.94b/guardian-angel.parquet",
+    "patches/season_one/1.0.0.94b/hellfire-hatchet.parquet",
+    "patches/season_one/1.0.0.94b/innervating-locket.parquet",
+    "patches/season_one/1.0.0.94b/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.94b/radiant-virtue.parquet",
+    "patches/season_one/1.0.0.94b/will-of-the-ancients.parquet",
+    "patches/season_one/1.0.0.94b/world-atlas.parquet"
+  ]
+}

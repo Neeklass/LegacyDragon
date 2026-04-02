@@ -1,0 +1,19 @@
+{
+  "item_slug": "mosstomper-seedling",
+  "item_name": "Mosstomper Seedling",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Mosstomper Seedling",
+      "item_slug": "mosstomper-seedling",
+      "era": "beta",
+      "patch_id": "0.9.22.9",
+      "matched_keywords": [
+        "frog"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.9/Release Notes 08_12_09 - League of Legends Community (13.3.2026 16：00：52).html",
+      "source_patch_dir": "patches/beta/0.9.22.9"
+    }
+  ]
+}

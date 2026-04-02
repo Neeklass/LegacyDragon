@@ -1,0 +1,199 @@
+{
+  "item_slug": "banner-of-command",
+  "item_name": "Banner of Command",
+  "change_count": 16,
+  "timeline": [
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "beta",
+      "patch_id": "0.9.22.18",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.18/Release Notes v0.9.22.18 - League of Legends Community (13.3.2026 16：03：39).html",
+      "source_patch_dir": "patches/beta/0.9.22.18"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 4,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.104",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.104/Release Notes v1.0.0.104 - League of Legends Community (16.3.2026 14：13：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.104"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.112",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.112/Release Notes v1.0.0.112 - League of Legends Community (16.3.2026 14：23：14).html",
+      "source_patch_dir": "patches/season_one/1.0.0.112"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.115",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.115/Release Notes v1.0.0.115 - League of Legends Community (16.3.2026 14：27：08).html",
+      "source_patch_dir": "patches/season_one/1.0.0.115"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.121",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.121/Release Notes v1.0.0.121 - League of Legends Community (16.3.2026 14：35：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.121"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 4,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.74",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.74/Release Notes v1.0.0.74 - League of Legends Community (16.3.2026 13：49：03).html",
+      "source_patch_dir": "patches/season_one/1.0.0.74"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_two",
+      "patch_id": "1.0.0.129",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.129/Fizz Patch Notes - League of Legends Community (16.3.2026 14：51：37).html",
+      "source_patch_dir": "patches/season_two/1.0.0.129"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_two",
+      "patch_id": "1.0.0.143",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.143/Mid-July Patch Notes - League of Legends Community (16.3.2026 15：17：28).html",
+      "source_patch_dir": "patches/season_two/1.0.0.143"
+    },
+    {
+      "item_name": "Banner of Command",
+      "item_slug": "banner-of-command",
+      "era": "season_two",
+      "patch_id": "1.0.0.147",
+      "matched_keywords": [
+        "flag"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.147/Mid September Patch Notes - League of Legends Community (16.3.2026 15：25：10).html",
+      "source_patch_dir": "patches/season_two/1.0.0.147"
+    }
+  ]
+}

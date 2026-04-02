@@ -1,0 +1,43 @@
+{
+  "item_slug": "entropy",
+  "item_name": "Entropy",
+  "change_count": 3,
+  "timeline": [
+    {
+      "item_name": "Entropy",
+      "item_slug": "entropy",
+      "era": "beta",
+      "patch_id": "0.8.22.115",
+      "matched_keywords": [
+        "Entropy"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.22.115/Release Notes v0.8.22.115 - League of Legends Community (13.3.2026 15：57：26).html",
+      "source_patch_dir": "patches/beta/0.8.22.115"
+    },
+    {
+      "item_name": "Entropy",
+      "item_slug": "entropy",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Entropy"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Entropy",
+      "item_slug": "entropy",
+      "era": "beta",
+      "patch_id": "0.9.22.7",
+      "matched_keywords": [
+        "Entropy"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.7/Release Notes 08_07 - League of Legends Community (13.3.2026 15：59：37).html",
+      "source_patch_dir": "patches/beta/0.9.22.7"
+    }
+  ]
+}

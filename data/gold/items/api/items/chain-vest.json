@@ -1,0 +1,31 @@
+{
+  "item_slug": "chain-vest",
+  "item_name": "Chain Vest",
+  "change_count": 2,
+  "timeline": [
+    {
+      "item_name": "Chain Vest",
+      "item_slug": "chain-vest",
+      "era": "season_one",
+      "patch_id": "1.0.0.109",
+      "matched_keywords": [
+        "Chain Vest"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.109/Release Notes v1.0.0.109 - League of Legends Community (16.3.2026 14：19：48).html",
+      "source_patch_dir": "patches/season_one/1.0.0.109"
+    },
+    {
+      "item_name": "Chain Vest",
+      "item_slug": "chain-vest",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Chain Vest"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    }
+  ]
+}

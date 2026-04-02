@@ -1,0 +1,31 @@
+{
+  "item_slug": "sword-of-the-occult",
+  "item_name": "Sword of the Occult",
+  "change_count": 2,
+  "timeline": [
+    {
+      "item_name": "Sword of the Occult",
+      "item_slug": "sword-of-the-occult",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Sword of the Occult"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Sword of the Occult",
+      "item_slug": "sword-of-the-occult",
+      "era": "season_one",
+      "patch_id": "1.0.0.79",
+      "matched_keywords": [
+        "Sword of the Occult"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.79/Release Notes v1.0.0.79 - League of Legends Community (16.3.2026 13：51：12).html",
+      "source_patch_dir": "patches/season_one/1.0.0.79"
+    }
+  ]
+}

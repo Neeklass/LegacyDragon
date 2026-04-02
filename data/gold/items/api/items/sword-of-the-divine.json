@@ -1,0 +1,79 @@
+{
+  "item_slug": "sword-of-the-divine",
+  "item_name": "Sword of the Divine",
+  "change_count": 6,
+  "timeline": [
+    {
+      "item_name": "Sword of the Divine",
+      "item_slug": "sword-of-the-divine",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "Sword of the Divine"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Sword of the Divine",
+      "item_slug": "sword-of-the-divine",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "Sword of the Divine"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Sword of the Divine",
+      "item_slug": "sword-of-the-divine",
+      "era": "season_one",
+      "patch_id": "1.0.0.116",
+      "matched_keywords": [
+        "Sword of the Divine"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.116/Release Notes v1.0.0.116 - League of Legends Community (16.3.2026 14：29：25).html",
+      "source_patch_dir": "patches/season_one/1.0.0.116"
+    },
+    {
+      "item_name": "Sword of the Divine",
+      "item_slug": "sword-of-the-divine",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Sword of the Divine"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Sword of the Divine",
+      "item_slug": "sword-of-the-divine",
+      "era": "season_one",
+      "patch_id": "1.0.0.94",
+      "matched_keywords": [
+        "Sword of the Divine"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.94/Release Notes v1.0.0.94 - League of Legends Community (16.3.2026 13：59：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.94"
+    },
+    {
+      "item_name": "Sword of the Divine",
+      "item_slug": "sword-of-the-divine",
+      "era": "season_two",
+      "patch_id": "1.0.0.132",
+      "matched_keywords": [
+        "Sword of the Divine"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.132/Sejuani Patch Notes - League of Legends Community (16.3.2026 14：55：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.132"
+    }
+  ]
+}

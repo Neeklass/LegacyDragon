@@ -1,0 +1,27 @@
+{
+  "patch_id": "1.0.0.102",
+  "era": "season_one",
+  "item_change_count": 9,
+  "items_changed": [
+    "Anathema's Chains",
+    "Boots of Speed",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Manamune",
+    "Phantom Dancer",
+    "Serylda's Grudge"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.102/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.102/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.102/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.102/essence-reaver.parquet",
+    "patches/season_one/1.0.0.102/guardian-angel.parquet",
+    "patches/season_one/1.0.0.102/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.102/manamune.parquet",
+    "patches/season_one/1.0.0.102/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.102/serylda-s-grudge.parquet"
+  ]
+}

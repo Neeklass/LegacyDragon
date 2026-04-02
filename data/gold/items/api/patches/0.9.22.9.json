@@ -1,0 +1,31 @@
+{
+  "patch_id": "0.9.22.9",
+  "era": "beta",
+  "item_change_count": 11,
+  "items_changed": [
+    "Anathema's Chains",
+    "Blighting Jewel",
+    "Blue Pill",
+    "Boots of Speed",
+    "Essence Reaver",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Mosstomper Seedling",
+    "Phantom Dancer",
+    "Rabadon's Deathcap",
+    "Radiant Virtue"
+  ],
+  "source_files": [
+    "patches/beta/0.9.22.9/anathema-s-chains.parquet",
+    "patches/beta/0.9.22.9/blighting-jewel.parquet",
+    "patches/beta/0.9.22.9/blue-pill.parquet",
+    "patches/beta/0.9.22.9/boots-of-speed.parquet",
+    "patches/beta/0.9.22.9/essence-reaver.parquet",
+    "patches/beta/0.9.22.9/guardian-angel.parquet",
+    "patches/beta/0.9.22.9/liandry-s-anguish.parquet",
+    "patches/beta/0.9.22.9/mosstomper-seedling.parquet",
+    "patches/beta/0.9.22.9/phantom-dancer.parquet",
+    "patches/beta/0.9.22.9/rabadon-s-deathcap.parquet",
+    "patches/beta/0.9.22.9/radiant-virtue.parquet"
+  ]
+}

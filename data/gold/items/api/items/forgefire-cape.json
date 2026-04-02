@@ -1,0 +1,55 @@
+{
+  "item_slug": "forgefire-cape",
+  "item_name": "Forgefire Cape",
+  "change_count": 4,
+  "timeline": [
+    {
+      "item_name": "Forgefire Cape",
+      "item_slug": "forgefire-cape",
+      "era": "season_one",
+      "patch_id": "1.0.0.121",
+      "matched_keywords": [
+        "forge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.121/Release Notes v1.0.0.121 - League of Legends Community (16.3.2026 14：35：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.121"
+    },
+    {
+      "item_name": "Forgefire Cape",
+      "item_slug": "forgefire-cape",
+      "era": "season_one",
+      "patch_id": "1.0.0.122",
+      "matched_keywords": [
+        "forge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.122/Release Notes v1.0.0.122 - League of Legends Community (16.3.2026 14：36：19).html",
+      "source_patch_dir": "patches/season_one/1.0.0.122"
+    },
+    {
+      "item_name": "Forgefire Cape",
+      "item_slug": "forgefire-cape",
+      "era": "season_one",
+      "patch_id": "1.0.0.74",
+      "matched_keywords": [
+        "forge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.74/Release Notes v1.0.0.74 - League of Legends Community (16.3.2026 13：49：03).html",
+      "source_patch_dir": "patches/season_one/1.0.0.74"
+    },
+    {
+      "item_name": "Forgefire Cape",
+      "item_slug": "forgefire-cape",
+      "era": "season_two",
+      "patch_id": "1.0.0.142",
+      "matched_keywords": [
+        "forge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.142/Jayce Patch Notes - League of Legends Community (16.3.2026 15：16：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.142"
+    }
+  ]
+}

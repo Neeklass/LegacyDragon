@@ -1,0 +1,91 @@
+{
+  "item_slug": "black-spear",
+  "item_name": "Black Spear",
+  "change_count": 7,
+  "timeline": [
+    {
+      "item_name": "Black Spear",
+      "item_slug": "black-spear",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "spear"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Black Spear",
+      "item_slug": "black-spear",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "spear"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Black Spear",
+      "item_slug": "black-spear",
+      "era": "season_one",
+      "patch_id": "1.0.0.123",
+      "matched_keywords": [
+        "spear"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.123/Release Notes v1.0.0.123 - League of Legends Community (16.3.2026 14：37：26).html",
+      "source_patch_dir": "patches/season_one/1.0.0.123"
+    },
+    {
+      "item_name": "Black Spear",
+      "item_slug": "black-spear",
+      "era": "season_one",
+      "patch_id": "1.0.0.72",
+      "matched_keywords": [
+        "spear"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.72/Release Notes v1.0.0.72 - League of Legends Community (16.3.2026 13：48：02).html",
+      "source_patch_dir": "patches/season_one/1.0.0.72"
+    },
+    {
+      "item_name": "Black Spear",
+      "item_slug": "black-spear",
+      "era": "season_one",
+      "patch_id": "1.0.0.85",
+      "matched_keywords": [
+        "spear"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.85/Release Notes v1.0.0.85 - League of Legends Community (16.3.2026 13：56：49).html",
+      "source_patch_dir": "patches/season_one/1.0.0.85"
+    },
+    {
+      "item_name": "Black Spear",
+      "item_slug": "black-spear",
+      "era": "season_one",
+      "patch_id": "1.0.0.94",
+      "matched_keywords": [
+        "spear"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.94/Release Notes v1.0.0.94 - League of Legends Community (16.3.2026 13：59：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.94"
+    },
+    {
+      "item_name": "Black Spear",
+      "item_slug": "black-spear",
+      "era": "season_one",
+      "patch_id": "1.0.0.96",
+      "matched_keywords": [
+        "spear"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.96/Season 1 Release Notes - League of Legends Community (16.3.2026 14：01：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.96"
+    }
+  ]
+}

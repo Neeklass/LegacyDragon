@@ -1,0 +1,43 @@
+{
+  "patch_id": "1.0.0.141",
+  "era": "season_two",
+  "item_change_count": 17,
+  "items_changed": [
+    "Anathema's Chains",
+    "Blighting Jewel",
+    "Boots of Speed",
+    "Captain",
+    "Death's Dance",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Last Whisper",
+    "Liandry's Anguish",
+    "Lord Dominik's Regards",
+    "Mana Potion",
+    "Phantom Dancer",
+    "Radiant Virtue",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.141/anathema-s-chains.parquet",
+    "patches/season_two/1.0.0.141/blighting-jewel.parquet",
+    "patches/season_two/1.0.0.141/boots-of-speed.parquet",
+    "patches/season_two/1.0.0.141/captain.parquet",
+    "patches/season_two/1.0.0.141/death-s-dance.parquet",
+    "patches/season_two/1.0.0.141/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.141/edge-of-night.parquet",
+    "patches/season_two/1.0.0.141/essence-reaver.parquet",
+    "patches/season_two/1.0.0.141/giant-slayer.parquet",
+    "patches/season_two/1.0.0.141/guardian-angel.parquet",
+    "patches/season_two/1.0.0.141/last-whisper.parquet",
+    "patches/season_two/1.0.0.141/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.141/lord-dominik-s-regards.parquet",
+    "patches/season_two/1.0.0.141/mana-potion.parquet",
+    "patches/season_two/1.0.0.141/phantom-dancer.parquet",
+    "patches/season_two/1.0.0.141/radiant-virtue.parquet",
+    "patches/season_two/1.0.0.141/world-atlas.parquet"
+  ]
+}

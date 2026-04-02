@@ -1,0 +1,151 @@
+{
+  "item_slug": "force-of-arms",
+  "item_name": "Force of Arms",
+  "change_count": 12,
+  "timeline": [
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "beta",
+      "patch_id": "0.9.25.24",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.24/Release Notes - v09.25.24 - League of Legends Community (13.3.2026 16：05：40).html",
+      "source_patch_dir": "patches/beta/0.9.25.24"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "beta",
+      "patch_id": "0.9.25.34",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.34/Release Notes - v0.9.25.34 - League of Legends Community (13.3.2026 16：06：41).html",
+      "source_patch_dir": "patches/beta/0.9.25.34"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "season_one",
+      "patch_id": "1.0.0.115",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.115/Release Notes v1.0.0.115 - League of Legends Community (16.3.2026 14：27：08).html",
+      "source_patch_dir": "patches/season_one/1.0.0.115"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "season_one",
+      "patch_id": "1.0.0.122",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.122/Release Notes v1.0.0.122 - League of Legends Community (16.3.2026 14：36：19).html",
+      "source_patch_dir": "patches/season_one/1.0.0.122"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "season_one",
+      "patch_id": "1.0.0.98",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.98/Release Notes v1.0.0.98 - League of Legends Community (16.3.2026 14：03：50).html",
+      "source_patch_dir": "patches/season_one/1.0.0.98"
+    },
+    {
+      "item_name": "Force of Arms",
+      "item_slug": "force-of-arms",
+      "era": "season_two",
+      "patch_id": "1.0.0.127",
+      "matched_keywords": [
+        "gun"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_two/1.0.0.127/Graves Patch Notes - League of Legends Community (16.3.2026 14：49：17).html",
+      "source_patch_dir": "patches/season_two/1.0.0.127"
+    }
+  ]
+}

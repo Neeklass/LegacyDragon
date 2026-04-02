@@ -1,0 +1,43 @@
+{
+  "patch_id": "1.0.0.85",
+  "era": "season_one",
+  "item_change_count": 17,
+  "items_changed": [
+    "Anathema's Chains",
+    "Black Spear",
+    "Blighting Jewel",
+    "Bloodthirster",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Leviathan",
+    "Liandry's Anguish",
+    "Phantom Dancer",
+    "Regrowth Pendant",
+    "Stinger",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.85/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.85/black-spear.parquet",
+    "patches/season_one/1.0.0.85/blighting-jewel.parquet",
+    "patches/season_one/1.0.0.85/bloodthirster.parquet",
+    "patches/season_one/1.0.0.85/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.85/death-s-dance.parquet",
+    "patches/season_one/1.0.0.85/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.85/edge-of-night.parquet",
+    "patches/season_one/1.0.0.85/essence-reaver.parquet",
+    "patches/season_one/1.0.0.85/giant-slayer.parquet",
+    "patches/season_one/1.0.0.85/guardian-angel.parquet",
+    "patches/season_one/1.0.0.85/leviathan.parquet",
+    "patches/season_one/1.0.0.85/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.85/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.85/regrowth-pendant.parquet",
+    "patches/season_one/1.0.0.85/stinger.parquet",
+    "patches/season_one/1.0.0.85/world-atlas.parquet"
+  ]
+}

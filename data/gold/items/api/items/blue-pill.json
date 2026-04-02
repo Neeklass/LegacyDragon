@@ -1,0 +1,55 @@
+{
+  "item_slug": "blue-pill",
+  "item_name": "Blue Pill",
+  "change_count": 4,
+  "timeline": [
+    {
+      "item_name": "Blue Pill",
+      "item_slug": "blue-pill",
+      "era": "alpha",
+      "patch_id": "alpha_week_5",
+      "matched_keywords": [
+        "Blue Pill"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_5/Week 5 Release Notes - League of Legends Community (11.3.2026 14：24：16).html",
+      "source_patch_dir": "patches/alpha/alpha_week_5"
+    },
+    {
+      "item_name": "Blue Pill",
+      "item_slug": "blue-pill",
+      "era": "beta",
+      "patch_id": "0.8.22.115",
+      "matched_keywords": [
+        "Blue Pill"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.22.115/Release Notes v0.8.22.115 - League of Legends Community (13.3.2026 15：57：26).html",
+      "source_patch_dir": "patches/beta/0.8.22.115"
+    },
+    {
+      "item_name": "Blue Pill",
+      "item_slug": "blue-pill",
+      "era": "beta",
+      "patch_id": "0.9.22.9",
+      "matched_keywords": [
+        "Blue Pill"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/beta/0.9.22.9/Release Notes 08_12_09 - League of Legends Community (13.3.2026 16：00：52).html",
+      "source_patch_dir": "patches/beta/0.9.22.9"
+    },
+    {
+      "item_name": "Blue Pill",
+      "item_slug": "blue-pill",
+      "era": "beta",
+      "patch_id": "2009-06-19",
+      "matched_keywords": [
+        "Blue Pill"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-19/Release Notes 06_19 - League of Legends Community (13.3.2026 15：50：15).html",
+      "source_patch_dir": "patches/beta/2009-06-19"
+    }
+  ]
+}

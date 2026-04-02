@@ -1,0 +1,55 @@
+{
+  "item_slug": "cloak-of-agility",
+  "item_name": "Cloak of Agility",
+  "change_count": 4,
+  "timeline": [
+    {
+      "item_name": "Cloak of Agility",
+      "item_slug": "cloak-of-agility",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "Cloak of Agility"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Cloak of Agility",
+      "item_slug": "cloak-of-agility",
+      "era": "beta",
+      "patch_id": "2009-04-11",
+      "matched_keywords": [
+        "Cloak of Agility"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-04-11/Release Notes 04_11 - League of Legends Community (13.3.2026 15：25：42).html",
+      "source_patch_dir": "patches/beta/2009-04-11"
+    },
+    {
+      "item_name": "Cloak of Agility",
+      "item_slug": "cloak-of-agility",
+      "era": "season_one",
+      "patch_id": "1.0.0.115",
+      "matched_keywords": [
+        "Cloak of Agility"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.115/Release Notes v1.0.0.115 - League of Legends Community (16.3.2026 14：27：08).html",
+      "source_patch_dir": "patches/season_one/1.0.0.115"
+    },
+    {
+      "item_name": "Cloak of Agility",
+      "item_slug": "cloak-of-agility",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "Cloak of Agility"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    }
+  ]
+}

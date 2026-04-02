@@ -1,0 +1,175 @@
+{
+  "item_slug": "boots",
+  "item_name": "Boots",
+  "change_count": 14,
+  "timeline": [
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "alpha",
+      "patch_id": "alpha_week_3",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_3/Week 3 Release Notes - League of Legends Community (11.3.2026 14：19：37).html",
+      "source_patch_dir": "patches/alpha/alpha_week_3"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "beta",
+      "patch_id": "0.9.25.24",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.24/Release Notes - v09.25.24 - League of Legends Community (13.3.2026 16：05：40).html",
+      "source_patch_dir": "patches/beta/0.9.25.24"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "beta",
+      "patch_id": "2009-06-26",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-26/Release Notes 06_26 - League of Legends Community (13.3.2026 15：51：45).html",
+      "source_patch_dir": "patches/beta/2009-06-26"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "season_one",
+      "patch_id": "1.0.0.108",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.108/Release Notes v1.0.0.108 - League of Legends Community (16.3.2026 14：18：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.108"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "season_one",
+      "patch_id": "1.0.0.110",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.110/Release Notes v1.0.0.110 - League of Legends Community (16.3.2026 14：20：52).html",
+      "source_patch_dir": "patches/season_one/1.0.0.110"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "season_one",
+      "patch_id": "1.0.0.111",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.111/Release Notes v1.0.0.111 - League of Legends Community (16.3.2026 14：22：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.111"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "season_one",
+      "patch_id": "1.0.0.120",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.120/League of Legends v1.0.0.120 - League of Legends Community (16.3.2026 14：33：29).html",
+      "source_patch_dir": "patches/season_one/1.0.0.120"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "season_one",
+      "patch_id": "1.0.0.70",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.70/Release Notes v1.0.0.70 - League of Legends Community (16.3.2026 13：45：35).html",
+      "source_patch_dir": "patches/season_one/1.0.0.70"
+    },
+    {
+      "item_name": "Boots",
+      "item_slug": "boots",
+      "era": "season_two",
+      "patch_id": "1.0.0.144",
+      "matched_keywords": [
+        "Boots"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.144/Early August Patch Notes - League of Legends Community (16.3.2026 15：18：50).html",
+      "source_patch_dir": "patches/season_two/1.0.0.144"
+    }
+  ]
+}

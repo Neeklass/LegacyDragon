@@ -1,0 +1,67 @@
+{
+  "item_slug": "cull",
+  "item_name": "Cull",
+  "change_count": 5,
+  "timeline": [
+    {
+      "item_name": "Cull",
+      "item_slug": "cull",
+      "era": "season_one",
+      "patch_id": "1.0.0.109",
+      "matched_keywords": [
+        "Cull"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.109/Release Notes v1.0.0.109 - League of Legends Community (16.3.2026 14：19：48).html",
+      "source_patch_dir": "patches/season_one/1.0.0.109"
+    },
+    {
+      "item_name": "Cull",
+      "item_slug": "cull",
+      "era": "season_one",
+      "patch_id": "1.0.0.110",
+      "matched_keywords": [
+        "Cull"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.110/Release Notes v1.0.0.110 - League of Legends Community (16.3.2026 14：20：52).html",
+      "source_patch_dir": "patches/season_one/1.0.0.110"
+    },
+    {
+      "item_name": "Cull",
+      "item_slug": "cull",
+      "era": "season_one",
+      "patch_id": "1.0.0.115",
+      "matched_keywords": [
+        "Cull"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.115/Release Notes v1.0.0.115 - League of Legends Community (16.3.2026 14：27：08).html",
+      "source_patch_dir": "patches/season_one/1.0.0.115"
+    },
+    {
+      "item_name": "Cull",
+      "item_slug": "cull",
+      "era": "season_one",
+      "patch_id": "1.0.0.120",
+      "matched_keywords": [
+        "Cull"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.120/League of Legends v1.0.0.120 - League of Legends Community (16.3.2026 14：33：29).html",
+      "source_patch_dir": "patches/season_one/1.0.0.120"
+    },
+    {
+      "item_name": "Cull",
+      "item_slug": "cull",
+      "era": "season_two",
+      "patch_id": "1.0.0.140",
+      "matched_keywords": [
+        "Cull"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.140/Darius Patch Notes - League of Legends Community (16.3.2026 15：10：10).html",
+      "source_patch_dir": "patches/season_two/1.0.0.140"
+    }
+  ]
+}

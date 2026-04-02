@@ -1,0 +1,188 @@
+{
+  "item_slug": "amplifying-tome",
+  "item_name": "Amplifying Tome",
+  "change_count": 15,
+  "timeline": [
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "beta",
+      "patch_id": "0.8.21.110",
+      "matched_keywords": [
+        "Amplifying Tome",
+        "book"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/beta/0.8.21.110/Release Notes Beta - Build v0.8.21.110 - League of Legends Community (13.3.2026 15：55：14).html",
+      "source_patch_dir": "patches/beta/0.8.21.110"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "beta",
+      "patch_id": "0.9.22.7",
+      "matched_keywords": [
+        "book"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.7/Release Notes 08_07 - League of Legends Community (13.3.2026 15：59：37).html",
+      "source_patch_dir": "patches/beta/0.9.22.7"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "beta",
+      "patch_id": "0.9.25.34",
+      "matched_keywords": [
+        "book"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.34/Release Notes - v0.9.25.34 - League of Legends Community (13.3.2026 16：06：41).html",
+      "source_patch_dir": "patches/beta/0.9.25.34"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "beta",
+      "patch_id": "2009-06-26",
+      "matched_keywords": [
+        "Amplifying Tome"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-06-26/Release Notes 06_26 - League of Legends Community (13.3.2026 15：51：45).html",
+      "source_patch_dir": "patches/beta/2009-06-26"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "book"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "Amplifying Tome"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_one",
+      "patch_id": "1.0.0.52",
+      "matched_keywords": [
+        "book"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.52/Release Notes v 1.0.0.52 - League of Legends Community (16.3.2026 13：40：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.52"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "Amplifying Tome"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Amplifying Tome"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "book"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_one",
+      "patch_id": "1.0.0.74",
+      "matched_keywords": [
+        "Amplifying Tome"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.74/Release Notes v1.0.0.74 - League of Legends Community (16.3.2026 13：49：03).html",
+      "source_patch_dir": "patches/season_one/1.0.0.74"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_one",
+      "patch_id": "1.0.0.87",
+      "matched_keywords": [
+        "book"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.87/Release Notes v1.0.0.87 - League of Legends Community (16.3.2026 13：58：31).html",
+      "source_patch_dir": "patches/season_one/1.0.0.87"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_one",
+      "patch_id": "1.0.0.98",
+      "matched_keywords": [
+        "book"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.98/Release Notes v1.0.0.98 - League of Legends Community (16.3.2026 14：03：50).html",
+      "source_patch_dir": "patches/season_one/1.0.0.98"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "Amplifying Tome"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    },
+    {
+      "item_name": "Amplifying Tome",
+      "item_slug": "amplifying-tome",
+      "era": "season_two",
+      "patch_id": "1.0.0.151",
+      "matched_keywords": [
+        "Amplifying Tome"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.151/End of Season 2 Patch Notes - League of Legends Community (16.3.2026 15：33：33).html",
+      "source_patch_dir": "patches/season_two/1.0.0.151"
+    }
+  ]
+}

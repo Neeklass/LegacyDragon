@@ -1,0 +1,41 @@
+{
+  "patch_id": "1.0.0.70",
+  "era": "season_one",
+  "item_change_count": 16,
+  "items_changed": [
+    "Anathema's Chains",
+    "Bloodrazor",
+    "Boots",
+    "Boots of Speed",
+    "Boots of Swiftness",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Eye of the Storm",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Last Whisper",
+    "Liandry's Anguish",
+    "Night Harvester",
+    "Phantom Dancer",
+    "Serylda's Grudge"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.70/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.70/bloodrazor.parquet",
+    "patches/season_one/1.0.0.70/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.70/boots-of-swiftness.parquet",
+    "patches/season_one/1.0.0.70/boots.parquet",
+    "patches/season_one/1.0.0.70/death-s-dance.parquet",
+    "patches/season_one/1.0.0.70/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.70/essence-reaver.parquet",
+    "patches/season_one/1.0.0.70/eye-of-the-storm.parquet",
+    "patches/season_one/1.0.0.70/giant-slayer.parquet",
+    "patches/season_one/1.0.0.70/guardian-angel.parquet",
+    "patches/season_one/1.0.0.70/last-whisper.parquet",
+    "patches/season_one/1.0.0.70/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.70/night-harvester.parquet",
+    "patches/season_one/1.0.0.70/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.70/serylda-s-grudge.parquet"
+  ]
+}

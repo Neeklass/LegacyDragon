@@ -1,0 +1,103 @@
+{
+  "item_slug": "infinity-edge",
+  "item_name": "Infinity Edge",
+  "change_count": 8,
+  "timeline": [
+    {
+      "item_name": "Infinity Edge",
+      "item_slug": "infinity-edge",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "Infinity Edge"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Infinity Edge",
+      "item_slug": "infinity-edge",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "Infinity Edge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Infinity Edge",
+      "item_slug": "infinity-edge",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Infinity Edge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Infinity Edge",
+      "item_slug": "infinity-edge",
+      "era": "beta",
+      "patch_id": "2009-04-11",
+      "matched_keywords": [
+        "Infinity Edge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-04-11/Release Notes 04_11 - League of Legends Community (13.3.2026 15：25：42).html",
+      "source_patch_dir": "patches/beta/2009-04-11"
+    },
+    {
+      "item_name": "Infinity Edge",
+      "item_slug": "infinity-edge",
+      "era": "beta",
+      "patch_id": "2009-04-18",
+      "matched_keywords": [
+        "Infinity Edge"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-04-18/Release Notes 04_18 - League of Legends Community (13.3.2026 15：27：39).html",
+      "source_patch_dir": "patches/beta/2009-04-18"
+    },
+    {
+      "item_name": "Infinity Edge",
+      "item_slug": "infinity-edge",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Infinity Edge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Infinity Edge",
+      "item_slug": "infinity-edge",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "Infinity Edge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Infinity Edge",
+      "item_slug": "infinity-edge",
+      "era": "season_one",
+      "patch_id": "1.0.0.115",
+      "matched_keywords": [
+        "Infinity Edge"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.115/Release Notes v1.0.0.115 - League of Legends Community (16.3.2026 14：27：08).html",
+      "source_patch_dir": "patches/season_one/1.0.0.115"
+    }
+  ]
+}

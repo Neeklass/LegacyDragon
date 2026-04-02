@@ -1,0 +1,41 @@
+{
+  "patch_id": "2009-05-23",
+  "era": "beta",
+  "item_change_count": 16,
+  "items_changed": [
+    "Anathema's Chains",
+    "Blighting Jewel",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Last Whisper",
+    "Liandry's Anguish",
+    "Long Sword",
+    "Mana Manipulator",
+    "Night Harvester",
+    "Radiant Virtue",
+    "Serylda's Grudge",
+    "Teleport"
+  ],
+  "source_files": [
+    "patches/beta/2009-05-23/anathema-s-chains.parquet",
+    "patches/beta/2009-05-23/blighting-jewel.parquet",
+    "patches/beta/2009-05-23/boots-of-speed.parquet",
+    "patches/beta/2009-05-23/death-s-dance.parquet",
+    "patches/beta/2009-05-23/edge-of-finality.parquet",
+    "patches/beta/2009-05-23/essence-reaver.parquet",
+    "patches/beta/2009-05-23/giant-slayer.parquet",
+    "patches/beta/2009-05-23/guardian-angel.parquet",
+    "patches/beta/2009-05-23/last-whisper.parquet",
+    "patches/beta/2009-05-23/liandry-s-anguish.parquet",
+    "patches/beta/2009-05-23/long-sword.parquet",
+    "patches/beta/2009-05-23/mana-manipulator.parquet",
+    "patches/beta/2009-05-23/night-harvester.parquet",
+    "patches/beta/2009-05-23/radiant-virtue.parquet",
+    "patches/beta/2009-05-23/serylda-s-grudge.parquet",
+    "patches/beta/2009-05-23/teleport.parquet"
+  ]
+}

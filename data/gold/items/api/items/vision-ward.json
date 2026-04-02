@@ -1,0 +1,271 @@
+{
+  "item_slug": "vision-ward",
+  "item_name": "Vision Ward",
+  "change_count": 22,
+  "timeline": [
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "beta",
+      "patch_id": "0.8.22.115",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.22.115/Release Notes v0.8.22.115 - League of Legends Community (13.3.2026 15：57：26).html",
+      "source_patch_dir": "patches/beta/0.8.22.115"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "beta",
+      "patch_id": "0.9.25.34",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.34/Release Notes - v0.9.25.34 - League of Legends Community (13.3.2026 16：06：41).html",
+      "source_patch_dir": "patches/beta/0.9.25.34"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "beta",
+      "patch_id": "2009-05-29",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-05-29/Release Notes 05_29 - League of Legends Community (13.3.2026 15：40：40).html",
+      "source_patch_dir": "patches/beta/2009-05-29"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "beta",
+      "patch_id": "2009-06-06",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-06/Release Notes 06_06 - League of Legends Community (13.3.2026 15：42：00).html",
+      "source_patch_dir": "patches/beta/2009-06-06"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "beta",
+      "patch_id": "2009-06-26",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-26/Release Notes 06_26 - League of Legends Community (13.3.2026 15：51：45).html",
+      "source_patch_dir": "patches/beta/2009-06-26"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.108",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.108/Release Notes v1.0.0.108 - League of Legends Community (16.3.2026 14：18：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.108"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.109",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.109/Release Notes v1.0.0.109 - League of Legends Community (16.3.2026 14：19：48).html",
+      "source_patch_dir": "patches/season_one/1.0.0.109"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.111",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.111/Release Notes v1.0.0.111 - League of Legends Community (16.3.2026 14：22：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.111"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.112",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.112/Release Notes v1.0.0.112 - League of Legends Community (16.3.2026 14：23：14).html",
+      "source_patch_dir": "patches/season_one/1.0.0.112"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.52",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.52/Release Notes v 1.0.0.52 - League of Legends Community (16.3.2026 13：40：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.52"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_two",
+      "patch_id": "1.0.0.134",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.134/Nautilus Patch Notes - League of Legends Community (16.3.2026 14：58：08).html",
+      "source_patch_dir": "patches/season_two/1.0.0.134"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_two",
+      "patch_id": "1.0.0.135",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.135/Fiora Patch Notes - League of Legends Community (16.3.2026 15：00：57).html",
+      "source_patch_dir": "patches/season_two/1.0.0.135"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_two",
+      "patch_id": "1.0.0.146",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.146/Late August Patch Notes - League of Legends Community (16.3.2026 15：23：36).html",
+      "source_patch_dir": "patches/season_two/1.0.0.146"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_two",
+      "patch_id": "1.0.0.148",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.148/Late September Patch Notes - League of Legends Community (16.3.2026 15：27：25).html",
+      "source_patch_dir": "patches/season_two/1.0.0.148"
+    },
+    {
+      "item_name": "Vision Ward",
+      "item_slug": "vision-ward",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "Vision Ward"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    }
+  ]
+}

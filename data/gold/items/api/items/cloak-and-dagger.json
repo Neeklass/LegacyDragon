@@ -1,0 +1,31 @@
+{
+  "item_slug": "cloak-and-dagger",
+  "item_name": "Cloak and Dagger",
+  "change_count": 2,
+  "timeline": [
+    {
+      "item_name": "Cloak and Dagger",
+      "item_slug": "cloak-and-dagger",
+      "era": "season_one",
+      "patch_id": "1.0.0.118",
+      "matched_keywords": [
+        "Cloak and Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.118/Release Notes v1.0.0.118 - League of Legends Community (16.3.2026 14：30：27).html",
+      "source_patch_dir": "patches/season_one/1.0.0.118"
+    },
+    {
+      "item_name": "Cloak and Dagger",
+      "item_slug": "cloak-and-dagger",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "Cloak and Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "item_slug": "ionian-boots-of-lucidity",
+  "item_name": "Ionian Boots of Lucidity",
+  "change_count": 4,
+  "timeline": [
+    {
+      "item_name": "Ionian Boots of Lucidity",
+      "item_slug": "ionian-boots-of-lucidity",
+      "era": "season_one",
+      "patch_id": "1.0.0.108",
+      "matched_keywords": [
+        "Ionian Boots of Lucidity"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.108/Release Notes v1.0.0.108 - League of Legends Community (16.3.2026 14：18：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.108"
+    },
+    {
+      "item_name": "Ionian Boots of Lucidity",
+      "item_slug": "ionian-boots-of-lucidity",
+      "era": "season_one",
+      "patch_id": "1.0.0.110",
+      "matched_keywords": [
+        "Ionian Boots of Lucidity"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.110/Release Notes v1.0.0.110 - League of Legends Community (16.3.2026 14：20：52).html",
+      "source_patch_dir": "patches/season_one/1.0.0.110"
+    },
+    {
+      "item_name": "Ionian Boots of Lucidity",
+      "item_slug": "ionian-boots-of-lucidity",
+      "era": "season_one",
+      "patch_id": "1.0.0.111",
+      "matched_keywords": [
+        "Ionian Boots of Lucidity"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.111/Release Notes v1.0.0.111 - League of Legends Community (16.3.2026 14：22：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.111"
+    },
+    {
+      "item_name": "Ionian Boots of Lucidity",
+      "item_slug": "ionian-boots-of-lucidity",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "Ionian Boots of Lucidity"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    }
+  ]
+}

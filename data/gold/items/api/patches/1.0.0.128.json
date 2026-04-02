@@ -1,0 +1,31 @@
+{
+  "patch_id": "1.0.0.128",
+  "era": "season_two",
+  "item_change_count": 11,
+  "items_changed": [
+    "Bami's Cinder",
+    "Blighting Jewel",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Hellfire Hatchet",
+    "Liandry's Anguish",
+    "Phantom Dancer"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.128/bami-s-cinder.parquet",
+    "patches/season_two/1.0.0.128/blighting-jewel.parquet",
+    "patches/season_two/1.0.0.128/boots-of-speed.parquet",
+    "patches/season_two/1.0.0.128/death-s-dance.parquet",
+    "patches/season_two/1.0.0.128/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.128/essence-reaver.parquet",
+    "patches/season_two/1.0.0.128/giant-slayer.parquet",
+    "patches/season_two/1.0.0.128/guardian-angel.parquet",
+    "patches/season_two/1.0.0.128/hellfire-hatchet.parquet",
+    "patches/season_two/1.0.0.128/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.128/phantom-dancer.parquet"
+  ]
+}

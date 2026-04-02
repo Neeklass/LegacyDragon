@@ -1,0 +1,499 @@
+{
+  "item_slug": "world-atlas",
+  "item_name": "World Atlas",
+  "change_count": 41,
+  "timeline": [
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "alpha",
+      "patch_id": "alpha_week_5",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 7,
+      "source_html": "patches/alpha/alpha_week_5/Week 5 Release Notes - League of Legends Community (11.3.2026 14：24：16).html",
+      "source_patch_dir": "patches/alpha/alpha_week_5"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "alpha",
+      "patch_id": "alpha_week_7",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/alpha/alpha_week_7/Week 7 Release Notes - League of Legends Community (11.3.2026 14：29：11).html",
+      "source_patch_dir": "patches/alpha/alpha_week_7"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "beta",
+      "patch_id": "0.9.22.18",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.18/Release Notes v0.9.22.18 - League of Legends Community (13.3.2026 16：03：39).html",
+      "source_patch_dir": "patches/beta/0.9.22.18"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "beta",
+      "patch_id": "0.9.25.34",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.9.25.34/Release Notes - v0.9.25.34 - League of Legends Community (13.3.2026 16：06：41).html",
+      "source_patch_dir": "patches/beta/0.9.25.34"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "beta",
+      "patch_id": "2009-04-18",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 6,
+      "source_html": "patches/beta/2009-04-18/Release Notes 04_18 - League of Legends Community (13.3.2026 15：27：39).html",
+      "source_patch_dir": "patches/beta/2009-04-18"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "beta",
+      "patch_id": "2009-04-25",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-04-25/Release Notes 04_25 - League of Legends Community (13.3.2026 15：29：18).html",
+      "source_patch_dir": "patches/beta/2009-04-25"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 5,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "beta",
+      "patch_id": "2009-06-26",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-06-26/Release Notes 06_26 - League of Legends Community (13.3.2026 15：51：45).html",
+      "source_patch_dir": "patches/beta/2009-06-26"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "beta",
+      "patch_id": "2009-07-10",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/beta/2009-07-10/Release Notes 07_10 - League of Legends Community (13.3.2026 15：53：09).html",
+      "source_patch_dir": "patches/beta/2009-07-10"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 4,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.118b",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.118b/Release Notes v1.0.0.118b - League of Legends Community (16.3.2026 14：31：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.118b"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.121",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.121/Release Notes v1.0.0.121 - League of Legends Community (16.3.2026 14：35：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.121"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.123",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.123/Release Notes v1.0.0.123 - League of Legends Community (16.3.2026 14：37：26).html",
+      "source_patch_dir": "patches/season_one/1.0.0.123"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.124",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.124/Talon Patch Notes - League of Legends Community (16.3.2026 14：38：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.124"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.32",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 4,
+      "source_html": "patches/season_one/1.0.0.32/Release Notes v1.0.0.32 - League of Legends Community (16.3.2026 13：39：23).html",
+      "source_patch_dir": "patches/season_one/1.0.0.32"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.52",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.52/Release Notes v 1.0.0.52 - League of Legends Community (16.3.2026 13：40：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.52"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.75",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.75/Release Notes v1.0.0.75 - League of Legends Community (16.3.2026 13：49：56).html",
+      "source_patch_dir": "patches/season_one/1.0.0.75"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.79",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.79/Release Notes v1.0.0.79 - League of Legends Community (16.3.2026 13：51：12).html",
+      "source_patch_dir": "patches/season_one/1.0.0.79"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.85",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.85/Release Notes v1.0.0.85 - League of Legends Community (16.3.2026 13：56：49).html",
+      "source_patch_dir": "patches/season_one/1.0.0.85"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.87",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.87/Release Notes v1.0.0.87 - League of Legends Community (16.3.2026 13：58：31).html",
+      "source_patch_dir": "patches/season_one/1.0.0.87"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.94b",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.94b/Release Notes： PVP.net v1.13.29 ＋ League of Legends 1.0.0.94(b) - League of Legends Community (16.3.2026 14：00：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.94b"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_one",
+      "patch_id": "1.0.0.97",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.97/Release Notes v1.0.0.97 - League of Legends Community (16.3.2026 14：02：50).html",
+      "source_patch_dir": "patches/season_one/1.0.0.97"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_two",
+      "patch_id": "1.0.0.126",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.126/Xerath Patch Notes - League of Legends Community (16.3.2026 14：48：12).html",
+      "source_patch_dir": "patches/season_two/1.0.0.126"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_two",
+      "patch_id": "1.0.0.131",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.131/Ahri Patch Notes - League of Legends Community (16.3.2026 14：53：58).html",
+      "source_patch_dir": "patches/season_two/1.0.0.131"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_two",
+      "patch_id": "1.0.0.135",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.135/Fiora Patch Notes - League of Legends Community (16.3.2026 15：00：57).html",
+      "source_patch_dir": "patches/season_two/1.0.0.135"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_two",
+      "patch_id": "1.0.0.140",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.140/Darius Patch Notes - League of Legends Community (16.3.2026 15：10：10).html",
+      "source_patch_dir": "patches/season_two/1.0.0.140"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_two",
+      "patch_id": "1.0.0.140b",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.140b/Draven Patch Notes - League of Legends Community (16.3.2026 15：11：53).html",
+      "source_patch_dir": "patches/season_two/1.0.0.140b"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_two",
+      "patch_id": "1.0.0.141",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.141/6_17_12 Patch Notes - League of Legends Community (16.3.2026 15：14：36).html",
+      "source_patch_dir": "patches/season_two/1.0.0.141"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_two",
+      "patch_id": "1.0.0.142",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.142/Jayce Patch Notes - League of Legends Community (16.3.2026 15：16：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.142"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    },
+    {
+      "item_name": "World Atlas",
+      "item_slug": "world-atlas",
+      "era": "season_two",
+      "patch_id": "1.0.0.151",
+      "matched_keywords": [
+        "Map"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_two/1.0.0.151/End of Season 2 Patch Notes - League of Legends Community (16.3.2026 15：33：33).html",
+      "source_patch_dir": "patches/season_two/1.0.0.151"
+    }
+  ]
+}

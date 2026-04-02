@@ -1,0 +1,31 @@
+{
+  "patch_id": "1.0.0.147",
+  "era": "season_two",
+  "item_change_count": 11,
+  "items_changed": [
+    "Banner of Command",
+    "Blighting Jewel",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Night Harvester",
+    "Serylda's Grudge"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.147/banner-of-command.parquet",
+    "patches/season_two/1.0.0.147/blighting-jewel.parquet",
+    "patches/season_two/1.0.0.147/boots-of-speed.parquet",
+    "patches/season_two/1.0.0.147/death-s-dance.parquet",
+    "patches/season_two/1.0.0.147/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.147/essence-reaver.parquet",
+    "patches/season_two/1.0.0.147/giant-slayer.parquet",
+    "patches/season_two/1.0.0.147/guardian-angel.parquet",
+    "patches/season_two/1.0.0.147/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.147/night-harvester.parquet",
+    "patches/season_two/1.0.0.147/serylda-s-grudge.parquet"
+  ]
+}

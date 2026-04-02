@@ -1,0 +1,199 @@
+{
+  "item_slug": "sheen",
+  "item_name": "Sheen",
+  "change_count": 16,
+  "timeline": [
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "beta",
+      "patch_id": "0.8.22.115",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.22.115/Release Notes v0.8.22.115 - League of Legends Community (13.3.2026 15：57：26).html",
+      "source_patch_dir": "patches/beta/0.8.22.115"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "beta",
+      "patch_id": "2009-05-29",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-29/Release Notes 05_29 - League of Legends Community (13.3.2026 15：40：40).html",
+      "source_patch_dir": "patches/beta/2009-05-29"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "beta",
+      "patch_id": "2009-06-06",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-06/Release Notes 06_06 - League of Legends Community (13.3.2026 15：42：00).html",
+      "source_patch_dir": "patches/beta/2009-06-06"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "beta",
+      "patch_id": "2009-06-26",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-26/Release Notes 06_26 - League of Legends Community (13.3.2026 15：51：45).html",
+      "source_patch_dir": "patches/beta/2009-06-26"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "season_one",
+      "patch_id": "1.0.0.100",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.100/Release Notes v1.0.0.100 - League of Legends Community (16.3.2026 14：06：00).html",
+      "source_patch_dir": "patches/season_one/1.0.0.100"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "season_one",
+      "patch_id": "1.0.0.104",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.104/Release Notes v1.0.0.104 - League of Legends Community (16.3.2026 14：13：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.104"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "season_one",
+      "patch_id": "1.0.0.122",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.122/Release Notes v1.0.0.122 - League of Legends Community (16.3.2026 14：36：19).html",
+      "source_patch_dir": "patches/season_one/1.0.0.122"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "season_one",
+      "patch_id": "1.0.0.75",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.75/Release Notes v1.0.0.75 - League of Legends Community (16.3.2026 13：49：56).html",
+      "source_patch_dir": "patches/season_one/1.0.0.75"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "season_two",
+      "patch_id": "1.0.0.129",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.129/Fizz Patch Notes - League of Legends Community (16.3.2026 14：51：37).html",
+      "source_patch_dir": "patches/season_two/1.0.0.129"
+    },
+    {
+      "item_name": "Sheen",
+      "item_slug": "sheen",
+      "era": "season_two",
+      "patch_id": "1.0.0.146",
+      "matched_keywords": [
+        "Sheen"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.146/Late August Patch Notes - League of Legends Community (16.3.2026 15：23：36).html",
+      "source_patch_dir": "patches/season_two/1.0.0.146"
+    }
+  ]
+}

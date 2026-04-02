@@ -1,0 +1,39 @@
+{
+  "patch_id": "1.0.0.109",
+  "era": "season_one",
+  "item_change_count": 15,
+  "items_changed": [
+    "Anathema's Chains",
+    "Black Cleaver",
+    "Blighting Jewel",
+    "Boots of Speed",
+    "Chain Vest",
+    "Cull",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Night Harvester",
+    "Phantom Dancer",
+    "Vision Ward"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.109/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.109/black-cleaver.parquet",
+    "patches/season_one/1.0.0.109/blighting-jewel.parquet",
+    "patches/season_one/1.0.0.109/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.109/chain-vest.parquet",
+    "patches/season_one/1.0.0.109/cull.parquet",
+    "patches/season_one/1.0.0.109/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.109/edge-of-night.parquet",
+    "patches/season_one/1.0.0.109/essence-reaver.parquet",
+    "patches/season_one/1.0.0.109/giant-slayer.parquet",
+    "patches/season_one/1.0.0.109/guardian-angel.parquet",
+    "patches/season_one/1.0.0.109/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.109/night-harvester.parquet",
+    "patches/season_one/1.0.0.109/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.109/vision-ward.parquet"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "patch_id": "0.9.22.4",
+  "era": "beta",
+  "item_change_count": 13,
+  "items_changed": [
+    "Anathema's Chains",
+    "Blighting Jewel",
+    "Bloodthirster",
+    "Boots of Speed",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Eternal Winter",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Phantom Dancer",
+    "Radiant Virtue",
+    "Serylda's Grudge",
+    "The Golden Spatula"
+  ],
+  "source_files": [
+    "patches/beta/0.9.22.4/anathema-s-chains.parquet",
+    "patches/beta/0.9.22.4/blighting-jewel.parquet",
+    "patches/beta/0.9.22.4/bloodthirster.parquet",
+    "patches/beta/0.9.22.4/boots-of-speed.parquet",
+    "patches/beta/0.9.22.4/edge-of-finality.parquet",
+    "patches/beta/0.9.22.4/essence-reaver.parquet",
+    "patches/beta/0.9.22.4/eternal-winter.parquet",
+    "patches/beta/0.9.22.4/guardian-angel.parquet",
+    "patches/beta/0.9.22.4/liandry-s-anguish.parquet",
+    "patches/beta/0.9.22.4/phantom-dancer.parquet",
+    "patches/beta/0.9.22.4/radiant-virtue.parquet",
+    "patches/beta/0.9.22.4/serylda-s-grudge.parquet",
+    "patches/beta/0.9.22.4/the-golden-spatula.parquet"
+  ]
+}

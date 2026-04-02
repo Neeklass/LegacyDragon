@@ -1,0 +1,67 @@
+{
+  "item_slug": "mana-manipulator",
+  "item_name": "Mana Manipulator",
+  "change_count": 5,
+  "timeline": [
+    {
+      "item_name": "Mana Manipulator",
+      "item_slug": "mana-manipulator",
+      "era": "beta",
+      "patch_id": "0.8.21.110",
+      "matched_keywords": [
+        "Mana Manipulator"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.21.110/Release Notes Beta - Build v0.8.21.110 - League of Legends Community (13.3.2026 15：55：14).html",
+      "source_patch_dir": "patches/beta/0.8.21.110"
+    },
+    {
+      "item_name": "Mana Manipulator",
+      "item_slug": "mana-manipulator",
+      "era": "beta",
+      "patch_id": "0.8.22.115",
+      "matched_keywords": [
+        "Mana Manipulator"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.8.22.115/Release Notes v0.8.22.115 - League of Legends Community (13.3.2026 15：57：26).html",
+      "source_patch_dir": "patches/beta/0.8.22.115"
+    },
+    {
+      "item_name": "Mana Manipulator",
+      "item_slug": "mana-manipulator",
+      "era": "beta",
+      "patch_id": "2009-05-23",
+      "matched_keywords": [
+        "Mana Manipulator"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-23/Release Notes 05_23 - League of Legends Community (13.3.2026 15：35：24).html",
+      "source_patch_dir": "patches/beta/2009-05-23"
+    },
+    {
+      "item_name": "Mana Manipulator",
+      "item_slug": "mana-manipulator",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "Mana Manipulator"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Mana Manipulator",
+      "item_slug": "mana-manipulator",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "Mana Manipulator"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    }
+  ]
+}

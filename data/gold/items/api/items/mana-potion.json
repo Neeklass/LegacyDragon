@@ -1,0 +1,79 @@
+{
+  "item_slug": "mana-potion",
+  "item_name": "Mana Potion",
+  "change_count": 6,
+  "timeline": [
+    {
+      "item_name": "Mana Potion",
+      "item_slug": "mana-potion",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "Mana Potion"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Mana Potion",
+      "item_slug": "mana-potion",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "Mana Potion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    },
+    {
+      "item_name": "Mana Potion",
+      "item_slug": "mana-potion",
+      "era": "season_one",
+      "patch_id": "1.0.0.79",
+      "matched_keywords": [
+        "Mana Potion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.79/Release Notes v1.0.0.79 - League of Legends Community (16.3.2026 13：51：12).html",
+      "source_patch_dir": "patches/season_one/1.0.0.79"
+    },
+    {
+      "item_name": "Mana Potion",
+      "item_slug": "mana-potion",
+      "era": "season_two",
+      "patch_id": "1.0.0.129",
+      "matched_keywords": [
+        "Mana Potion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.129/Fizz Patch Notes - League of Legends Community (16.3.2026 14：51：37).html",
+      "source_patch_dir": "patches/season_two/1.0.0.129"
+    },
+    {
+      "item_name": "Mana Potion",
+      "item_slug": "mana-potion",
+      "era": "season_two",
+      "patch_id": "1.0.0.130",
+      "matched_keywords": [
+        "Mana Potion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.130/Volibear Patch Notes - League of Legends Community (16.3.2026 14：52：59).html",
+      "source_patch_dir": "patches/season_two/1.0.0.130"
+    },
+    {
+      "item_name": "Mana Potion",
+      "item_slug": "mana-potion",
+      "era": "season_two",
+      "patch_id": "1.0.0.141",
+      "matched_keywords": [
+        "Mana Potion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.141/6_17_12 Patch Notes - League of Legends Community (16.3.2026 15：14：36).html",
+      "source_patch_dir": "patches/season_two/1.0.0.141"
+    }
+  ]
+}

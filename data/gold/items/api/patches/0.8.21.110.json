@@ -1,0 +1,43 @@
+{
+  "patch_id": "0.8.21.110",
+  "era": "beta",
+  "item_change_count": 17,
+  "items_changed": [
+    "Amplifying Tome",
+    "Anathema's Chains",
+    "Blighting Jewel",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Lich Bane",
+    "Mana Manipulator",
+    "Phantom Dancer",
+    "Radiant Virtue",
+    "Regrowth Pendant",
+    "Serylda's Grudge",
+    "Tiamat"
+  ],
+  "source_files": [
+    "patches/beta/0.8.21.110/amplifying-tome.parquet",
+    "patches/beta/0.8.21.110/anathema-s-chains.parquet",
+    "patches/beta/0.8.21.110/blighting-jewel.parquet",
+    "patches/beta/0.8.21.110/boots-of-speed.parquet",
+    "patches/beta/0.8.21.110/death-s-dance.parquet",
+    "patches/beta/0.8.21.110/edge-of-finality.parquet",
+    "patches/beta/0.8.21.110/essence-reaver.parquet",
+    "patches/beta/0.8.21.110/giant-slayer.parquet",
+    "patches/beta/0.8.21.110/guardian-angel.parquet",
+    "patches/beta/0.8.21.110/liandry-s-anguish.parquet",
+    "patches/beta/0.8.21.110/lich-bane.parquet",
+    "patches/beta/0.8.21.110/mana-manipulator.parquet",
+    "patches/beta/0.8.21.110/phantom-dancer.parquet",
+    "patches/beta/0.8.21.110/radiant-virtue.parquet",
+    "patches/beta/0.8.21.110/regrowth-pendant.parquet",
+    "patches/beta/0.8.21.110/serylda-s-grudge.parquet",
+    "patches/beta/0.8.21.110/tiamat.parquet"
+  ]
+}

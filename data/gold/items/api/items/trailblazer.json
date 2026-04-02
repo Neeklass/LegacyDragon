@@ -1,0 +1,31 @@
+{
+  "item_slug": "trailblazer",
+  "item_name": "Trailblazer",
+  "change_count": 2,
+  "timeline": [
+    {
+      "item_name": "Trailblazer",
+      "item_slug": "trailblazer",
+      "era": "beta",
+      "patch_id": "2009-04-18",
+      "matched_keywords": [
+        "Trailblazer"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-04-18/Release Notes 04_18 - League of Legends Community (13.3.2026 15：27：39).html",
+      "source_patch_dir": "patches/beta/2009-04-18"
+    },
+    {
+      "item_name": "Trailblazer",
+      "item_slug": "trailblazer",
+      "era": "beta",
+      "patch_id": "2009-06-12",
+      "matched_keywords": [
+        "Trailblazer"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-12/Release Notes 06_12 - League of Legends Community (13.3.2026 15：43：13).html",
+      "source_patch_dir": "patches/beta/2009-06-12"
+    }
+  ]
+}

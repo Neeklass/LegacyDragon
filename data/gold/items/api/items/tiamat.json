@@ -1,0 +1,163 @@
+{
+  "item_slug": "tiamat",
+  "item_name": "Tiamat",
+  "change_count": 13,
+  "timeline": [
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "alpha",
+      "patch_id": "alpha_week_5",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_5/Week 5 Release Notes - League of Legends Community (11.3.2026 14：24：16).html",
+      "source_patch_dir": "patches/alpha/alpha_week_5"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "alpha",
+      "patch_id": "alpha_week_6",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_6/Week 6 Release Notes - League of Legends Community (11.3.2026 14：27：49).html",
+      "source_patch_dir": "patches/alpha/alpha_week_6"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "beta",
+      "patch_id": "0.8.21.110",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.21.110/Release Notes Beta - Build v0.8.21.110 - League of Legends Community (13.3.2026 15：55：14).html",
+      "source_patch_dir": "patches/beta/0.8.21.110"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "beta",
+      "patch_id": "0.9.25.34",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.34/Release Notes - v0.9.25.34 - League of Legends Community (13.3.2026 16：06：41).html",
+      "source_patch_dir": "patches/beta/0.9.25.34"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "beta",
+      "patch_id": "2009-05-01",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-01/Release Notes 05_01 - League of Legends Community (13.3.2026 15：30：37).html",
+      "source_patch_dir": "patches/beta/2009-05-01"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "season_one",
+      "patch_id": "1.0.0.108",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.108/Release Notes v1.0.0.108 - League of Legends Community (16.3.2026 14：18：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.108"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "season_one",
+      "patch_id": "1.0.0.112",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.112/Release Notes v1.0.0.112 - League of Legends Community (16.3.2026 14：23：14).html",
+      "source_patch_dir": "patches/season_one/1.0.0.112"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Tiamat",
+      "item_slug": "tiamat",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Tiamat"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    }
+  ]
+}

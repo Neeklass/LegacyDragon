@@ -1,0 +1,37 @@
+{
+  "patch_id": "1.0.0.135",
+  "era": "season_two",
+  "item_change_count": 14,
+  "items_changed": [
+    "Anathema's Chains",
+    "Bloodrazor",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Rod of Ages",
+    "Serylda's Grudge",
+    "Vision Ward",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.135/anathema-s-chains.parquet",
+    "patches/season_two/1.0.0.135/bloodrazor.parquet",
+    "patches/season_two/1.0.0.135/boots-of-speed.parquet",
+    "patches/season_two/1.0.0.135/death-s-dance.parquet",
+    "patches/season_two/1.0.0.135/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.135/edge-of-night.parquet",
+    "patches/season_two/1.0.0.135/essence-reaver.parquet",
+    "patches/season_two/1.0.0.135/giant-slayer.parquet",
+    "patches/season_two/1.0.0.135/guardian-angel.parquet",
+    "patches/season_two/1.0.0.135/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.135/rod-of-ages.parquet",
+    "patches/season_two/1.0.0.135/serylda-s-grudge.parquet",
+    "patches/season_two/1.0.0.135/vision-ward.parquet",
+    "patches/season_two/1.0.0.135/world-atlas.parquet"
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "item_slug": "terminus",
+  "item_name": "Terminus",
+  "change_count": 7,
+  "timeline": [
+    {
+      "item_name": "Terminus",
+      "item_slug": "terminus",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "bow"
+      ],
+      "keyword_match_count": 8,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Terminus",
+      "item_slug": "terminus",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "bow"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Terminus",
+      "item_slug": "terminus",
+      "era": "alpha",
+      "patch_id": "alpha_week_5",
+      "matched_keywords": [
+        "bow"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_5/Week 5 Release Notes - League of Legends Community (11.3.2026 14：24：16).html",
+      "source_patch_dir": "patches/alpha/alpha_week_5"
+    },
+    {
+      "item_name": "Terminus",
+      "item_slug": "terminus",
+      "era": "alpha",
+      "patch_id": "alpha_week_7",
+      "matched_keywords": [
+        "bow"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_7/Week 7 Release Notes - League of Legends Community (11.3.2026 14：29：11).html",
+      "source_patch_dir": "patches/alpha/alpha_week_7"
+    },
+    {
+      "item_name": "Terminus",
+      "item_slug": "terminus",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "bow"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Terminus",
+      "item_slug": "terminus",
+      "era": "season_one",
+      "patch_id": "1.0.0.118",
+      "matched_keywords": [
+        "bow"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.118/Release Notes v1.0.0.118 - League of Legends Community (16.3.2026 14：30：27).html",
+      "source_patch_dir": "patches/season_one/1.0.0.118"
+    },
+    {
+      "item_name": "Terminus",
+      "item_slug": "terminus",
+      "era": "season_two",
+      "patch_id": "1.0.0.145",
+      "matched_keywords": [
+        "bow"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.145/Mid August Patch Notes - League of Legends Community (16.3.2026 15：21：50).html",
+      "source_patch_dir": "patches/season_two/1.0.0.145"
+    }
+  ]
+}

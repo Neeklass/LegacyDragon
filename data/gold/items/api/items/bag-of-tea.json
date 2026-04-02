@@ -1,0 +1,43 @@
+{
+  "item_slug": "bag-of-tea",
+  "item_name": "Bag of Tea",
+  "change_count": 3,
+  "timeline": [
+    {
+      "item_name": "Bag of Tea",
+      "item_slug": "bag-of-tea",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "Bag of Tea"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Bag of Tea",
+      "item_slug": "bag-of-tea",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "Bag of Tea"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Bag of Tea",
+      "item_slug": "bag-of-tea",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Bag of Tea"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    }
+  ]
+}

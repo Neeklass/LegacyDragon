@@ -1,0 +1,37 @@
+{
+  "patch_id": "0.9.22.18",
+  "era": "beta",
+  "item_change_count": 14,
+  "items_changed": [
+    "Anathema's Chains",
+    "Banner of Command",
+    "Blighting Jewel",
+    "Bloodthirster",
+    "Boots of Speed",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Gustwalker Hatchling",
+    "Liandry's Anguish",
+    "Rabadon's Deathcap",
+    "Radiant Virtue",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/beta/0.9.22.18/anathema-s-chains.parquet",
+    "patches/beta/0.9.22.18/banner-of-command.parquet",
+    "patches/beta/0.9.22.18/blighting-jewel.parquet",
+    "patches/beta/0.9.22.18/bloodthirster.parquet",
+    "patches/beta/0.9.22.18/boots-of-speed.parquet",
+    "patches/beta/0.9.22.18/edge-of-finality.parquet",
+    "patches/beta/0.9.22.18/essence-reaver.parquet",
+    "patches/beta/0.9.22.18/giant-slayer.parquet",
+    "patches/beta/0.9.22.18/guardian-angel.parquet",
+    "patches/beta/0.9.22.18/gustwalker-hatchling.parquet",
+    "patches/beta/0.9.22.18/liandry-s-anguish.parquet",
+    "patches/beta/0.9.22.18/rabadon-s-deathcap.parquet",
+    "patches/beta/0.9.22.18/radiant-virtue.parquet",
+    "patches/beta/0.9.22.18/world-atlas.parquet"
+  ]
+}

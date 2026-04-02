@@ -1,0 +1,67 @@
+{
+  "item_slug": "black-cleaver",
+  "item_name": "Black Cleaver",
+  "change_count": 5,
+  "timeline": [
+    {
+      "item_name": "Black Cleaver",
+      "item_slug": "black-cleaver",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "Black Cleaver"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Black Cleaver",
+      "item_slug": "black-cleaver",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "Black Cleaver"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Black Cleaver",
+      "item_slug": "black-cleaver",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Black Cleaver"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Black Cleaver",
+      "item_slug": "black-cleaver",
+      "era": "season_one",
+      "patch_id": "1.0.0.108",
+      "matched_keywords": [
+        "Black Cleaver"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.108/Release Notes v1.0.0.108 - League of Legends Community (16.3.2026 14：18：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.108"
+    },
+    {
+      "item_name": "Black Cleaver",
+      "item_slug": "black-cleaver",
+      "era": "season_one",
+      "patch_id": "1.0.0.109",
+      "matched_keywords": [
+        "Black Cleaver"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.109/Release Notes v1.0.0.109 - League of Legends Community (16.3.2026 14：19：48).html",
+      "source_patch_dir": "patches/season_one/1.0.0.109"
+    }
+  ]
+}

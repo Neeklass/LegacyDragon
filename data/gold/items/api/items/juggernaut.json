@@ -1,0 +1,19 @@
+{
+  "item_slug": "juggernaut",
+  "item_name": "Juggernaut",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Juggernaut",
+      "item_slug": "juggernaut",
+      "era": "season_two",
+      "patch_id": "1.0.0.134",
+      "matched_keywords": [
+        "Juggernaut"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.134/Nautilus Patch Notes - League of Legends Community (16.3.2026 14：58：08).html",
+      "source_patch_dir": "patches/season_two/1.0.0.134"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "patch_id": "1.0.0.140b",
+  "era": "season_two",
+  "item_change_count": 9,
+  "items_changed": [
+    "Anathema's Chains",
+    "Bami's Cinder",
+    "Boots of Speed",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Serylda's Grudge",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.140b/anathema-s-chains.parquet",
+    "patches/season_two/1.0.0.140b/bami-s-cinder.parquet",
+    "patches/season_two/1.0.0.140b/boots-of-speed.parquet",
+    "patches/season_two/1.0.0.140b/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.140b/essence-reaver.parquet",
+    "patches/season_two/1.0.0.140b/guardian-angel.parquet",
+    "patches/season_two/1.0.0.140b/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.140b/serylda-s-grudge.parquet",
+    "patches/season_two/1.0.0.140b/world-atlas.parquet"
+  ]
+}

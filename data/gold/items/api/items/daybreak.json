@@ -1,0 +1,31 @@
+{
+  "item_slug": "daybreak",
+  "item_name": "Daybreak",
+  "change_count": 2,
+  "timeline": [
+    {
+      "item_name": "Daybreak",
+      "item_slug": "daybreak",
+      "era": "season_one",
+      "patch_id": "1.0.0.123",
+      "matched_keywords": [
+        "Daybreak"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.123/Release Notes v1.0.0.123 - League of Legends Community (16.3.2026 14：37：26).html",
+      "source_patch_dir": "patches/season_one/1.0.0.123"
+    },
+    {
+      "item_name": "Daybreak",
+      "item_slug": "daybreak",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "Daybreak"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    }
+  ]
+}

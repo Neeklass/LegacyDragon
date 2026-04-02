@@ -1,0 +1,37 @@
+{
+  "patch_id": "1.0.0.118b",
+  "era": "season_one",
+  "item_change_count": 14,
+  "items_changed": [
+    "Anathema's Chains",
+    "Bami's Cinder",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Hellfire Hatchet",
+    "Hextech Revolver",
+    "Liandry's Anguish",
+    "Lightbringer",
+    "Moonflair Spellblade",
+    "Phantom Dancer",
+    "Rylai's Crystal Scepter",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.118b/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.118b/bami-s-cinder.parquet",
+    "patches/season_one/1.0.0.118b/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.118b/essence-reaver.parquet",
+    "patches/season_one/1.0.0.118b/giant-slayer.parquet",
+    "patches/season_one/1.0.0.118b/guardian-angel.parquet",
+    "patches/season_one/1.0.0.118b/hellfire-hatchet.parquet",
+    "patches/season_one/1.0.0.118b/hextech-revolver.parquet",
+    "patches/season_one/1.0.0.118b/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.118b/lightbringer.parquet",
+    "patches/season_one/1.0.0.118b/moonflair-spellblade.parquet",
+    "patches/season_one/1.0.0.118b/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.118b/rylai-s-crystal-scepter.parquet",
+    "patches/season_one/1.0.0.118b/world-atlas.parquet"
+  ]
+}

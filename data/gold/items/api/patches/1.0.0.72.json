@@ -1,0 +1,43 @@
+{
+  "patch_id": "1.0.0.72",
+  "era": "season_one",
+  "item_change_count": 17,
+  "items_changed": [
+    "Anathema's Chains",
+    "Black Spear",
+    "Blighting Jewel",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Last Whisper",
+    "Liandry's Anguish",
+    "Night Harvester",
+    "Phantom Dancer",
+    "Radiant Virtue",
+    "Serylda's Grudge",
+    "Warrior"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.72/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.72/black-spear.parquet",
+    "patches/season_one/1.0.0.72/blighting-jewel.parquet",
+    "patches/season_one/1.0.0.72/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.72/death-s-dance.parquet",
+    "patches/season_one/1.0.0.72/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.72/edge-of-night.parquet",
+    "patches/season_one/1.0.0.72/essence-reaver.parquet",
+    "patches/season_one/1.0.0.72/giant-slayer.parquet",
+    "patches/season_one/1.0.0.72/guardian-angel.parquet",
+    "patches/season_one/1.0.0.72/last-whisper.parquet",
+    "patches/season_one/1.0.0.72/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.72/night-harvester.parquet",
+    "patches/season_one/1.0.0.72/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.72/radiant-virtue.parquet",
+    "patches/season_one/1.0.0.72/serylda-s-grudge.parquet",
+    "patches/season_one/1.0.0.72/warrior.parquet"
+  ]
+}

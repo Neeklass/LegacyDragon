@@ -1,0 +1,55 @@
+{
+  "item_slug": "rabadon-s-deathcap",
+  "item_name": "Rabadon's Deathcap",
+  "change_count": 4,
+  "timeline": [
+    {
+      "item_name": "Rabadon's Deathcap",
+      "item_slug": "rabadon-s-deathcap",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "dc"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Rabadon's Deathcap",
+      "item_slug": "rabadon-s-deathcap",
+      "era": "alpha",
+      "patch_id": "alpha_week_3",
+      "matched_keywords": [
+        "dc"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_3/Week 3 Release Notes - League of Legends Community (11.3.2026 14：19：37).html",
+      "source_patch_dir": "patches/alpha/alpha_week_3"
+    },
+    {
+      "item_name": "Rabadon's Deathcap",
+      "item_slug": "rabadon-s-deathcap",
+      "era": "beta",
+      "patch_id": "0.9.22.18",
+      "matched_keywords": [
+        "dc"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.9.22.18/Release Notes v0.9.22.18 - League of Legends Community (13.3.2026 16：03：39).html",
+      "source_patch_dir": "patches/beta/0.9.22.18"
+    },
+    {
+      "item_name": "Rabadon's Deathcap",
+      "item_slug": "rabadon-s-deathcap",
+      "era": "beta",
+      "patch_id": "0.9.22.9",
+      "matched_keywords": [
+        "dc"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.9.22.9/Release Notes 08_12_09 - League of Legends Community (13.3.2026 16：00：52).html",
+      "source_patch_dir": "patches/beta/0.9.22.9"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "item_slug": "trinity-force",
+  "item_name": "Trinity Force",
+  "change_count": 10,
+  "timeline": [
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "season_one",
+      "patch_id": "1.0.0.100",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.100/Release Notes v1.0.0.100 - League of Legends Community (16.3.2026 14：06：00).html",
+      "source_patch_dir": "patches/season_one/1.0.0.100"
+    },
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "season_one",
+      "patch_id": "1.0.0.104",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.104/Release Notes v1.0.0.104 - League of Legends Community (16.3.2026 14：13：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.104"
+    },
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "season_one",
+      "patch_id": "1.0.0.108",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.108/Release Notes v1.0.0.108 - League of Legends Community (16.3.2026 14：18：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.108"
+    },
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    },
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "season_one",
+      "patch_id": "1.0.0.75",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.75/Release Notes v1.0.0.75 - League of Legends Community (16.3.2026 13：49：56).html",
+      "source_patch_dir": "patches/season_one/1.0.0.75"
+    },
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "season_one",
+      "patch_id": "1.0.0.97",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.97/Release Notes v1.0.0.97 - League of Legends Community (16.3.2026 14：02：50).html",
+      "source_patch_dir": "patches/season_one/1.0.0.97"
+    },
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "season_two",
+      "patch_id": "1.0.0.146",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.146/Late August Patch Notes - League of Legends Community (16.3.2026 15：23：36).html",
+      "source_patch_dir": "patches/season_two/1.0.0.146"
+    },
+    {
+      "item_name": "Trinity Force",
+      "item_slug": "trinity-force",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "Trinity Force"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "item_slug": "rejuvenation-bead",
+  "item_name": "Rejuvenation Bead",
+  "change_count": 3,
+  "timeline": [
+    {
+      "item_name": "Rejuvenation Bead",
+      "item_slug": "rejuvenation-bead",
+      "era": "beta",
+      "patch_id": "2009-04-25",
+      "matched_keywords": [
+        "Rejuvenation Bead"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-04-25/Release Notes 04_25 - League of Legends Community (13.3.2026 15：29：18).html",
+      "source_patch_dir": "patches/beta/2009-04-25"
+    },
+    {
+      "item_name": "Rejuvenation Bead",
+      "item_slug": "rejuvenation-bead",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "Rejuvenation Bead"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Rejuvenation Bead",
+      "item_slug": "rejuvenation-bead",
+      "era": "season_two",
+      "patch_id": "1.0.0.133",
+      "matched_keywords": [
+        "Rejuvenation Bead"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.133/Ziggs Patch Notes - League of Legends Community (16.3.2026 14：56：35).html",
+      "source_patch_dir": "patches/season_two/1.0.0.133"
+    }
+  ]
+}

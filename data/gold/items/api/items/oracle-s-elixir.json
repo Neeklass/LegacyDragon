@@ -1,0 +1,19 @@
+{
+  "item_slug": "oracle-s-elixir",
+  "item_name": "Oracle's Elixir",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Oracle's Elixir",
+      "item_slug": "oracle-s-elixir",
+      "era": "beta",
+      "patch_id": "2009-05-29",
+      "matched_keywords": [
+        "Oracles Elixir"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-29/Release Notes 05_29 - League of Legends Community (13.3.2026 15：40：40).html",
+      "source_patch_dir": "patches/beta/2009-05-29"
+    }
+  ]
+}

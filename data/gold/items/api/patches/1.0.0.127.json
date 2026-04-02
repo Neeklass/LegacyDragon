@@ -1,0 +1,41 @@
+{
+  "patch_id": "1.0.0.127",
+  "era": "season_two",
+  "item_change_count": 16,
+  "items_changed": [
+    "Anathema's Chains",
+    "Archangel's Staff",
+    "Bami's Cinder",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Force of Arms",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Hextech Gunblade",
+    "Liandry's Anguish",
+    "Lightbringer",
+    "Manamune",
+    "Raise Morale",
+    "Tear of the Goddess"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.127/anathema-s-chains.parquet",
+    "patches/season_two/1.0.0.127/archangel-s-staff.parquet",
+    "patches/season_two/1.0.0.127/bami-s-cinder.parquet",
+    "patches/season_two/1.0.0.127/boots-of-speed.parquet",
+    "patches/season_two/1.0.0.127/death-s-dance.parquet",
+    "patches/season_two/1.0.0.127/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.127/essence-reaver.parquet",
+    "patches/season_two/1.0.0.127/force-of-arms.parquet",
+    "patches/season_two/1.0.0.127/giant-slayer.parquet",
+    "patches/season_two/1.0.0.127/guardian-angel.parquet",
+    "patches/season_two/1.0.0.127/hextech-gunblade.parquet",
+    "patches/season_two/1.0.0.127/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.127/lightbringer.parquet",
+    "patches/season_two/1.0.0.127/manamune.parquet",
+    "patches/season_two/1.0.0.127/raise-morale.parquet",
+    "patches/season_two/1.0.0.127/tear-of-the-goddess.parquet"
+  ]
+}

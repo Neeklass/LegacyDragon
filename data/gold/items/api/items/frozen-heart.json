@@ -1,0 +1,79 @@
+{
+  "item_slug": "frozen-heart",
+  "item_name": "Frozen Heart",
+  "change_count": 6,
+  "timeline": [
+    {
+      "item_name": "Frozen Heart",
+      "item_slug": "frozen-heart",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "Frozen Heart"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Frozen Heart",
+      "item_slug": "frozen-heart",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Frozen Heart"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Frozen Heart",
+      "item_slug": "frozen-heart",
+      "era": "beta",
+      "patch_id": "2009-06-06",
+      "matched_keywords": [
+        "Frozen Heart"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-06-06/Release Notes 06_06 - League of Legends Community (13.3.2026 15：42：00).html",
+      "source_patch_dir": "patches/beta/2009-06-06"
+    },
+    {
+      "item_name": "Frozen Heart",
+      "item_slug": "frozen-heart",
+      "era": "beta",
+      "patch_id": "2009-07-10",
+      "matched_keywords": [
+        "Frozen Heart"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-07-10/Release Notes 07_10 - League of Legends Community (13.3.2026 15：53：09).html",
+      "source_patch_dir": "patches/beta/2009-07-10"
+    },
+    {
+      "item_name": "Frozen Heart",
+      "item_slug": "frozen-heart",
+      "era": "season_one",
+      "patch_id": "1.0.0.111",
+      "matched_keywords": [
+        "Frozen Heart"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.111/Release Notes v1.0.0.111 - League of Legends Community (16.3.2026 14：22：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.111"
+    },
+    {
+      "item_name": "Frozen Heart",
+      "item_slug": "frozen-heart",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Frozen Heart"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    }
+  ]
+}

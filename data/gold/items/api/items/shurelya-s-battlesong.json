@@ -1,0 +1,67 @@
+{
+  "item_slug": "shurelya-s-battlesong",
+  "item_name": "Shurelya's Battlesong",
+  "change_count": 5,
+  "timeline": [
+    {
+      "item_name": "Shurelya's Battlesong",
+      "item_slug": "shurelya-s-battlesong",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "shurelya"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Shurelya's Battlesong",
+      "item_slug": "shurelya-s-battlesong",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "shurelya"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Shurelya's Battlesong",
+      "item_slug": "shurelya-s-battlesong",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "shurelya"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Shurelya's Battlesong",
+      "item_slug": "shurelya-s-battlesong",
+      "era": "season_one",
+      "patch_id": "1.0.0.122",
+      "matched_keywords": [
+        "shurelya"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.122/Release Notes v1.0.0.122 - League of Legends Community (16.3.2026 14：36：19).html",
+      "source_patch_dir": "patches/season_one/1.0.0.122"
+    },
+    {
+      "item_name": "Shurelya's Battlesong",
+      "item_slug": "shurelya-s-battlesong",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "shurelya"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    }
+  ]
+}

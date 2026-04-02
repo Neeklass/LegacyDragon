@@ -1,5 +1,4 @@
 data/source/
-data/bronze/
 __pycache__/
 *.pyc
 .env

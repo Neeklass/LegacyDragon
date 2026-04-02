@@ -1,0 +1,55 @@
+{
+  "item_slug": "elixir-of-fortitude",
+  "item_name": "Elixir of Fortitude",
+  "change_count": 4,
+  "timeline": [
+    {
+      "item_name": "Elixir of Fortitude",
+      "item_slug": "elixir-of-fortitude",
+      "era": "beta",
+      "patch_id": "0.9.25.24",
+      "matched_keywords": [
+        "Elixir of Fortitude"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.24/Release Notes - v09.25.24 - League of Legends Community (13.3.2026 16：05：40).html",
+      "source_patch_dir": "patches/beta/0.9.25.24"
+    },
+    {
+      "item_name": "Elixir of Fortitude",
+      "item_slug": "elixir-of-fortitude",
+      "era": "beta",
+      "patch_id": "2009-04-25",
+      "matched_keywords": [
+        "Elixir of Fortitude"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-04-25/Release Notes 04_25 - League of Legends Community (13.3.2026 15：29：18).html",
+      "source_patch_dir": "patches/beta/2009-04-25"
+    },
+    {
+      "item_name": "Elixir of Fortitude",
+      "item_slug": "elixir-of-fortitude",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "Elixir of Fortitude"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Elixir of Fortitude",
+      "item_slug": "elixir-of-fortitude",
+      "era": "season_one",
+      "patch_id": "1.0.0.87",
+      "matched_keywords": [
+        "Elixir of Fortitude"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.87/Release Notes v1.0.0.87 - League of Legends Community (16.3.2026 13：58：31).html",
+      "source_patch_dir": "patches/season_one/1.0.0.87"
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "item_slug": "innervating-locket",
+  "item_name": "Innervating Locket",
+  "change_count": 15,
+  "timeline": [
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "beta",
+      "patch_id": "0.8.22.115",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.22.115/Release Notes v0.8.22.115 - League of Legends Community (13.3.2026 15：57：26).html",
+      "source_patch_dir": "patches/beta/0.8.22.115"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "beta",
+      "patch_id": "2009-05-29",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-29/Release Notes 05_29 - League of Legends Community (13.3.2026 15：40：40).html",
+      "source_patch_dir": "patches/beta/2009-05-29"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "beta",
+      "patch_id": "2009-06-12",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-12/Release Notes 06_12 - League of Legends Community (13.3.2026 15：43：13).html",
+      "source_patch_dir": "patches/beta/2009-06-12"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "beta",
+      "patch_id": "2009-07-10",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-07-10/Release Notes 07_10 - League of Legends Community (13.3.2026 15：53：09).html",
+      "source_patch_dir": "patches/beta/2009-07-10"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "season_one",
+      "patch_id": "1.0.0.110",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.110/Release Notes v1.0.0.110 - League of Legends Community (16.3.2026 14：20：52).html",
+      "source_patch_dir": "patches/season_one/1.0.0.110"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "season_one",
+      "patch_id": "1.0.0.87",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.87/Release Notes v1.0.0.87 - League of Legends Community (16.3.2026 13：58：31).html",
+      "source_patch_dir": "patches/season_one/1.0.0.87"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "season_one",
+      "patch_id": "1.0.0.94",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.94/Release Notes v1.0.0.94 - League of Legends Community (16.3.2026 13：59：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.94"
+    },
+    {
+      "item_name": "Innervating Locket",
+      "item_slug": "innervating-locket",
+      "era": "season_one",
+      "patch_id": "1.0.0.94b",
+      "matched_keywords": [
+        "Innervating Locket"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.94b/Release Notes： PVP.net v1.13.29 ＋ League of Legends 1.0.0.94(b) - League of Legends Community (16.3.2026 14：00：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.94b"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "patch_id": "alpha_week_3",
+  "era": "alpha",
+  "item_change_count": 14,
+  "items_changed": [
+    "Bami's Cinder",
+    "Boots",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Last Whisper",
+    "Liandry's Anguish",
+    "Lightbringer",
+    "Rabadon's Deathcap",
+    "Serylda's Grudge",
+    "Teleport"
+  ],
+  "source_files": [
+    "patches/alpha/alpha_week_3/bami-s-cinder.parquet",
+    "patches/alpha/alpha_week_3/boots-of-speed.parquet",
+    "patches/alpha/alpha_week_3/boots.parquet",
+    "patches/alpha/alpha_week_3/death-s-dance.parquet",
+    "patches/alpha/alpha_week_3/edge-of-finality.parquet",
+    "patches/alpha/alpha_week_3/essence-reaver.parquet",
+    "patches/alpha/alpha_week_3/giant-slayer.parquet",
+    "patches/alpha/alpha_week_3/guardian-angel.parquet",
+    "patches/alpha/alpha_week_3/last-whisper.parquet",
+    "patches/alpha/alpha_week_3/liandry-s-anguish.parquet",
+    "patches/alpha/alpha_week_3/lightbringer.parquet",
+    "patches/alpha/alpha_week_3/rabadon-s-deathcap.parquet",
+    "patches/alpha/alpha_week_3/serylda-s-grudge.parquet",
+    "patches/alpha/alpha_week_3/teleport.parquet"
+  ]
+}

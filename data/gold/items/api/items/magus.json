@@ -1,0 +1,19 @@
+{
+  "item_slug": "magus",
+  "item_name": "Magus",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Magus",
+      "item_slug": "magus",
+      "era": "season_two",
+      "patch_id": "1.0.0.126",
+      "matched_keywords": [
+        "Magus"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.126/Xerath Patch Notes - League of Legends Community (16.3.2026 14：48：12).html",
+      "source_patch_dir": "patches/season_two/1.0.0.126"
+    }
+  ]
+}

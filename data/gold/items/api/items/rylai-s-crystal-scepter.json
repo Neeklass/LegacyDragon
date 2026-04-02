@@ -1,0 +1,19 @@
+{
+  "item_slug": "rylai-s-crystal-scepter",
+  "item_name": "Rylai's Crystal Scepter",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Rylai's Crystal Scepter",
+      "item_slug": "rylai-s-crystal-scepter",
+      "era": "season_one",
+      "patch_id": "1.0.0.118b",
+      "matched_keywords": [
+        "rylais"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.118b/Release Notes v1.0.0.118b - League of Legends Community (16.3.2026 14：31：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.118b"
+    }
+  ]
+}

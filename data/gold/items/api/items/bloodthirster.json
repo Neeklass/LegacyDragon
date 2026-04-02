@@ -1,0 +1,175 @@
+{
+  "item_slug": "bloodthirster",
+  "item_name": "Bloodthirster",
+  "change_count": 14,
+  "timeline": [
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "Bloodthirster"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "beta",
+      "patch_id": "0.9.22.18",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.18/Release Notes v0.9.22.18 - League of Legends Community (13.3.2026 16：03：39).html",
+      "source_patch_dir": "patches/beta/0.9.22.18"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "beta",
+      "patch_id": "0.9.22.4",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.4/Release Notes v0.9.22.4 - League of Legends Community (13.3.2026 15：58：35).html",
+      "source_patch_dir": "patches/beta/0.9.22.4"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "beta",
+      "patch_id": "0.9.25.34",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.34/Release Notes - v0.9.25.34 - League of Legends Community (13.3.2026 16：06：41).html",
+      "source_patch_dir": "patches/beta/0.9.25.34"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "beta",
+      "patch_id": "2009-06-12",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-06-12/Release Notes 06_12 - League of Legends Community (13.3.2026 15：43：13).html",
+      "source_patch_dir": "patches/beta/2009-06-12"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "season_one",
+      "patch_id": "1.0.0.108",
+      "matched_keywords": [
+        "Bloodthirster"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.108/Release Notes v1.0.0.108 - League of Legends Community (16.3.2026 14：18：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.108"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "season_one",
+      "patch_id": "1.0.0.121",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.121/Release Notes v1.0.0.121 - League of Legends Community (16.3.2026 14：35：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.121"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "season_one",
+      "patch_id": "1.0.0.85",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.85/Release Notes v1.0.0.85 - League of Legends Community (16.3.2026 13：56：49).html",
+      "source_patch_dir": "patches/season_one/1.0.0.85"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "season_two",
+      "patch_id": "1.0.0.129",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.129/Fizz Patch Notes - League of Legends Community (16.3.2026 14：51：37).html",
+      "source_patch_dir": "patches/season_two/1.0.0.129"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "season_two",
+      "patch_id": "1.0.0.134",
+      "matched_keywords": [
+        "bt"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.134/Nautilus Patch Notes - League of Legends Community (16.3.2026 14：58：08).html",
+      "source_patch_dir": "patches/season_two/1.0.0.134"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "season_two",
+      "patch_id": "1.0.0.136",
+      "matched_keywords": [
+        "Bloodthirster"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.136/Lulu Patch Notes - League of Legends Community (16.3.2026 15：03：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.136"
+    },
+    {
+      "item_name": "Bloodthirster",
+      "item_slug": "bloodthirster",
+      "era": "season_two",
+      "patch_id": "1.0.0.143",
+      "matched_keywords": [
+        "Bloodthirster"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.143/Mid-July Patch Notes - League of Legends Community (16.3.2026 15：17：28).html",
+      "source_patch_dir": "patches/season_two/1.0.0.143"
+    }
+  ]
+}

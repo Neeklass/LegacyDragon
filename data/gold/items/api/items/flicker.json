@@ -1,0 +1,43 @@
+{
+  "item_slug": "flicker",
+  "item_name": "Flicker",
+  "change_count": 3,
+  "timeline": [
+    {
+      "item_name": "Flicker",
+      "item_slug": "flicker",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Flicker"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Flicker",
+      "item_slug": "flicker",
+      "era": "season_one",
+      "patch_id": "1.0.0.74",
+      "matched_keywords": [
+        "Flicker"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.74/Release Notes v1.0.0.74 - League of Legends Community (16.3.2026 13：49：03).html",
+      "source_patch_dir": "patches/season_one/1.0.0.74"
+    },
+    {
+      "item_name": "Flicker",
+      "item_slug": "flicker",
+      "era": "season_two",
+      "patch_id": "1.0.0.134",
+      "matched_keywords": [
+        "Flicker"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.134/Nautilus Patch Notes - League of Legends Community (16.3.2026 14：58：08).html",
+      "source_patch_dir": "patches/season_two/1.0.0.134"
+    }
+  ]
+}

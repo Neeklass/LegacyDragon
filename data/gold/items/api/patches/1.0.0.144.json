@@ -1,0 +1,39 @@
+{
+  "patch_id": "1.0.0.144",
+  "era": "season_two",
+  "item_change_count": 15,
+  "items_changed": [
+    "Anathema's Chains",
+    "Bami's Cinder",
+    "Blighting Jewel",
+    "Boots",
+    "Boots of Mobility",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Phantom Dancer",
+    "Radiant Virtue",
+    "Zephyr"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.144/anathema-s-chains.parquet",
+    "patches/season_two/1.0.0.144/bami-s-cinder.parquet",
+    "patches/season_two/1.0.0.144/blighting-jewel.parquet",
+    "patches/season_two/1.0.0.144/boots-of-mobility.parquet",
+    "patches/season_two/1.0.0.144/boots-of-speed.parquet",
+    "patches/season_two/1.0.0.144/boots.parquet",
+    "patches/season_two/1.0.0.144/death-s-dance.parquet",
+    "patches/season_two/1.0.0.144/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.144/edge-of-night.parquet",
+    "patches/season_two/1.0.0.144/essence-reaver.parquet",
+    "patches/season_two/1.0.0.144/guardian-angel.parquet",
+    "patches/season_two/1.0.0.144/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.144/phantom-dancer.parquet",
+    "patches/season_two/1.0.0.144/radiant-virtue.parquet",
+    "patches/season_two/1.0.0.144/zephyr.parquet"
+  ]
+}

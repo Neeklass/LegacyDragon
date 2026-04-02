@@ -1,0 +1,163 @@
+{
+  "item_slug": "lich-bane",
+  "item_name": "Lich Bane",
+  "change_count": 13,
+  "timeline": [
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "beta",
+      "patch_id": "0.8.21.110",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.21.110/Release Notes Beta - Build v0.8.21.110 - League of Legends Community (13.3.2026 15：55：14).html",
+      "source_patch_dir": "patches/beta/0.8.21.110"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "beta",
+      "patch_id": "0.8.22.115",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.22.115/Release Notes v0.8.22.115 - League of Legends Community (13.3.2026 15：57：26).html",
+      "source_patch_dir": "patches/beta/0.8.22.115"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "beta",
+      "patch_id": "2009-05-29",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-29/Release Notes 05_29 - League of Legends Community (13.3.2026 15：40：40).html",
+      "source_patch_dir": "patches/beta/2009-05-29"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "beta",
+      "patch_id": "2009-06-06",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-06/Release Notes 06_06 - League of Legends Community (13.3.2026 15：42：00).html",
+      "source_patch_dir": "patches/beta/2009-06-06"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "beta",
+      "patch_id": "2009-06-19",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-19/Release Notes 06_19 - League of Legends Community (13.3.2026 15：50：15).html",
+      "source_patch_dir": "patches/beta/2009-06-19"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "beta",
+      "patch_id": "2009-06-26",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-26/Release Notes 06_26 - League of Legends Community (13.3.2026 15：51：45).html",
+      "source_patch_dir": "patches/beta/2009-06-26"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "season_one",
+      "patch_id": "1.0.0.100",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.100/Release Notes v1.0.0.100 - League of Legends Community (16.3.2026 14：06：00).html",
+      "source_patch_dir": "patches/season_one/1.0.0.100"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "season_one",
+      "patch_id": "1.0.0.104",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.104/Release Notes v1.0.0.104 - League of Legends Community (16.3.2026 14：13：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.104"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "season_one",
+      "patch_id": "1.0.0.110",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.110/Release Notes v1.0.0.110 - League of Legends Community (16.3.2026 14：20：52).html",
+      "source_patch_dir": "patches/season_one/1.0.0.110"
+    },
+    {
+      "item_name": "Lich Bane",
+      "item_slug": "lich-bane",
+      "era": "season_one",
+      "patch_id": "1.0.0.96",
+      "matched_keywords": [
+        "Lich Bane"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.96/Season 1 Release Notes - League of Legends Community (16.3.2026 14：01：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.96"
+    }
+  ]
+}

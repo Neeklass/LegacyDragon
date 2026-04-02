@@ -1,0 +1,91 @@
+{
+  "item_slug": "haunting-guise",
+  "item_name": "Haunting Guise",
+  "change_count": 7,
+  "timeline": [
+    {
+      "item_name": "Haunting Guise",
+      "item_slug": "haunting-guise",
+      "era": "season_one",
+      "patch_id": "1.0.0.112",
+      "matched_keywords": [
+        "Haunting Guise"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.112/Release Notes v1.0.0.112 - League of Legends Community (16.3.2026 14：23：14).html",
+      "source_patch_dir": "patches/season_one/1.0.0.112"
+    },
+    {
+      "item_name": "Haunting Guise",
+      "item_slug": "haunting-guise",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Haunting Guise"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Haunting Guise",
+      "item_slug": "haunting-guise",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Haunting Guise"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "Haunting Guise",
+      "item_slug": "haunting-guise",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "Haunting Guise"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "Haunting Guise",
+      "item_slug": "haunting-guise",
+      "era": "season_one",
+      "patch_id": "1.0.0.96",
+      "matched_keywords": [
+        "mask"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.96/Season 1 Release Notes - League of Legends Community (16.3.2026 14：01：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.96"
+    },
+    {
+      "item_name": "Haunting Guise",
+      "item_slug": "haunting-guise",
+      "era": "season_one",
+      "patch_id": "1.0.0.98",
+      "matched_keywords": [
+        "Haunting Guise"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.98/Release Notes v1.0.0.98 - League of Legends Community (16.3.2026 14：03：50).html",
+      "source_patch_dir": "patches/season_one/1.0.0.98"
+    },
+    {
+      "item_name": "Haunting Guise",
+      "item_slug": "haunting-guise",
+      "era": "season_two",
+      "patch_id": "1.0.0.151",
+      "matched_keywords": [
+        "Haunting Guise"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.151/End of Season 2 Patch Notes - League of Legends Community (16.3.2026 15：33：33).html",
+      "source_patch_dir": "patches/season_two/1.0.0.151"
+    }
+  ]
+}

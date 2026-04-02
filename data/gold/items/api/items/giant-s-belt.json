@@ -1,0 +1,19 @@
+{
+  "item_slug": "giant-s-belt",
+  "item_name": "Giant's Belt",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Giant's Belt",
+      "item_slug": "giant-s-belt",
+      "era": "beta",
+      "patch_id": "2009-07-10",
+      "matched_keywords": [
+        "Giants Belt"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-07-10/Release Notes 07_10 - League of Legends Community (13.3.2026 15：53：09).html",
+      "source_patch_dir": "patches/beta/2009-07-10"
+    }
+  ]
+}

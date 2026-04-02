@@ -1,0 +1,151 @@
+{
+  "item_slug": "sunfire-aegis",
+  "item_name": "Sunfire Aegis",
+  "change_count": 12,
+  "timeline": [
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "beta",
+      "patch_id": "2009-04-18",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-04-18/Release Notes 04_18 - League of Legends Community (13.3.2026 15：27：39).html",
+      "source_patch_dir": "patches/beta/2009-04-18"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "beta",
+      "patch_id": "2009-05-01",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-01/Release Notes 05_01 - League of Legends Community (13.3.2026 15：30：37).html",
+      "source_patch_dir": "patches/beta/2009-05-01"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "season_one",
+      "patch_id": "1.0.0.108",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.108/Release Notes v1.0.0.108 - League of Legends Community (16.3.2026 14：18：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.108"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "season_one",
+      "patch_id": "1.0.0.118",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.118/Release Notes v1.0.0.118 - League of Legends Community (16.3.2026 14：30：27).html",
+      "source_patch_dir": "patches/season_one/1.0.0.118"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "Sunfire Aegis",
+      "item_slug": "sunfire-aegis",
+      "era": "season_two",
+      "patch_id": "1.0.0.139",
+      "matched_keywords": [
+        "sunfire"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.139/Spectator Mode Patch Notes - League of Legends Community (16.3.2026 15：08：02).html",
+      "source_patch_dir": "patches/season_two/1.0.0.139"
+    }
+  ]
+}

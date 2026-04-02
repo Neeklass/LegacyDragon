@@ -1,0 +1,175 @@
+{
+  "item_slug": "dagger",
+  "item_name": "Dagger",
+  "change_count": 14,
+  "timeline": [
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "beta",
+      "patch_id": "0.9.25.24",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.24/Release Notes - v09.25.24 - League of Legends Community (13.3.2026 16：05：40).html",
+      "source_patch_dir": "patches/beta/0.9.25.24"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "beta",
+      "patch_id": "0.9.25.34",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.34/Release Notes - v0.9.25.34 - League of Legends Community (13.3.2026 16：06：41).html",
+      "source_patch_dir": "patches/beta/0.9.25.34"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_one",
+      "patch_id": "1.0.0.110",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.110/Release Notes v1.0.0.110 - League of Legends Community (16.3.2026 14：20：52).html",
+      "source_patch_dir": "patches/season_one/1.0.0.110"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_one",
+      "patch_id": "1.0.0.118",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.118/Release Notes v1.0.0.118 - League of Legends Community (16.3.2026 14：30：27).html",
+      "source_patch_dir": "patches/season_one/1.0.0.118"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_one",
+      "patch_id": "1.0.0.75",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.75/Release Notes v1.0.0.75 - League of Legends Community (16.3.2026 13：49：56).html",
+      "source_patch_dir": "patches/season_one/1.0.0.75"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_two",
+      "patch_id": "1.0.0.133",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.133/Ziggs Patch Notes - League of Legends Community (16.3.2026 14：56：35).html",
+      "source_patch_dir": "patches/season_two/1.0.0.133"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_two",
+      "patch_id": "1.0.0.142",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.142/Jayce Patch Notes - League of Legends Community (16.3.2026 15：16：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.142"
+    },
+    {
+      "item_name": "Dagger",
+      "item_slug": "dagger",
+      "era": "season_two",
+      "patch_id": "1.0.0.145",
+      "matched_keywords": [
+        "Dagger"
+      ],
+      "keyword_match_count": 5,
+      "source_html": "patches/season_two/1.0.0.145/Mid August Patch Notes - League of Legends Community (16.3.2026 15：21：50).html",
+      "source_patch_dir": "patches/season_two/1.0.0.145"
+    }
+  ]
+}

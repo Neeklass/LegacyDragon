@@ -1,0 +1,39 @@
+{
+  "patch_id": "1.0.0.124",
+  "era": "season_one",
+  "item_change_count": 15,
+  "items_changed": [
+    "Anathema's Chains",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Eternal Winter",
+    "Force of Nature",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Phantom Dancer",
+    "Rod of Ages",
+    "Serylda's Grudge",
+    "Teleport",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.124/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.124/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.124/death-s-dance.parquet",
+    "patches/season_one/1.0.0.124/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.124/essence-reaver.parquet",
+    "patches/season_one/1.0.0.124/eternal-winter.parquet",
+    "patches/season_one/1.0.0.124/force-of-nature.parquet",
+    "patches/season_one/1.0.0.124/giant-slayer.parquet",
+    "patches/season_one/1.0.0.124/guardian-angel.parquet",
+    "patches/season_one/1.0.0.124/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.124/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.124/rod-of-ages.parquet",
+    "patches/season_one/1.0.0.124/serylda-s-grudge.parquet",
+    "patches/season_one/1.0.0.124/teleport.parquet",
+    "patches/season_one/1.0.0.124/world-atlas.parquet"
+  ]
+}

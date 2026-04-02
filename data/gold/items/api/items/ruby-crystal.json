@@ -1,0 +1,115 @@
+{
+  "item_slug": "ruby-crystal",
+  "item_name": "Ruby Crystal",
+  "change_count": 9,
+  "timeline": [
+    {
+      "item_name": "Ruby Crystal",
+      "item_slug": "ruby-crystal",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Ruby Crystal"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Ruby Crystal",
+      "item_slug": "ruby-crystal",
+      "era": "season_one",
+      "patch_id": "1.0.0.100",
+      "matched_keywords": [
+        "Ruby Crystal"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.100/Release Notes v1.0.0.100 - League of Legends Community (16.3.2026 14：06：00).html",
+      "source_patch_dir": "patches/season_one/1.0.0.100"
+    },
+    {
+      "item_name": "Ruby Crystal",
+      "item_slug": "ruby-crystal",
+      "era": "season_one",
+      "patch_id": "1.0.0.101",
+      "matched_keywords": [
+        "Ruby Crystal"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.101/Release Notes v1.0.0.101 - League of Legends Community (16.3.2026 14：07：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.101"
+    },
+    {
+      "item_name": "Ruby Crystal",
+      "item_slug": "ruby-crystal",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "Ruby Crystal"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Ruby Crystal",
+      "item_slug": "ruby-crystal",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "Ruby Crystal"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Ruby Crystal",
+      "item_slug": "ruby-crystal",
+      "era": "season_one",
+      "patch_id": "1.0.0.115",
+      "matched_keywords": [
+        "Ruby Crystal"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.115/Release Notes v1.0.0.115 - League of Legends Community (16.3.2026 14：27：08).html",
+      "source_patch_dir": "patches/season_one/1.0.0.115"
+    },
+    {
+      "item_name": "Ruby Crystal",
+      "item_slug": "ruby-crystal",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "Ruby Crystal"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    },
+    {
+      "item_name": "Ruby Crystal",
+      "item_slug": "ruby-crystal",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Ruby Crystal"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Ruby Crystal",
+      "item_slug": "ruby-crystal",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "Ruby Crystal"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    }
+  ]
+}

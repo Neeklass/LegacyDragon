@@ -1,0 +1,55 @@
+{
+  "item_slug": "hexdrinker",
+  "item_name": "Hexdrinker",
+  "change_count": 4,
+  "timeline": [
+    {
+      "item_name": "Hexdrinker",
+      "item_slug": "hexdrinker",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "Hexdrinker"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Hexdrinker",
+      "item_slug": "hexdrinker",
+      "era": "season_two",
+      "patch_id": "1.0.0.136",
+      "matched_keywords": [
+        "Hexdrinker"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.136/Lulu Patch Notes - League of Legends Community (16.3.2026 15：03：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.136"
+    },
+    {
+      "item_name": "Hexdrinker",
+      "item_slug": "hexdrinker",
+      "era": "season_two",
+      "patch_id": "1.0.0.138",
+      "matched_keywords": [
+        "Hexdrinker"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.138/Hecarim Patch Notes - League of Legends Community (16.3.2026 15：05：55).html",
+      "source_patch_dir": "patches/season_two/1.0.0.138"
+    },
+    {
+      "item_name": "Hexdrinker",
+      "item_slug": "hexdrinker",
+      "era": "season_two",
+      "patch_id": "1.0.0.146",
+      "matched_keywords": [
+        "Hexdrinker"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.146/Late August Patch Notes - League of Legends Community (16.3.2026 15：23：36).html",
+      "source_patch_dir": "patches/season_two/1.0.0.146"
+    }
+  ]
+}

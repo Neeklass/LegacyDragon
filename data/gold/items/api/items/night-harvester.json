@@ -1,0 +1,607 @@
+{
+  "item_slug": "night-harvester",
+  "item_name": "Night Harvester",
+  "change_count": 50,
+  "timeline": [
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "alpha",
+      "patch_id": "alpha_week_6",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_6/Week 6 Release Notes - League of Legends Community (11.3.2026 14：27：49).html",
+      "source_patch_dir": "patches/alpha/alpha_week_6"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "alpha",
+      "patch_id": "alpha_week_7",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_7/Week 7 Release Notes - League of Legends Community (11.3.2026 14：29：11).html",
+      "source_patch_dir": "patches/alpha/alpha_week_7"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "0.8.22.115",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/beta/0.8.22.115/Release Notes v0.8.22.115 - League of Legends Community (13.3.2026 15：57：26).html",
+      "source_patch_dir": "patches/beta/0.8.22.115"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "0.9.22.7",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.7/Release Notes 08_07 - League of Legends Community (13.3.2026 15：59：37).html",
+      "source_patch_dir": "patches/beta/0.9.22.7"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "0.9.25.24",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.9.25.24/Release Notes - v09.25.24 - League of Legends Community (13.3.2026 16：05：40).html",
+      "source_patch_dir": "patches/beta/0.9.25.24"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "2009-04-11",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 4,
+      "source_html": "patches/beta/2009-04-11/Release Notes 04_11 - League of Legends Community (13.3.2026 15：25：42).html",
+      "source_patch_dir": "patches/beta/2009-04-11"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "2009-04-18",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 4,
+      "source_html": "patches/beta/2009-04-18/Release Notes 04_18 - League of Legends Community (13.3.2026 15：27：39).html",
+      "source_patch_dir": "patches/beta/2009-04-18"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "2009-04-25",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-04-25/Release Notes 04_25 - League of Legends Community (13.3.2026 15：29：18).html",
+      "source_patch_dir": "patches/beta/2009-04-25"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "2009-05-01",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-01/Release Notes 05_01 - League of Legends Community (13.3.2026 15：30：37).html",
+      "source_patch_dir": "patches/beta/2009-05-01"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "2009-05-23",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-05-23/Release Notes 05_23 - League of Legends Community (13.3.2026 15：35：24).html",
+      "source_patch_dir": "patches/beta/2009-05-23"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "beta",
+      "patch_id": "2009-05-29",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-29/Release Notes 05_29 - League of Legends Community (13.3.2026 15：40：40).html",
+      "source_patch_dir": "patches/beta/2009-05-29"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.104",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.104/Release Notes v1.0.0.104 - League of Legends Community (16.3.2026 14：13：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.104"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.109",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.109/Release Notes v1.0.0.109 - League of Legends Community (16.3.2026 14：19：48).html",
+      "source_patch_dir": "patches/season_one/1.0.0.109"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.112",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.112/Release Notes v1.0.0.112 - League of Legends Community (16.3.2026 14：23：14).html",
+      "source_patch_dir": "patches/season_one/1.0.0.112"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.113",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.113/Release Notes v1.0.0.113 - League of Legends Community (16.3.2026 14：24：22).html",
+      "source_patch_dir": "patches/season_one/1.0.0.113"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.114",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.114/Release Notes v1.0.0.114 - League of Legends Community (16.3.2026 14：25：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.114"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.116",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.116/Release Notes v1.0.0.116 - League of Legends Community (16.3.2026 14：29：25).html",
+      "source_patch_dir": "patches/season_one/1.0.0.116"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.118",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.118/Release Notes v1.0.0.118 - League of Legends Community (16.3.2026 14：30：27).html",
+      "source_patch_dir": "patches/season_one/1.0.0.118"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.120",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.120/League of Legends v1.0.0.120 - League of Legends Community (16.3.2026 14：33：29).html",
+      "source_patch_dir": "patches/season_one/1.0.0.120"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.121",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.121/Release Notes v1.0.0.121 - League of Legends Community (16.3.2026 14：35：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.121"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.122",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.122/Release Notes v1.0.0.122 - League of Legends Community (16.3.2026 14：36：19).html",
+      "source_patch_dir": "patches/season_one/1.0.0.122"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.123",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 5,
+      "source_html": "patches/season_one/1.0.0.123/Release Notes v1.0.0.123 - League of Legends Community (16.3.2026 14：37：26).html",
+      "source_patch_dir": "patches/season_one/1.0.0.123"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.52",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.52/Release Notes v 1.0.0.52 - League of Legends Community (16.3.2026 13：40：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.52"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.70",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.70/Release Notes v1.0.0.70 - League of Legends Community (16.3.2026 13：45：35).html",
+      "source_patch_dir": "patches/season_one/1.0.0.70"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.72",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.72/Release Notes v1.0.0.72 - League of Legends Community (16.3.2026 13：48：02).html",
+      "source_patch_dir": "patches/season_one/1.0.0.72"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.79",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.79/Release Notes v1.0.0.79 - League of Legends Community (16.3.2026 13：51：12).html",
+      "source_patch_dir": "patches/season_one/1.0.0.79"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.83",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.83/Release Notes v1.0.0.83 - League of Legends Community (16.3.2026 13：55：42).html",
+      "source_patch_dir": "patches/season_one/1.0.0.83"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.94",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.94/Release Notes v1.0.0.94 - League of Legends Community (16.3.2026 13：59：28).html",
+      "source_patch_dir": "patches/season_one/1.0.0.94"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_one",
+      "patch_id": "1.0.0.96",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.96/Season 1 Release Notes - League of Legends Community (16.3.2026 14：01：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.96"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_two",
+      "patch_id": "1.0.0.131",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.131/Ahri Patch Notes - League of Legends Community (16.3.2026 14：53：58).html",
+      "source_patch_dir": "patches/season_two/1.0.0.131"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_two",
+      "patch_id": "1.0.0.132",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.132/Sejuani Patch Notes - League of Legends Community (16.3.2026 14：55：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.132"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_two",
+      "patch_id": "1.0.0.140",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.140/Darius Patch Notes - League of Legends Community (16.3.2026 15：10：10).html",
+      "source_patch_dir": "patches/season_two/1.0.0.140"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_two",
+      "patch_id": "1.0.0.143",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_two/1.0.0.143/Mid-July Patch Notes - League of Legends Community (16.3.2026 15：17：28).html",
+      "source_patch_dir": "patches/season_two/1.0.0.143"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_two",
+      "patch_id": "1.0.0.146",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.146/Late August Patch Notes - League of Legends Community (16.3.2026 15：23：36).html",
+      "source_patch_dir": "patches/season_two/1.0.0.146"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_two",
+      "patch_id": "1.0.0.147",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 8,
+      "source_html": "patches/season_two/1.0.0.147/Mid September Patch Notes - League of Legends Community (16.3.2026 15：25：10).html",
+      "source_patch_dir": "patches/season_two/1.0.0.147"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_two",
+      "patch_id": "1.0.0.148",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.148/Late September Patch Notes - League of Legends Community (16.3.2026 15：27：25).html",
+      "source_patch_dir": "patches/season_two/1.0.0.148"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_two",
+      "patch_id": "1.0.0.149",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.149/Twisted Fate Game Update - League of Legends Community (16.3.2026 15：28：34).html",
+      "source_patch_dir": "patches/season_two/1.0.0.149"
+    },
+    {
+      "item_name": "Night Harvester",
+      "item_slug": "night-harvester",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "dark"
+      ],
+      "keyword_match_count": 4,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    }
+  ]
+}

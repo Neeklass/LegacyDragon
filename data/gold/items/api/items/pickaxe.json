@@ -1,0 +1,79 @@
+{
+  "item_slug": "pickaxe",
+  "item_name": "Pickaxe",
+  "change_count": 6,
+  "timeline": [
+    {
+      "item_name": "Pickaxe",
+      "item_slug": "pickaxe",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "Pickaxe"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Pickaxe",
+      "item_slug": "pickaxe",
+      "era": "alpha",
+      "patch_id": "alpha_week_6",
+      "matched_keywords": [
+        "Pickaxe"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_6/Week 6 Release Notes - League of Legends Community (11.3.2026 14：27：49).html",
+      "source_patch_dir": "patches/alpha/alpha_week_6"
+    },
+    {
+      "item_name": "Pickaxe",
+      "item_slug": "pickaxe",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "Pickaxe"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Pickaxe",
+      "item_slug": "pickaxe",
+      "era": "season_two",
+      "patch_id": "1.0.0.136",
+      "matched_keywords": [
+        "Pickaxe"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.136/Lulu Patch Notes - League of Legends Community (16.3.2026 15：03：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.136"
+    },
+    {
+      "item_name": "Pickaxe",
+      "item_slug": "pickaxe",
+      "era": "season_two",
+      "patch_id": "1.0.0.138",
+      "matched_keywords": [
+        "Pickaxe"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.138/Hecarim Patch Notes - League of Legends Community (16.3.2026 15：05：55).html",
+      "source_patch_dir": "patches/season_two/1.0.0.138"
+    },
+    {
+      "item_name": "Pickaxe",
+      "item_slug": "pickaxe",
+      "era": "season_two",
+      "patch_id": "1.0.0.142",
+      "matched_keywords": [
+        "Pickaxe"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.142/Jayce Patch Notes - League of Legends Community (16.3.2026 15：16：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.142"
+    }
+  ]
+}

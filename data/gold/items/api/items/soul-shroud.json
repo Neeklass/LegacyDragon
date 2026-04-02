@@ -1,0 +1,139 @@
+{
+  "item_slug": "soul-shroud",
+  "item_name": "Soul Shroud",
+  "change_count": 11,
+  "timeline": [
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "alpha",
+      "patch_id": "alpha_week_5",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_5/Week 5 Release Notes - League of Legends Community (11.3.2026 14：24：16).html",
+      "source_patch_dir": "patches/alpha/alpha_week_5"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "beta",
+      "patch_id": "2009-04-18",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-04-18/Release Notes 04_18 - League of Legends Community (13.3.2026 15：27：39).html",
+      "source_patch_dir": "patches/beta/2009-04-18"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "beta",
+      "patch_id": "2009-05-01",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/2009-05-01/Release Notes 05_01 - League of Legends Community (13.3.2026 15：30：37).html",
+      "source_patch_dir": "patches/beta/2009-05-01"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "season_one",
+      "patch_id": "1.0.0.111",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.111/Release Notes v1.0.0.111 - League of Legends Community (16.3.2026 14：22：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.111"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    },
+    {
+      "item_name": "Soul Shroud",
+      "item_slug": "soul-shroud",
+      "era": "season_one",
+      "patch_id": "1.0.0.87",
+      "matched_keywords": [
+        "Soul Shroud"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.87/Release Notes v1.0.0.87 - League of Legends Community (16.3.2026 13：58：31).html",
+      "source_patch_dir": "patches/season_one/1.0.0.87"
+    }
+  ]
+}

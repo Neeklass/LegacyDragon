@@ -1,0 +1,39 @@
+{
+  "patch_id": "1.0.0.32",
+  "era": "season_one",
+  "item_change_count": 15,
+  "items_changed": [
+    "Anathema's Chains",
+    "Blighting Jewel",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Frozen Mallet",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Last Whisper",
+    "Liandry's Anguish",
+    "Phantom Dancer",
+    "Radiant Virtue",
+    "Serylda's Grudge",
+    "World Atlas"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.32/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.32/blighting-jewel.parquet",
+    "patches/season_one/1.0.0.32/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.32/death-s-dance.parquet",
+    "patches/season_one/1.0.0.32/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.32/essence-reaver.parquet",
+    "patches/season_one/1.0.0.32/frozen-mallet.parquet",
+    "patches/season_one/1.0.0.32/giant-slayer.parquet",
+    "patches/season_one/1.0.0.32/guardian-angel.parquet",
+    "patches/season_one/1.0.0.32/last-whisper.parquet",
+    "patches/season_one/1.0.0.32/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.32/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.32/radiant-virtue.parquet",
+    "patches/season_one/1.0.0.32/serylda-s-grudge.parquet",
+    "patches/season_one/1.0.0.32/world-atlas.parquet"
+  ]
+}

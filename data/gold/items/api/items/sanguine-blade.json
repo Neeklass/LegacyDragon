@@ -1,0 +1,31 @@
+{
+  "item_slug": "sanguine-blade",
+  "item_name": "Sanguine Blade",
+  "change_count": 2,
+  "timeline": [
+    {
+      "item_name": "Sanguine Blade",
+      "item_slug": "sanguine-blade",
+      "era": "season_two",
+      "patch_id": "1.0.0.134",
+      "matched_keywords": [
+        "Sanguine Blade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.134/Nautilus Patch Notes - League of Legends Community (16.3.2026 14：58：08).html",
+      "source_patch_dir": "patches/season_two/1.0.0.134"
+    },
+    {
+      "item_name": "Sanguine Blade",
+      "item_slug": "sanguine-blade",
+      "era": "season_two",
+      "patch_id": "1.0.0.143",
+      "matched_keywords": [
+        "Sanguine Blade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.143/Mid-July Patch Notes - League of Legends Community (16.3.2026 15：17：28).html",
+      "source_patch_dir": "patches/season_two/1.0.0.143"
+    }
+  ]
+}

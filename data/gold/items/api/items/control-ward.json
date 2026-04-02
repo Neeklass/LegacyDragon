@@ -1,0 +1,19 @@
+{
+  "item_slug": "control-ward",
+  "item_name": "Control Ward",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Control Ward",
+      "item_slug": "control-ward",
+      "era": "season_one",
+      "patch_id": "1.0.0.111",
+      "matched_keywords": [
+        "pink"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.111/Release Notes v1.0.0.111 - League of Legends Community (16.3.2026 14：22：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.111"
+    }
+  ]
+}

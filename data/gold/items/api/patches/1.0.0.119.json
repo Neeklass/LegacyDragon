@@ -1,0 +1,25 @@
+{
+  "patch_id": "1.0.0.119",
+  "era": "season_one",
+  "item_change_count": 8,
+  "items_changed": [
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Phantom Dancer",
+    "Serylda's Grudge"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.119/boots-of-speed.parquet",
+    "patches/season_one/1.0.0.119/death-s-dance.parquet",
+    "patches/season_one/1.0.0.119/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.119/essence-reaver.parquet",
+    "patches/season_one/1.0.0.119/guardian-angel.parquet",
+    "patches/season_one/1.0.0.119/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.119/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.119/serylda-s-grudge.parquet"
+  ]
+}

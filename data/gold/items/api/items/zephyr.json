@@ -1,0 +1,103 @@
+{
+  "item_slug": "zephyr",
+  "item_name": "Zephyr",
+  "change_count": 8,
+  "timeline": [
+    {
+      "item_name": "Zephyr",
+      "item_slug": "zephyr",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Zephyr"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Zephyr",
+      "item_slug": "zephyr",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "Zephyr"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Zephyr",
+      "item_slug": "zephyr",
+      "era": "beta",
+      "patch_id": "0.9.25.24",
+      "matched_keywords": [
+        "Zephyr"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.24/Release Notes - v09.25.24 - League of Legends Community (13.3.2026 16：05：40).html",
+      "source_patch_dir": "patches/beta/0.9.25.24"
+    },
+    {
+      "item_name": "Zephyr",
+      "item_slug": "zephyr",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "Zephyr"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "Zephyr",
+      "item_slug": "zephyr",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Zephyr"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "Zephyr",
+      "item_slug": "zephyr",
+      "era": "season_one",
+      "patch_id": "1.0.0.87",
+      "matched_keywords": [
+        "Zephyr"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.87/Release Notes v1.0.0.87 - League of Legends Community (16.3.2026 13：58：31).html",
+      "source_patch_dir": "patches/season_one/1.0.0.87"
+    },
+    {
+      "item_name": "Zephyr",
+      "item_slug": "zephyr",
+      "era": "season_two",
+      "patch_id": "1.0.0.142",
+      "matched_keywords": [
+        "Zephyr"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.142/Jayce Patch Notes - League of Legends Community (16.3.2026 15：16：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.142"
+    },
+    {
+      "item_name": "Zephyr",
+      "item_slug": "zephyr",
+      "era": "season_two",
+      "patch_id": "1.0.0.144",
+      "matched_keywords": [
+        "Zephyr"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.144/Early August Patch Notes - League of Legends Community (16.3.2026 15：18：50).html",
+      "source_patch_dir": "patches/season_two/1.0.0.144"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "item_slug": "eclipse",
+  "item_name": "Eclipse",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Eclipse",
+      "item_slug": "eclipse",
+      "era": "season_one",
+      "patch_id": "1.0.0.123",
+      "matched_keywords": [
+        "Eclipse"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.123/Release Notes v1.0.0.123 - League of Legends Community (16.3.2026 14：37：26).html",
+      "source_patch_dir": "patches/season_one/1.0.0.123"
+    }
+  ]
+}

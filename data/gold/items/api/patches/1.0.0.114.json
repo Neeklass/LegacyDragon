@@ -1,0 +1,37 @@
+{
+  "patch_id": "1.0.0.114",
+  "era": "season_one",
+  "item_change_count": 14,
+  "items_changed": [
+    "Anathema's Chains",
+    "Bami's Cinder",
+    "Blighting Jewel",
+    "Death's Dance",
+    "Deathfire Grasp",
+    "Distortion",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Night Harvester",
+    "Phantom Dancer",
+    "Serylda's Grudge"
+  ],
+  "source_files": [
+    "patches/season_one/1.0.0.114/anathema-s-chains.parquet",
+    "patches/season_one/1.0.0.114/bami-s-cinder.parquet",
+    "patches/season_one/1.0.0.114/blighting-jewel.parquet",
+    "patches/season_one/1.0.0.114/death-s-dance.parquet",
+    "patches/season_one/1.0.0.114/deathfire-grasp.parquet",
+    "patches/season_one/1.0.0.114/distortion.parquet",
+    "patches/season_one/1.0.0.114/edge-of-finality.parquet",
+    "patches/season_one/1.0.0.114/edge-of-night.parquet",
+    "patches/season_one/1.0.0.114/essence-reaver.parquet",
+    "patches/season_one/1.0.0.114/guardian-angel.parquet",
+    "patches/season_one/1.0.0.114/liandry-s-anguish.parquet",
+    "patches/season_one/1.0.0.114/night-harvester.parquet",
+    "patches/season_one/1.0.0.114/phantom-dancer.parquet",
+    "patches/season_one/1.0.0.114/serylda-s-grudge.parquet"
+  ]
+}

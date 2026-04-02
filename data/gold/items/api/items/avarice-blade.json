@@ -1,0 +1,91 @@
+{
+  "item_slug": "avarice-blade",
+  "item_name": "Avarice Blade",
+  "change_count": 7,
+  "timeline": [
+    {
+      "item_name": "Avarice Blade",
+      "item_slug": "avarice-blade",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "Avarice Blade"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Avarice Blade",
+      "item_slug": "avarice-blade",
+      "era": "beta",
+      "patch_id": "0.8.22.115",
+      "matched_keywords": [
+        "Avarice Blade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.22.115/Release Notes v0.8.22.115 - League of Legends Community (13.3.2026 15：57：26).html",
+      "source_patch_dir": "patches/beta/0.8.22.115"
+    },
+    {
+      "item_name": "Avarice Blade",
+      "item_slug": "avarice-blade",
+      "era": "beta",
+      "patch_id": "2009-04-11",
+      "matched_keywords": [
+        "Avarice Blade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-04-11/Release Notes 04_11 - League of Legends Community (13.3.2026 15：25：42).html",
+      "source_patch_dir": "patches/beta/2009-04-11"
+    },
+    {
+      "item_name": "Avarice Blade",
+      "item_slug": "avarice-blade",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Avarice Blade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Avarice Blade",
+      "item_slug": "avarice-blade",
+      "era": "beta",
+      "patch_id": "2009-07-10",
+      "matched_keywords": [
+        "Avarice Blade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-07-10/Release Notes 07_10 - League of Legends Community (13.3.2026 15：53：09).html",
+      "source_patch_dir": "patches/beta/2009-07-10"
+    },
+    {
+      "item_name": "Avarice Blade",
+      "item_slug": "avarice-blade",
+      "era": "season_one",
+      "patch_id": "1.0.0.120",
+      "matched_keywords": [
+        "Avarice Blade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.120/League of Legends v1.0.0.120 - League of Legends Community (16.3.2026 14：33：29).html",
+      "source_patch_dir": "patches/season_one/1.0.0.120"
+    },
+    {
+      "item_name": "Avarice Blade",
+      "item_slug": "avarice-blade",
+      "era": "season_two",
+      "patch_id": "1.0.0.143",
+      "matched_keywords": [
+        "Avarice Blade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.143/Mid-July Patch Notes - League of Legends Community (16.3.2026 15：17：28).html",
+      "source_patch_dir": "patches/season_two/1.0.0.143"
+    }
+  ]
+}

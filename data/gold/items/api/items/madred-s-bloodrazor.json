@@ -1,0 +1,19 @@
+{
+  "item_slug": "madred-s-bloodrazor",
+  "item_name": "Madred's Bloodrazor",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Madred's Bloodrazor",
+      "item_slug": "madred-s-bloodrazor",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Madreds Bloodrazor"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    }
+  ]
+}

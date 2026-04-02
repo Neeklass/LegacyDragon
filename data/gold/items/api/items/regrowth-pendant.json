@@ -1,0 +1,103 @@
+{
+  "item_slug": "regrowth-pendant",
+  "item_name": "Regrowth Pendant",
+  "change_count": 8,
+  "timeline": [
+    {
+      "item_name": "Regrowth Pendant",
+      "item_slug": "regrowth-pendant",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "Regrowth Pendant"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Regrowth Pendant",
+      "item_slug": "regrowth-pendant",
+      "era": "beta",
+      "patch_id": "0.8.21.110",
+      "matched_keywords": [
+        "Regrowth Pendant"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.8.21.110/Release Notes Beta - Build v0.8.21.110 - League of Legends Community (13.3.2026 15：55：14).html",
+      "source_patch_dir": "patches/beta/0.8.21.110"
+    },
+    {
+      "item_name": "Regrowth Pendant",
+      "item_slug": "regrowth-pendant",
+      "era": "beta",
+      "patch_id": "0.9.25.24",
+      "matched_keywords": [
+        "Regrowth Pendant"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.24/Release Notes - v09.25.24 - League of Legends Community (13.3.2026 16：05：40).html",
+      "source_patch_dir": "patches/beta/0.9.25.24"
+    },
+    {
+      "item_name": "Regrowth Pendant",
+      "item_slug": "regrowth-pendant",
+      "era": "beta",
+      "patch_id": "2009-04-25",
+      "matched_keywords": [
+        "Regrowth Pendant"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-04-25/Release Notes 04_25 - League of Legends Community (13.3.2026 15：29：18).html",
+      "source_patch_dir": "patches/beta/2009-04-25"
+    },
+    {
+      "item_name": "Regrowth Pendant",
+      "item_slug": "regrowth-pendant",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Regrowth Pendant"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Regrowth Pendant",
+      "item_slug": "regrowth-pendant",
+      "era": "beta",
+      "patch_id": "2009-05-29",
+      "matched_keywords": [
+        "Regrowth Pendant"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-29/Release Notes 05_29 - League of Legends Community (13.3.2026 15：40：40).html",
+      "source_patch_dir": "patches/beta/2009-05-29"
+    },
+    {
+      "item_name": "Regrowth Pendant",
+      "item_slug": "regrowth-pendant",
+      "era": "season_one",
+      "patch_id": "1.0.0.100",
+      "matched_keywords": [
+        "Regrowth Pendant"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.100/Release Notes v1.0.0.100 - League of Legends Community (16.3.2026 14：06：00).html",
+      "source_patch_dir": "patches/season_one/1.0.0.100"
+    },
+    {
+      "item_name": "Regrowth Pendant",
+      "item_slug": "regrowth-pendant",
+      "era": "season_one",
+      "patch_id": "1.0.0.85",
+      "matched_keywords": [
+        "Regrowth Pendant"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.85/Release Notes v1.0.0.85 - League of Legends Community (16.3.2026 13：56：49).html",
+      "source_patch_dir": "patches/season_one/1.0.0.85"
+    }
+  ]
+}

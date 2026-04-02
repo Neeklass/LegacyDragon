@@ -1,0 +1,31 @@
+{
+  "patch_id": "1.0.0.148",
+  "era": "season_two",
+  "item_change_count": 11,
+  "items_changed": [
+    "Blighting Jewel",
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Night Harvester",
+    "Phantom Dancer",
+    "Rod of Ages",
+    "Serylda's Grudge",
+    "Vision Ward"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.148/blighting-jewel.parquet",
+    "patches/season_two/1.0.0.148/death-s-dance.parquet",
+    "patches/season_two/1.0.0.148/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.148/essence-reaver.parquet",
+    "patches/season_two/1.0.0.148/giant-slayer.parquet",
+    "patches/season_two/1.0.0.148/guardian-angel.parquet",
+    "patches/season_two/1.0.0.148/night-harvester.parquet",
+    "patches/season_two/1.0.0.148/phantom-dancer.parquet",
+    "patches/season_two/1.0.0.148/rod-of-ages.parquet",
+    "patches/season_two/1.0.0.148/serylda-s-grudge.parquet",
+    "patches/season_two/1.0.0.148/vision-ward.parquet"
+  ]
+}

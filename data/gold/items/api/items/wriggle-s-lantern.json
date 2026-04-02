@@ -1,0 +1,31 @@
+{
+  "item_slug": "wriggle-s-lantern",
+  "item_name": "Wriggle's Lantern",
+  "change_count": 2,
+  "timeline": [
+    {
+      "item_name": "Wriggle's Lantern",
+      "item_slug": "wriggle-s-lantern",
+      "era": "season_one",
+      "patch_id": "1.0.0.97",
+      "matched_keywords": [
+        "Wriggles Lantern"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.97/Release Notes v1.0.0.97 - League of Legends Community (16.3.2026 14：02：50).html",
+      "source_patch_dir": "patches/season_one/1.0.0.97"
+    },
+    {
+      "item_name": "Wriggle's Lantern",
+      "item_slug": "wriggle-s-lantern",
+      "era": "season_two",
+      "patch_id": "1.0.0.129",
+      "matched_keywords": [
+        "Wriggles Lantern"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.129/Fizz Patch Notes - League of Legends Community (16.3.2026 14：51：37).html",
+      "source_patch_dir": "patches/season_two/1.0.0.129"
+    }
+  ]
+}

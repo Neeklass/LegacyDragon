@@ -1,0 +1,25 @@
+{
+  "patch_id": "1.0.0.149",
+  "era": "season_two",
+  "item_change_count": 8,
+  "items_changed": [
+    "Death's Dance",
+    "Edge of Finality",
+    "Essence Reaver",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Liandry's Anguish",
+    "Night Harvester",
+    "Phantom Dancer"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.149/death-s-dance.parquet",
+    "patches/season_two/1.0.0.149/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.149/essence-reaver.parquet",
+    "patches/season_two/1.0.0.149/giant-slayer.parquet",
+    "patches/season_two/1.0.0.149/guardian-angel.parquet",
+    "patches/season_two/1.0.0.149/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.149/night-harvester.parquet",
+    "patches/season_two/1.0.0.149/phantom-dancer.parquet"
+  ]
+}

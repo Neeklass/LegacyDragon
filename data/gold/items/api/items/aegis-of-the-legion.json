@@ -1,0 +1,103 @@
+{
+  "item_slug": "aegis-of-the-legion",
+  "item_name": "Aegis of the Legion",
+  "change_count": 8,
+  "timeline": [
+    {
+      "item_name": "Aegis of the Legion",
+      "item_slug": "aegis-of-the-legion",
+      "era": "beta",
+      "patch_id": "0.9.22.16",
+      "matched_keywords": [
+        "Aegis of the Legion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.16/Release Notes - v0.9.22.16 - League of Legends Community (13.3.2026 16：02：42).html",
+      "source_patch_dir": "patches/beta/0.9.22.16"
+    },
+    {
+      "item_name": "Aegis of the Legion",
+      "item_slug": "aegis-of-the-legion",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "Aegis of the Legion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Aegis of the Legion",
+      "item_slug": "aegis-of-the-legion",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Aegis of the Legion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Aegis of the Legion",
+      "item_slug": "aegis-of-the-legion",
+      "era": "beta",
+      "patch_id": "2009-07-10",
+      "matched_keywords": [
+        "Aegis of the Legion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-07-10/Release Notes 07_10 - League of Legends Community (13.3.2026 15：53：09).html",
+      "source_patch_dir": "patches/beta/2009-07-10"
+    },
+    {
+      "item_name": "Aegis of the Legion",
+      "item_slug": "aegis-of-the-legion",
+      "era": "season_one",
+      "patch_id": "1.0.0.106",
+      "matched_keywords": [
+        "Aegis of the Legion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.106/Release Notes v1.0.0.106 - League of Legends Community (16.3.2026 14：16：13).html",
+      "source_patch_dir": "patches/season_one/1.0.0.106"
+    },
+    {
+      "item_name": "Aegis of the Legion",
+      "item_slug": "aegis-of-the-legion",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Aegis of the Legion"
+      ],
+      "keyword_match_count": 5,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Aegis of the Legion",
+      "item_slug": "aegis-of-the-legion",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Aegis of the Legion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "Aegis of the Legion",
+      "item_slug": "aegis-of-the-legion",
+      "era": "season_one",
+      "patch_id": "1.0.0.96",
+      "matched_keywords": [
+        "Aegis of the Legion"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.96/Season 1 Release Notes - League of Legends Community (16.3.2026 14：01：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.96"
+    }
+  ]
+}

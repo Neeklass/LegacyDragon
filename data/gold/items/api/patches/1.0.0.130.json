@@ -1,0 +1,43 @@
+{
+  "patch_id": "1.0.0.130",
+  "era": "season_two",
+  "item_change_count": 17,
+  "items_changed": [
+    "Anathema's Chains",
+    "Boots of Speed",
+    "Death's Dance",
+    "Edge of Finality",
+    "Edge of Night",
+    "Essence Reaver",
+    "Eternal Winter",
+    "Giant Slayer",
+    "Guardian Angel",
+    "Health Potion",
+    "Last Whisper",
+    "Liandry's Anguish",
+    "Mana Potion",
+    "Phantom Dancer",
+    "Radiant Virtue",
+    "Rod of Ages",
+    "Serylda's Grudge"
+  ],
+  "source_files": [
+    "patches/season_two/1.0.0.130/anathema-s-chains.parquet",
+    "patches/season_two/1.0.0.130/boots-of-speed.parquet",
+    "patches/season_two/1.0.0.130/death-s-dance.parquet",
+    "patches/season_two/1.0.0.130/edge-of-finality.parquet",
+    "patches/season_two/1.0.0.130/edge-of-night.parquet",
+    "patches/season_two/1.0.0.130/essence-reaver.parquet",
+    "patches/season_two/1.0.0.130/eternal-winter.parquet",
+    "patches/season_two/1.0.0.130/giant-slayer.parquet",
+    "patches/season_two/1.0.0.130/guardian-angel.parquet",
+    "patches/season_two/1.0.0.130/health-potion.parquet",
+    "patches/season_two/1.0.0.130/last-whisper.parquet",
+    "patches/season_two/1.0.0.130/liandry-s-anguish.parquet",
+    "patches/season_two/1.0.0.130/mana-potion.parquet",
+    "patches/season_two/1.0.0.130/phantom-dancer.parquet",
+    "patches/season_two/1.0.0.130/radiant-virtue.parquet",
+    "patches/season_two/1.0.0.130/rod-of-ages.parquet",
+    "patches/season_two/1.0.0.130/serylda-s-grudge.parquet"
+  ]
+}

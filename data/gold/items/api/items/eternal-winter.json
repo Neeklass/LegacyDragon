@@ -1,0 +1,175 @@
+{
+  "item_slug": "eternal-winter",
+  "item_name": "Eternal Winter",
+  "change_count": 14,
+  "timeline": [
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "beta",
+      "patch_id": "0.9.22.4",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.4/Release Notes v0.9.22.4 - League of Legends Community (13.3.2026 15：58：35).html",
+      "source_patch_dir": "patches/beta/0.9.22.4"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "beta",
+      "patch_id": "0.9.25.21",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/beta/0.9.25.21/Release Notes v0.9.25.21 - League of Legends Community (13.3.2026 16：04：34).html",
+      "source_patch_dir": "patches/beta/0.9.25.21"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "beta",
+      "patch_id": "0.9.25.34",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/beta/0.9.25.34/Release Notes - v0.9.25.34 - League of Legends Community (13.3.2026 16：06：41).html",
+      "source_patch_dir": "patches/beta/0.9.25.34"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "beta",
+      "patch_id": "2009-06-12",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-12/Release Notes 06_12 - League of Legends Community (13.3.2026 15：43：13).html",
+      "source_patch_dir": "patches/beta/2009-06-12"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_one",
+      "patch_id": "1.0.0.104",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.104/Release Notes v1.0.0.104 - League of Legends Community (16.3.2026 14：13：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.104"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_one",
+      "patch_id": "1.0.0.124",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.124/Talon Patch Notes - League of Legends Community (16.3.2026 14：38：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.124"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_one",
+      "patch_id": "1.0.0.96",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.96/Season 1 Release Notes - League of Legends Community (16.3.2026 14：01：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.96"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_two",
+      "patch_id": "1.0.0.130",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.130/Volibear Patch Notes - League of Legends Community (16.3.2026 14：52：59).html",
+      "source_patch_dir": "patches/season_two/1.0.0.130"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_two",
+      "patch_id": "1.0.0.132",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.132/Sejuani Patch Notes - League of Legends Community (16.3.2026 14：55：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.132"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_two",
+      "patch_id": "1.0.0.133",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.133/Ziggs Patch Notes - League of Legends Community (16.3.2026 14：56：35).html",
+      "source_patch_dir": "patches/season_two/1.0.0.133"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_two",
+      "patch_id": "1.0.0.138",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.138/Hecarim Patch Notes - League of Legends Community (16.3.2026 15：05：55).html",
+      "source_patch_dir": "patches/season_two/1.0.0.138"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_two",
+      "patch_id": "1.0.0.139",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.139/Spectator Mode Patch Notes - League of Legends Community (16.3.2026 15：08：02).html",
+      "source_patch_dir": "patches/season_two/1.0.0.139"
+    },
+    {
+      "item_name": "Eternal Winter",
+      "item_slug": "eternal-winter",
+      "era": "season_two",
+      "patch_id": "1.0.0.140",
+      "matched_keywords": [
+        "hose"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.140/Darius Patch Notes - League of Legends Community (16.3.2026 15：10：10).html",
+      "source_patch_dir": "patches/season_two/1.0.0.140"
+    }
+  ]
+}

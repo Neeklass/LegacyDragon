@@ -1,0 +1,43 @@
+{
+  "item_slug": "emblem-of-valor",
+  "item_name": "Emblem of Valor",
+  "change_count": 3,
+  "timeline": [
+    {
+      "item_name": "Emblem of Valor",
+      "item_slug": "emblem-of-valor",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "Emblem of Valor"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Emblem of Valor",
+      "item_slug": "emblem-of-valor",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Emblem of Valor"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Emblem of Valor",
+      "item_slug": "emblem-of-valor",
+      "era": "season_two",
+      "patch_id": "1.0.0.133",
+      "matched_keywords": [
+        "Emblem of Valor"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_two/1.0.0.133/Ziggs Patch Notes - League of Legends Community (16.3.2026 14：56：35).html",
+      "source_patch_dir": "patches/season_two/1.0.0.133"
+    }
+  ]
+}

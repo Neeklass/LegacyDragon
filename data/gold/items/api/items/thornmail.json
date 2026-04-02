@@ -1,0 +1,115 @@
+{
+  "item_slug": "thornmail",
+  "item_name": "Thornmail",
+  "change_count": 9,
+  "timeline": [
+    {
+      "item_name": "Thornmail",
+      "item_slug": "thornmail",
+      "era": "alpha",
+      "patch_id": "alpha_week_2",
+      "matched_keywords": [
+        "Thornmail"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_2/02-2029_alpha_week_2.html",
+      "source_patch_dir": "patches/alpha/alpha_week_2"
+    },
+    {
+      "item_name": "Thornmail",
+      "item_slug": "thornmail",
+      "era": "alpha",
+      "patch_id": "alpha_week_6",
+      "matched_keywords": [
+        "Thornmail"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_6/Week 6 Release Notes - League of Legends Community (11.3.2026 14：27：49).html",
+      "source_patch_dir": "patches/alpha/alpha_week_6"
+    },
+    {
+      "item_name": "Thornmail",
+      "item_slug": "thornmail",
+      "era": "beta",
+      "patch_id": "0.9.25.24",
+      "matched_keywords": [
+        "Thornmail"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.25.24/Release Notes - v09.25.24 - League of Legends Community (13.3.2026 16：05：40).html",
+      "source_patch_dir": "patches/beta/0.9.25.24"
+    },
+    {
+      "item_name": "Thornmail",
+      "item_slug": "thornmail",
+      "era": "beta",
+      "patch_id": "2009-05-09",
+      "matched_keywords": [
+        "Thornmail"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-09/Release Notes 05_09 - League of Legends Community (13.3.2026 15：32：25).html",
+      "source_patch_dir": "patches/beta/2009-05-09"
+    },
+    {
+      "item_name": "Thornmail",
+      "item_slug": "thornmail",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Thornmail"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Thornmail",
+      "item_slug": "thornmail",
+      "era": "beta",
+      "patch_id": "2009-06-26",
+      "matched_keywords": [
+        "Thornmail"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-06-26/Release Notes 06_26 - League of Legends Community (13.3.2026 15：51：45).html",
+      "source_patch_dir": "patches/beta/2009-06-26"
+    },
+    {
+      "item_name": "Thornmail",
+      "item_slug": "thornmail",
+      "era": "season_one",
+      "patch_id": "1.0.0.63",
+      "matched_keywords": [
+        "Thornmail"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.63/Release Notes v1.0.0.63 - League of Legends Community (16.3.2026 13：44：37).html",
+      "source_patch_dir": "patches/season_one/1.0.0.63"
+    },
+    {
+      "item_name": "Thornmail",
+      "item_slug": "thornmail",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "Thornmail"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "Thornmail",
+      "item_slug": "thornmail",
+      "era": "season_two",
+      "patch_id": "1.0.0.151",
+      "matched_keywords": [
+        "Thornmail"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.151/End of Season 2 Patch Notes - League of Legends Community (16.3.2026 15：33：33).html",
+      "source_patch_dir": "patches/season_two/1.0.0.151"
+    }
+  ]
+}

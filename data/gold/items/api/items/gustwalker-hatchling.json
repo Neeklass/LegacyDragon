@@ -1,0 +1,19 @@
+{
+  "item_slug": "gustwalker-hatchling",
+  "item_name": "Gustwalker Hatchling",
+  "change_count": 1,
+  "timeline": [
+    {
+      "item_name": "Gustwalker Hatchling",
+      "item_slug": "gustwalker-hatchling",
+      "era": "beta",
+      "patch_id": "0.9.22.18",
+      "matched_keywords": [
+        "dog"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/0.9.22.18/Release Notes v0.9.22.18 - League of Legends Community (13.3.2026 16：03：39).html",
+      "source_patch_dir": "patches/beta/0.9.22.18"
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+{
+  "item_slug": "quicksilver-sash",
+  "item_name": "Quicksilver Sash",
+  "change_count": 12,
+  "timeline": [
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_one",
+      "patch_id": "1.0.0.103",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.103/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 14：11：51).html",
+      "source_patch_dir": "patches/season_one/1.0.0.103"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_one",
+      "patch_id": "1.0.0.111",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.111/Release Notes v1.0.0.111 - League of Legends Community (16.3.2026 14：22：10).html",
+      "source_patch_dir": "patches/season_one/1.0.0.111"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_one",
+      "patch_id": "1.0.0.115",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.115/Release Notes v1.0.0.115 - League of Legends Community (16.3.2026 14：27：08).html",
+      "source_patch_dir": "patches/season_one/1.0.0.115"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_one",
+      "patch_id": "1.0.0.120",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.120/League of Legends v1.0.0.120 - League of Legends Community (16.3.2026 14：33：29).html",
+      "source_patch_dir": "patches/season_one/1.0.0.120"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_one",
+      "patch_id": "1.0.0.123",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.123/Release Notes v1.0.0.123 - League of Legends Community (16.3.2026 14：37：26).html",
+      "source_patch_dir": "patches/season_one/1.0.0.123"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_one",
+      "patch_id": "1.0.0.58",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.58/Release Notes v1.0.0.103 - League of Legends Community (16.3.2026 13：42：24).html",
+      "source_patch_dir": "patches/season_one/1.0.0.58"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_one",
+      "patch_id": "1.0.0.61",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.61/Release Notes v1.0.0.61 - League of Legends Community (16.3.2026 13：43：41).html",
+      "source_patch_dir": "patches/season_one/1.0.0.61"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_two",
+      "patch_id": "1.0.0.126",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.126/Xerath Patch Notes - League of Legends Community (16.3.2026 14：48：12).html",
+      "source_patch_dir": "patches/season_two/1.0.0.126"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_two",
+      "patch_id": "1.0.0.131",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.131/Ahri Patch Notes - League of Legends Community (16.3.2026 14：53：58).html",
+      "source_patch_dir": "patches/season_two/1.0.0.131"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_two",
+      "patch_id": "1.0.0.132",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.132/Sejuani Patch Notes - League of Legends Community (16.3.2026 14：55：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.132"
+    },
+    {
+      "item_name": "Quicksilver Sash",
+      "item_slug": "quicksilver-sash",
+      "era": "season_two",
+      "patch_id": "1.0.0.142",
+      "matched_keywords": [
+        "Quicksilver Sash"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.142/Jayce Patch Notes - League of Legends Community (16.3.2026 15：16：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.142"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "item_slug": "hextech-gunblade",
+  "item_name": "Hextech Gunblade",
+  "change_count": 5,
+  "timeline": [
+    {
+      "item_name": "Hextech Gunblade",
+      "item_slug": "hextech-gunblade",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "Hextech Gunblade"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Hextech Gunblade",
+      "item_slug": "hextech-gunblade",
+      "era": "season_one",
+      "patch_id": "1.0.0.115",
+      "matched_keywords": [
+        "Hextech Gunblade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.115/Release Notes v1.0.0.115 - League of Legends Community (16.3.2026 14：27：08).html",
+      "source_patch_dir": "patches/season_one/1.0.0.115"
+    },
+    {
+      "item_name": "Hextech Gunblade",
+      "item_slug": "hextech-gunblade",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "Hextech Gunblade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "Hextech Gunblade",
+      "item_slug": "hextech-gunblade",
+      "era": "season_one",
+      "patch_id": "1.0.0.98",
+      "matched_keywords": [
+        "Hextech Gunblade"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.98/Release Notes v1.0.0.98 - League of Legends Community (16.3.2026 14：03：50).html",
+      "source_patch_dir": "patches/season_one/1.0.0.98"
+    },
+    {
+      "item_name": "Hextech Gunblade",
+      "item_slug": "hextech-gunblade",
+      "era": "season_two",
+      "patch_id": "1.0.0.127",
+      "matched_keywords": [
+        "Hextech Gunblade"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.127/Graves Patch Notes - League of Legends Community (16.3.2026 14：49：17).html",
+      "source_patch_dir": "patches/season_two/1.0.0.127"
+    }
+  ]
+}

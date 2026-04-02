@@ -1,0 +1,55 @@
+{
+  "item_slug": "ninja-tabi",
+  "item_name": "Ninja Tabi",
+  "change_count": 4,
+  "timeline": [
+    {
+      "item_name": "Ninja Tabi",
+      "item_slug": "ninja-tabi",
+      "era": "beta",
+      "patch_id": "2009-05-15",
+      "matched_keywords": [
+        "Ninja Tabi"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/beta/2009-05-15/Release Notes 05_15 - League of Legends Community (13.3.2026 15：34：04).html",
+      "source_patch_dir": "patches/beta/2009-05-15"
+    },
+    {
+      "item_name": "Ninja Tabi",
+      "item_slug": "ninja-tabi",
+      "era": "season_one",
+      "patch_id": "1.0.0.110",
+      "matched_keywords": [
+        "Ninja Tabi"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.110/Release Notes v1.0.0.110 - League of Legends Community (16.3.2026 14：20：52).html",
+      "source_patch_dir": "patches/season_one/1.0.0.110"
+    },
+    {
+      "item_name": "Ninja Tabi",
+      "item_slug": "ninja-tabi",
+      "era": "season_one",
+      "patch_id": "1.0.0.82",
+      "matched_keywords": [
+        "Ninja Tabi"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.82/Release Notes v1.0.0.82 - League of Legends Community (16.3.2026 13：54：44).html",
+      "source_patch_dir": "patches/season_one/1.0.0.82"
+    },
+    {
+      "item_name": "Ninja Tabi",
+      "item_slug": "ninja-tabi",
+      "era": "season_two",
+      "patch_id": "1.0.0.132",
+      "matched_keywords": [
+        "Ninja Tabi"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.132/Sejuani Patch Notes - League of Legends Community (16.3.2026 14：55：06).html",
+      "source_patch_dir": "patches/season_two/1.0.0.132"
+    }
+  ]
+}

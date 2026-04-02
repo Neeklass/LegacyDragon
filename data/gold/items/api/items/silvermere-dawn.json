@@ -1,0 +1,115 @@
+{
+  "item_slug": "silvermere-dawn",
+  "item_name": "Silvermere Dawn",
+  "change_count": 9,
+  "timeline": [
+    {
+      "item_name": "Silvermere Dawn",
+      "item_slug": "silvermere-dawn",
+      "era": "season_one",
+      "patch_id": "1.0.0.104",
+      "matched_keywords": [
+        "mace"
+      ],
+      "keyword_match_count": 3,
+      "source_html": "patches/season_one/1.0.0.104/Release Notes v1.0.0.104 - League of Legends Community (16.3.2026 14：13：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.104"
+    },
+    {
+      "item_name": "Silvermere Dawn",
+      "item_slug": "silvermere-dawn",
+      "era": "season_one",
+      "patch_id": "1.0.0.105",
+      "matched_keywords": [
+        "mace"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.105/Release Notes v1.0.0.105 - League of Legends Community (16.3.2026 14：14：58).html",
+      "source_patch_dir": "patches/season_one/1.0.0.105"
+    },
+    {
+      "item_name": "Silvermere Dawn",
+      "item_slug": "silvermere-dawn",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "mace"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    },
+    {
+      "item_name": "Silvermere Dawn",
+      "item_slug": "silvermere-dawn",
+      "era": "season_one",
+      "patch_id": "1.0.0.112",
+      "matched_keywords": [
+        "mace"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.112/Release Notes v1.0.0.112 - League of Legends Community (16.3.2026 14：23：14).html",
+      "source_patch_dir": "patches/season_one/1.0.0.112"
+    },
+    {
+      "item_name": "Silvermere Dawn",
+      "item_slug": "silvermere-dawn",
+      "era": "season_one",
+      "patch_id": "1.0.0.123",
+      "matched_keywords": [
+        "mace"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.123/Release Notes v1.0.0.123 - League of Legends Community (16.3.2026 14：37：26).html",
+      "source_patch_dir": "patches/season_one/1.0.0.123"
+    },
+    {
+      "item_name": "Silvermere Dawn",
+      "item_slug": "silvermere-dawn",
+      "era": "season_one",
+      "patch_id": "1.0.0.125",
+      "matched_keywords": [
+        "mace"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.125/Riven Patch Notes - League of Legends Community (16.3.2026 14：39：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.125"
+    },
+    {
+      "item_name": "Silvermere Dawn",
+      "item_slug": "silvermere-dawn",
+      "era": "season_one",
+      "patch_id": "1.0.0.75",
+      "matched_keywords": [
+        "mace"
+      ],
+      "keyword_match_count": 2,
+      "source_html": "patches/season_one/1.0.0.75/Release Notes v1.0.0.75 - League of Legends Community (16.3.2026 13：49：56).html",
+      "source_patch_dir": "patches/season_one/1.0.0.75"
+    },
+    {
+      "item_name": "Silvermere Dawn",
+      "item_slug": "silvermere-dawn",
+      "era": "season_one",
+      "patch_id": "1.0.0.86",
+      "matched_keywords": [
+        "mace"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.86/Release Notes v1.0.0.86 - League of Legends Community (16.3.2026 13：57：40).html",
+      "source_patch_dir": "patches/season_one/1.0.0.86"
+    },
+    {
+      "item_name": "Silvermere Dawn",
+      "item_slug": "silvermere-dawn",
+      "era": "season_two",
+      "patch_id": "1.0.0.150",
+      "matched_keywords": [
+        "mace"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_two/1.0.0.150/Shadow Isles Patch Notes - League of Legends Community (11.3.2026 13：09：31).html",
+      "source_patch_dir": "patches/season_two/1.0.0.150"
+    }
+  ]
+}

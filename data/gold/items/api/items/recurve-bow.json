@@ -1,0 +1,31 @@
+{
+  "item_slug": "recurve-bow",
+  "item_name": "Recurve Bow",
+  "change_count": 2,
+  "timeline": [
+    {
+      "item_name": "Recurve Bow",
+      "item_slug": "recurve-bow",
+      "era": "alpha",
+      "patch_id": "alpha_week_4",
+      "matched_keywords": [
+        "Recurve Bow"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/alpha/alpha_week_4/Week 4 Release Notes - League of Legends Community (11.3.2026 14：23：00).html",
+      "source_patch_dir": "patches/alpha/alpha_week_4"
+    },
+    {
+      "item_name": "Recurve Bow",
+      "item_slug": "recurve-bow",
+      "era": "season_one",
+      "patch_id": "1.0.0.107",
+      "matched_keywords": [
+        "Recurve Bow"
+      ],
+      "keyword_match_count": 1,
+      "source_html": "patches/season_one/1.0.0.107/Release Notes v1.0.0.107 - League of Legends Community (16.3.2026 14：17：38).html",
+      "source_patch_dir": "patches/season_one/1.0.0.107"
+    }
+  ]
+}
