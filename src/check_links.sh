@@ -1,4 +1,4 @@
-root="data/source"
+root="data/bronze/patches"
 find "$root" -type d | while IFS= read -r d; do
   if ! find "$d" -mindepth 1 -maxdepth 1 -type d | grep -q .; then
     f="$d/links.txt"

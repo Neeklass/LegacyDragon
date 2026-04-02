@@ -33,4 +33,4 @@ jobs:
         run: uvx ruff check .
 
       - name: Test Docker Build
-        run: docker build . -t legacy-dragon:test
+        run: docker build -f .devcontainer/Dockerfile . -t legacy-dragon:test

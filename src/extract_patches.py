@@ -12,7 +12,7 @@ from tqdm import tqdm
 
 
 ROOT_DIR = Path(__file__).resolve().parents[1]
-DEFAULT_SOURCE_DIR = ROOT_DIR / "data" / "source"
+DEFAULT_SOURCE_DIR = ROOT_DIR / "data" / "bronze" / "patches"
 DEFAULT_OUTPUT_PATH = ROOT_DIR / "cleaned_patches.json"
 
 
