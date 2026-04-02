@@ -1,0 +1,1584 @@
+
+champions:
+  - name: "Alistar"
+    keywords: ["Alistar", "Minotaur"]
+  - name: "Annie"
+    keywords: ["Annie", "Dark Child"]
+  - name: "Ashe"
+    keywords: ["Ashe", "Frost Archer"]
+  - name: "Fiddlesticks"
+    keywords: ["Fiddlesticks", "Ancient Fear"]
+  - name: "Jax"
+    keywords: ["Jax", "Grandmaster at Arms"]
+  - name: "Kayle"
+    keywords: ["Kayle", "Righteous"]
+  - name: "Master Yi"
+    keywords: ["Master Yi", "Wuju Bladesman"]
+  - name: "Morgana"
+    keywords: ["Morgana", "Fallen"]
+  - name: "Nunu & Willump"
+    keywords: ["Nunu & Willump", "Boy and His Yeti"]
+  - name: "Ryze"
+    keywords: ["Ryze", "Rune Mage"]
+  - name: "Sion"
+    keywords: ["Sion", "Undead Juggernaut"]
+  - name: "Sivir"
+    keywords: ["Sivir", "Battle Mistress"]
+  - name: "Soraka"
+    keywords: ["Soraka", "Starchild"]
+  - name: "Teemo"
+    keywords: ["Teemo", "Swift Scout"]
+  - name: "Tristana"
+    keywords: ["Tristana", "Yordle Gunner"]
+  - name: "Twisted Fate"
+    keywords: ["Twisted Fate", "Card Master"]
+  - name: "Warwick"
+    keywords: ["Warwick", "Uncaged Wrath of Zaun"]
+  - name: "Singed"
+    keywords: ["Singed", "Mad Chemist"]
+  - name: "Zilean"
+    keywords: ["Zilean", "Chronokeeper"]
+  - name: "Evelynn"
+    keywords: ["Evelynn", "Siren of the Void"]
+  - name: "Agony's Embrace"
+    keywords: ["Agony's Embrace", "Agony's Embrace"]
+  - name: "Tryndamere"
+    keywords: ["Tryndamere", "Barbarian King"]
+  - name: "Twitch"
+    keywords: ["Twitch", "Plague Rat"]
+  - name: "Karthus"
+    keywords: ["Karthus", "Deathsinger"]
+  - name: "Amumu"
+    keywords: ["Amumu", "Sad Mummy"]
+  - name: "Cho'Gath"
+    keywords: ["Cho'Gath", "Terror of the Void"]
+  - name: "Anivia"
+    keywords: ["Anivia", "Cryophoenix"]
+  - name: "Rammus"
+    keywords: ["Rammus", "Armordillo"]
+  - name: "Veigar"
+    keywords: ["Veigar", "Tiny Master of Evil"]
+  - name: "Kassadin"
+    keywords: ["Kassadin", "Void Walker"]
+  - name: "Gangplank"
+    keywords: ["Gangplank", "Saltwater Scourge"]
+  - name: "Taric"
+    keywords: ["Taric", "Shield of Valoran"]
+  - name: "Blitzcrank"
+    keywords: ["Blitzcrank", "Great Steam Golem"]
+  - name: "Dr. Mundo"
+    keywords: ["Dr. Mundo", "Madman of Zaun"]
+  - name: "Janna"
+    keywords: ["Janna", "Storm's Fury"]
+  - name: "Malphite"
+    keywords: ["Malphite", "Shard of the Monolith"]
+  - name: "Corki"
+    keywords: ["Corki", "Daring Bombardier"]
+  - name: "Katarina"
+    keywords: ["Katarina", "Sinister Blade"]
+  - name: "Nasus"
+    keywords: ["Nasus", "Curator of the Sands"]
+  - name: "Heimerdinger"
+    keywords: ["Heimerdinger", "Revered Inventor"]
+  - name: "Shaco"
+    keywords: ["Shaco", "Demon Jester"]
+  - name: "Udyr"
+    keywords: ["Udyr", "Spirit Walker"]
+  - name: "Nidalee"
+    keywords: ["Nidalee", "Bestial Huntress"]
+  - name: "Poppy"
+    keywords: ["Poppy", "Keeper of the Hammer"]
+  - name: "Gragas"
+    keywords: ["Gragas", "Rabble Rouser"]
+  - name: "Pantheon"
+    keywords: ["Pantheon", "Unbreakable Spear"]
+  - name: "Mordekaiser"
+    keywords: ["Mordekaiser", "Iron Revenant"]
+  - name: "Ezreal"
+    keywords: ["Ezreal", "Prodigal Explorer"]
+  - name: "Shen"
+    keywords: ["Shen", "Eye of Twilight"]
+  - name: "Kennen"
+    keywords: ["Kennen", "Heart of the Tempest"]
+  - name: "Garen"
+    keywords: ["Garen", "Might of Demacia"]
+  - name: "Akali"
+    keywords: ["Akali", "Rogue Assassin"]
+  - name: "Malzahar"
+    keywords: ["Malzahar", "Prophet of the Void"]
+  - name: "Olaf"
+    keywords: ["Olaf", "Berserker"]
+  - name: "Kog'Maw"
+    keywords: ["Kog'Maw", "Mouth of the Abyss"]
+  - name: "Xin Zhao"
+    keywords: ["Xin Zhao", "Seneschal of Demacia"]
+  - name: "Vladimir"
+    keywords: ["Vladimir", "Crimson Reaper"]
+  - name: "Galio"
+    keywords: ["Galio", "Colossus"]
+  - name: "Urgot"
+    keywords: ["Urgot", "Dreadnought"]
+  - name: "Miss Fortune"
+    keywords: ["Miss Fortune", "Bounty Hunter"]
+  - name: "Sona"
+    keywords: ["Sona", "Maven of the Strings"]
+  - name: "Swain"
+    keywords: ["Swain", "Noxian Grand General"]
+  - name: "Lux"
+    keywords: ["Lux", "Lady of Luminosity"]
+  - name: "LeBlanc"
+    keywords: ["LeBlanc", "Deceiver"]
+  - name: "Irelia"
+    keywords: ["Irelia", "Blade Dancer"]
+  - name: "Trundle"
+    keywords: ["Trundle", "Troll King"]
+  - name: "Cassiopeia"
+    keywords: ["Cassiopeia", "Serpent's Embrace"]
+  - name: "Caitlyn"
+    keywords: ["Caitlyn", "Sheriff of Piltover"]
+  - name: "Renekton"
+    keywords: ["Renekton", "Butcher of the Sands"]
+  - name: "Karma"
+    keywords: ["Karma", "Enlightened One"]
+  - name: "Maokai"
+    keywords: ["Maokai", "Twisted Treant"]
+  - name: "Jarvan IV"
+    keywords: ["Jarvan IV", "Exemplar of Demacia"]
+  - name: "Nocturne"
+    keywords: ["Nocturne", "Eternal Nightmare"]
+  - name: "Lee Sin"
+    keywords: ["Lee Sin", "Blind Monk"]
+  - name: "Brand"
+    keywords: ["Brand", "Burning Vengeance"]
+  - name: "Rumble"
+    keywords: ["Rumble", "Mechanized Menace"]
+  - name: "Vayne"
+    keywords: ["Vayne", "Night Hunter"]
+  - name: "Orianna"
+    keywords: ["Orianna", "Lady of Clockwork"]
+  - name: "Yorick"
+    keywords: ["Yorick", "Shepherd of Souls"]
+  - name: "Leona"
+    keywords: ["Leona", "Radiant Dawn"]
+  - name: "Wukong"
+    keywords: ["Wukong", "Monkey King"]
+  - name: "Skarner"
+    keywords: ["Skarner", "Primordial Sovereign"]
+  - name: "Talon"
+    keywords: ["Talon", "Blade's Shadow"]
+  - name: "Riven"
+    keywords: ["Riven", "Exile"]
+  - name: "Xerath"
+    keywords: ["Xerath", "Magus Ascendant"]
+  - name: "Graves"
+    keywords: ["Graves", "Outlaw"]
+  - name: "Shyvana"
+    keywords: ["Shyvana", "Half-Dragon"]
+  - name: "Fizz"
+    keywords: ["Fizz", "Tidal Trickster"]
+  - name: "Volibear"
+    keywords: ["Volibear", "Relentless Storm"]
+  - name: "Ahri"
+    keywords: ["Ahri", "Nine-Tailed Fox"]
+  - name: "Viktor"
+    keywords: ["Viktor", "Herald of the Arcane"]
+  - name: "Sejuani"
+    keywords: ["Sejuani", "Fury of the North"]
+  - name: "Ziggs"
+    keywords: ["Ziggs", "Hexplosives Expert"]
+  - name: "Nautilus"
+    keywords: ["Nautilus", "Titan of the Depths"]
+  - name: "Fiora"
+    keywords: ["Fiora", "Grand Duelist"]
+  - name: "Lulu"
+    keywords: ["Lulu", "Fae Sorceress"]
+  - name: "Hecarim"
+    keywords: ["Hecarim", "Shadow of War"]
+  - name: "Varus"
+    keywords: ["Varus", "Arrow of Retribution"]
+  - name: "Darius"
+    keywords: ["Darius", "Hand of Noxus"]
+  - name: "Draven"
+    keywords: ["Draven", "Glorious Executioner"]
+  - name: "Jayce"
+    keywords: ["Jayce", "Defender of Tomorrow"]
+  - name: "Zyra"
+    keywords: ["Zyra", "Rise of the Thorns"]
+  - name: "Diana"
+    keywords: ["Diana", "Scorn of the Moon"]
+  - name: "Rengar"
+    keywords: ["Rengar", "Pridestalker"]
+  - name: "Syndra"
+    keywords: ["Syndra", "Dark Sovereign"]
+  - name: "Kha'Zix"
+    keywords: ["Kha'Zix", "Voidreaver"]
+  - name: "Elise"
+    keywords: ["Elise", "Spider Queen"]
+  - name: "Zed"
+    keywords: ["Zed", "Master of Shadows"]
+    
+maps:
+  - name: "Summoner's Rift"
+    keywords: ["Summoner's Rift", "5v5", "SR"]
+  - name: "Twisted Treeline"
+    keywords: ["Twisted Treeline", "3v3"]
+  - name: "Crystal Scar"
+    keywords: ["Crystal Scar", "Dominion"]
+  - name: "Proving Grounds"
+    keywords: ["Proving Grounds", "aram"]
+  #- name: "Howling Abyss"
+  #  keywords: ["technically not there yet was released in patch 3.5"]
+
+items:
+  - name: 'Abyssal Mask'
+    keywords: ['Abyssal Mask', 'Tank', 'Support', 'Health & Regeneration', 'Magic Resistance', 'Ability Haste']
+  - name: 'Abyssal Scepter'
+    keywords: ['Abyssal Scepter']
+  - name: 'Actualizer'
+    keywords: ['Actualizer', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Adaptive Helm'
+    keywords: ['Adaptive Helm']
+  - name: 'Aegis of the Legion'
+    keywords: ['Aegis of the Legion', 'Tank', 'Support', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Aether Wisp'
+    keywords: ['Aether Wisp', 'spooky ghost', 'Mage', 'Ability Power', 'Movement']
+  - name: 'Alacrity'
+    keywords: ['Alacrity']
+  - name: 'Amplifying Tome'
+    keywords: ['Amplifying Tome', 'amptome', 'book', 'Mage', 'Support', 'Ability Power']
+  - name: 'Anathema''s Chains'
+    keywords: ['Anathema''s Chains', 'Helia', 'Vendetta', 'hel', 'healia', 'heal', 'Tank', 'Support', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Ancient Coin'
+    keywords: ['Ancient Coin', 'Support', 'Gold', 'Economy']
+  - name: 'Ancient Pocket Watch'
+    keywords: ['Ancient Pocket Watch']
+  - name: 'Anti-Tower Socks'
+    keywords: ['Anti-Tower Socks']
+  - name: 'Anvil Voucher'
+    keywords: ['Anvil Voucher']
+  - name: 'Arcane Helix'
+    keywords: ['Arcane Helix', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Arcane Sweeper (Item)'
+    keywords: ['Arcane Sweeper (Item)']
+  - name: 'Arcane Sweeper (Trinket)'
+    keywords: ['Arcane Sweeper (Trinket)']
+  - name: 'Archangel''s Staff'
+    keywords: ['Archangel''s Staff', 'aa', 'seraph''s embrace', 'tear', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Archangel''s Staff (Quick Charge)'
+    keywords: ['Archangel''s Staff (Quick Charge)', 'aa']
+  - name: 'Ardent Censer'
+    keywords: ['Ardent Censer', 'censer', 'Support', 'Attack Speed', 'Ability Power', 'Mana & Regeneration', 'Movement']
+  - name: 'Armored Advance'
+    keywords: ['Armored Advance', 'boots', 'Armor', 'Movement']
+  - name: 'Ataraxia'
+    keywords: ['Ataraxia', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Athene''s Unholy Grail'
+    keywords: ['Athene''s Unholy Grail']
+  - name: 'Atma''s Impaler'
+    keywords: ['Atma''s Impaler']
+  - name: 'Atma''s Reckoning'
+    keywords: ['Atma''s Reckoning', 'wreckoning', 'Fighter', 'Critical Strike', 'Health & Regeneration']
+  - name: 'Augment: Death'
+    keywords: ['Augment: Death', 'Viktor', 'Ability Power']
+  - name: 'Augment: Gravity'
+    keywords: ['Augment: Gravity', 'Viktor', 'Mana & Regeneration']
+  - name: 'Augment: Power'
+    keywords: ['Augment: Power', 'Viktor', 'Health & Regeneration']
+  - name: 'Avarice Blade'
+    keywords: ['Avarice Blade']
+  - name: 'Axiom Arc'
+    keywords: ['Axiom Arc', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'B. F. Sword'
+    keywords: ['B. F. Sword', 'bf', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage']
+  - name: 'Bag of Tea'
+    keywords: ['Bag of Tea']
+  - name: 'Bami''s Cinder'
+    keywords: ['Bami''s Cinder', 'fire', 'Tank', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Bandleglass Mirror'
+    keywords: ['Bandleglass Mirror', 'yordle', 'Support', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Bandlepipes'
+    keywords: ['Bandlepipes', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Banner of Command'
+    keywords: ['Banner of Command', 'flag']
+  - name: 'Banshee''s Veil'
+    keywords: ['Banshee''s Veil', 'bv', 'spellshield', 'spell shield', 'Mage', 'Ability Power', 'Magic Resistance']
+  - name: 'Base Turret Reinforced Armor (Turret Item)'
+    keywords: ['Base Turret Reinforced Armor (Turret Item)']
+  - name: 'Bastionbreaker'
+    keywords: ['Bastionbreaker', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Berserker''s Greaves'
+    keywords: ['Berserker''s Greaves', 'boots', 'zerker', 'Attack Speed', 'Movement']
+  - name: 'Bilgewater Cutlass'
+    keywords: ['Bilgewater Cutlass']
+  - name: 'Black Cleaver'
+    keywords: ['Black Cleaver', 'bc', 'Fighter', 'Attack Damage', 'On-Hit Effects', 'Armor Penetration', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Black Hole Gauntlet'
+    keywords: ['Black Hole Gauntlet', 'Tank', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Black Mist Scythe'
+    keywords: ['Black Mist Scythe', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward', 'Attack Damage', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Black Spear'
+    keywords: ['Black Spear', 'Kalista', 'Sylas', 'spear']
+  - name: 'Blackfire Torch'
+    keywords: ['Blackfire Torch', 'bft', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Blade of the Ruined King'
+    keywords: ['Blade of the Ruined King', 'brk', 'bork', 'botrk', 'mist', 'Fighter', 'Marksman', 'Attack Damage', 'Attack Speed', 'On-Hit Effects', 'Life Steal & Vamp']
+  - name: 'Blasting Wand'
+    keywords: ['Blasting Wand', 'Mage', 'Support', 'Ability Power']
+  - name: 'Blighting Jewel'
+    keywords: ['Blighting Jewel', 'pen', 'purple', 'Mage', 'Ability Power', 'Magic Penetration']
+  - name: 'Blink Dagger'
+    keywords: ['Blink Dagger']
+  - name: 'Bloodletter''s Curse'
+    keywords: ['Bloodletter''s Curse', 'Mage', 'Ability Power', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Bloodrazor'
+    keywords: ['Bloodrazor', 'jungle', 'yellow', 'enchantment', 'devourer']
+  - name: 'Bloodsong'
+    keywords: ['Bloodsong', 'Spellblade', 'Support', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Bloodthirster'
+    keywords: ['Bloodthirster', 'bt', 'healsword', 'Marksman', 'Attack Damage', 'Life Steal & Vamp']
+  - name: 'Bloodward'
+    keywords: ['Bloodward', 'Marksman', 'Attack Damage', 'Critical Strike', 'Attack Speed', 'Health & Regeneration', 'Life Steal & Vamp']
+  - name: 'Blue Pill'
+    keywords: ['Blue Pill']
+  - name: 'Bonetooth Necklace'
+    keywords: ['Bonetooth Necklace', 'Rengar']
+  - name: 'Boots'
+    keywords: ['Boots', 'Movement']
+  - name: 'Boots of Mobility'
+    keywords: ['Boots of Mobility']
+  - name: 'Boots of Speed'
+    keywords: ['Boots of Speed', 'boots', 'hat']
+  - name: 'Boots of Swiftness'
+    keywords: ['Boots of Swiftness', 'swifties', 'Movement']
+  - name: 'Bounty of Worlds'
+    keywords: ['Bounty of Worlds', 'Support', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Bramble Vest'
+    keywords: ['Bramble Vest', 'grievous wounds', 'Tank', 'Armor']
+  - name: 'Bravery Voucher'
+    keywords: ['Bravery Voucher']
+  - name: 'Brawler''s Gloves'
+    keywords: ['Brawler''s Gloves']
+  - name: 'Breathstealer'
+    keywords: ['Breathstealer']
+  - name: 'Broken Stopwatch'
+    keywords: ['Broken Stopwatch']
+  - name: 'Bulwark of the Mountain'
+    keywords: ['Bulwark of the Mountain', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward', 'Tank', 'Ability Power', 'Health & Regeneration']
+  - name: 'Caesura'
+    keywords: ['Caesura', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Cappa Juice'
+    keywords: ['Cappa Juice']
+  - name: 'Captain'
+    keywords: ['Captain']
+  - name: 'Catalyst of Aeons'
+    keywords: ['Catalyst of Aeons', 'protector', 'Mage', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Catalyst the Protector'
+    keywords: ['Catalyst the Protector']
+  - name: 'Caulfield''s Warhammer'
+    keywords: ['Caulfield''s Warhammer', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'Ability Haste']
+  - name: 'Ceaseless Hunger'
+    keywords: ['Ceaseless Hunger', 'slurp', 'Fighter', 'Attack Damage', 'Health & Regeneration', 'Ability Haste', 'Life Steal & Vamp']
+  - name: 'Celestial Eye'
+    keywords: ['Celestial Eye', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Celestial Opposition'
+    keywords: ['Celestial Opposition', 'Support', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Certainty'
+    keywords: ['Certainty', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Movement']
+  - name: 'Chain Vest'
+    keywords: ['Chain Vest', 'Fighter', 'Marksman', 'Assassin', 'Tank', 'Armor']
+  - name: 'Chainlaced Crushers'
+    keywords: ['Chainlaced Crushers', 'boots', 'Magic Resistance', 'Movement']
+  - name: 'Chalice of Blessing'
+    keywords: ['Chalice of Blessing', 'chalice', 'Mage', 'Support', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Chalice of Harmony'
+    keywords: ['Chalice of Harmony']
+  - name: 'Chempunk Chainsword'
+    keywords: ['Chempunk Chainsword', 'grievous', 'grievous wounds', 'Fighter', 'Assassin', 'Attack Damage', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Chemtech Putrifier'
+    keywords: ['Chemtech Putrifier', 'putrid', 'grievous wounds', 'purifier', 'Support', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Cinderhulk'
+    keywords: ['Cinderhulk', 'jungle', 'green', 'enchantment']
+  - name: 'Circlet of the Iron Solari'
+    keywords: ['Circlet of the Iron Solari', 'ornn', 'forge']
+  - name: 'Cloak and Dagger'
+    keywords: ['Cloak and Dagger']
+  - name: 'Cloak of Agility'
+    keywords: ['Cloak of Agility', 'Marksman', 'Critical Strike']
+  - name: 'Cloak of Starry Night'
+    keywords: ['Cloak of Starry Night', 'Tank', 'Health & Regeneration', 'Magic Resistance']
+  - name: 'Cloak of Stars'
+    keywords: ['Cloak of Stars']
+  - name: 'Cloth Armor'
+    keywords: ['Cloth Armor', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Support', 'Armor']
+  - name: 'Control Ward'
+    keywords: ['Control Ward', 'consumable', 'orange', 'pink']
+  - name: 'Corrupting Potion'
+    keywords: ['Corrupting Potion', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Cosmic Drive'
+    keywords: ['Cosmic Drive', 'cooldown hat', 'Mage', 'Ability Power', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Cosmic Shackle'
+    keywords: ['Cosmic Shackle']
+  - name: 'Crimson Lucidity'
+    keywords: ['Crimson Lucidity', 'boots', 'Ability Haste', 'Movement']
+  - name: 'Crown of the Shattered Queen'
+    keywords: ['Crown of the Shattered Queen', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Cruelty'
+    keywords: ['Cruelty', 'Mage', 'Ability Power', 'Armor', 'Magic Resistance']
+  - name: 'Cry of the Shrieking City'
+    keywords: ['Cry of the Shrieking City', 'spooky cup', 'Support', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Cryptbloom'
+    keywords: ['Cryptbloom', 'Mage', 'Ability Power', 'Magic Penetration', 'Ability Haste']
+  - name: 'Crystalline Bracer'
+    keywords: ['Crystalline Bracer', 'Tank', 'Support', 'Health & Regeneration']
+  - name: 'Crystalline Flask'
+    keywords: ['Crystalline Flask']
+  - name: 'Crystalline Overgrowth'
+    keywords: ['Crystalline Overgrowth']
+  - name: 'Cull'
+    keywords: ['Cull', 'dblade', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'On-Hit Effects', 'Life Steal & Vamp']
+  - name: 'Dagger'
+    keywords: ['Dagger', 'Fighter', 'Marksman', 'Assassin', 'Attack Speed']
+  - name: 'Dark Matter Scythe'
+    keywords: ['Dark Matter Scythe']
+  - name: 'Dark Seal'
+    keywords: ['Dark Seal', 'Noxian', 'Mage', 'Ability Power', 'Health & Regeneration']
+  - name: 'Dark Star Sigil'
+    keywords: ['Dark Star Sigil']
+  - name: 'Darksteel Talons'
+    keywords: ['Darksteel Talons', 'bloodrazor', 'kitae', 'Tank', 'Attack Speed', 'Armor', 'Movement']
+  - name: 'Dawncore'
+    keywords: ['Dawncore', 'dawncore', 'Support', 'Ability Power', 'Mana & Regeneration']
+  - name: 'Daybreak'
+    keywords: ['Daybreak', 'Support', 'Ability Power', 'Mana & Regeneration']
+  - name: 'Dead Man''s Plate'
+    keywords: ['Dead Man''s Plate', 'dmp', 'dreadnought', 'gangplank', 'juggernaut', 'Fighter', 'Tank', 'Health & Regeneration', 'Armor', 'Movement']
+  - name: 'Death''s Dance'
+    keywords: ['Death''s Dance', 'dd', 'Fighter', 'Attack Damage', 'Armor', 'Ability Haste']
+  - name: 'Death''s Daughter'
+    keywords: ['Death''s Daughter', 'Gangplank']
+  - name: 'Deathfire Grasp'
+    keywords: ['Deathfire Grasp', 'dfg', 'Mage', 'Ability Power', 'Ability Haste']
+  - name: 'Decapitator'
+    keywords: ['Decapitator', 'Attack Speed', 'Movement']
+  - name: 'Defense Upgrades'
+    keywords: ['Defense Upgrades']
+  - name: 'Deicide'
+    keywords: ['Deicide', 'devourer', 'Fighter', 'Attack Damage', 'Armor Penetration', 'Magic Penetration', 'Health & Regeneration', 'Ability Haste', 'Life Steal & Vamp']
+  - name: 'Demon King''s Crown'
+    keywords: ['Demon King''s Crown']
+  - name: 'Demonic Embrace'
+    keywords: ['Demonic Embrace', 'helmet', 'Mage', 'Ability Power', 'Health & Regeneration']
+  - name: 'Dervish Blade'
+    keywords: ['Dervish Blade']
+  - name: 'Detonation Orb'
+    keywords: ['Detonation Orb', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Magic Penetration', 'Ability Haste']
+  - name: 'Devourer'
+    keywords: ['Devourer']
+  - name: 'Diadem of Songs'
+    keywords: ['Diadem of Songs', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Diamond-Tipped Spear'
+    keywords: ['Diamond-Tipped Spear', 'Marksman', 'Mage', 'Attack Speed']
+  - name: 'Distortion'
+    keywords: ['Distortion']
+  - name: 'Divine Sunderer'
+    keywords: ['Divine Sunderer', 'Spellblade', 'devourer', 'Fighter', 'Attack Damage', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Doran''s Blade'
+    keywords: ['Doran''s Blade', 'dblade', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'Health & Regeneration', 'Life Steal & Vamp']
+  - name: 'Doran''s Lost Blade'
+    keywords: ['Doran''s Lost Blade', 'dblade']
+  - name: 'Doran''s Lost Idol'
+    keywords: ['Doran''s Lost Idol', 'didol']
+  - name: 'Doran''s Lost Ring'
+    keywords: ['Doran''s Lost Ring', 'dring']
+  - name: 'Doran''s Lost Shield'
+    keywords: ['Doran''s Lost Shield', 'dshield']
+  - name: 'Doran''s Ring'
+    keywords: ['Doran''s Ring', 'dring', 'Mage', 'On-Hit Effects', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Doran''s Shield'
+    keywords: ['Doran''s Shield', 'dshield', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'On-Hit Effects', 'Health & Regeneration']
+  - name: 'Dragonheart'
+    keywords: ['Dragonheart']
+  - name: 'Draktharr''s Shadowcarver'
+    keywords: ['Draktharr''s Shadowcarver', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste', 'Movement']
+  - name: 'Dream Maker'
+    keywords: ['Dream Maker', 'Plushie', 'plushie', 'Support', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Dreamshatter'
+    keywords: ['Dreamshatter', 'kneecapper', 'whip', 'Fighter', 'Attack Damage', 'Attack Speed', 'Health & Regeneration', 'Movement']
+  - name: 'Dusk and Dawn'
+    keywords: ['Dusk and Dawn', 'Spellblade', 'Attack Speed', 'On-Hit Effects', 'Ability Power', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Duskblade of Draktharr'
+    keywords: ['Duskblade of Draktharr', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Echoes of Helia'
+    keywords: ['Echoes of Helia', 'spooky cup', 'Support', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Eclipse'
+    keywords: ['Eclipse', 'lethality', 'Fighter', 'Attack Damage', 'Ability Haste']
+  - name: 'Edge of Finality'
+    keywords: ['Edge of Finality', 'ie', 'Marksman', 'Attack Damage', 'Critical Strike']
+  - name: 'Edge of Night'
+    keywords: ['Edge of Night', 'eon', 'lethality', 'spellshield', 'spell shield', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Health & Regeneration']
+  - name: 'Eleisa''s Miracle'
+    keywords: ['Eleisa''s Miracle', 'Support', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Elixir of Agility'
+    keywords: ['Elixir of Agility']
+  - name: 'Elixir of Avarice'
+    keywords: ['Elixir of Avarice']
+  - name: 'Elixir of Brilliance'
+    keywords: ['Elixir of Brilliance', 'blue']
+  - name: 'Elixir of Force'
+    keywords: ['Elixir of Force']
+  - name: 'Elixir of Fortitude'
+    keywords: ['Elixir of Fortitude', 'red']
+  - name: 'Elixir of Iron'
+    keywords: ['Elixir of Iron', 'consumable', 'orange', 'white', 'Health & Regeneration', 'Movement']
+  - name: 'Elixir of Ruin'
+    keywords: ['Elixir of Ruin', 'orange']
+  - name: 'Elixir of Skill'
+    keywords: ['Elixir of Skill']
+  - name: 'Elixir of Sorcery'
+    keywords: ['Elixir of Sorcery', 'consumable', 'blue', 'On-Hit Effects', 'Ability Power', 'Mana & Regeneration']
+  - name: 'Elixir of Wrath'
+    keywords: ['Elixir of Wrath', 'consumable', 'red', 'Attack Damage', 'Life Steal & Vamp']
+  - name: 'Emberknife'
+    keywords: ['Emberknife', 'jungle', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Life Steal & Vamp']
+  - name: 'Emblem of Valor'
+    keywords: ['Emblem of Valor']
+  - name: 'Empyrean Promise'
+    keywords: ['Empyrean Promise', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Enchantment: Homeguard'
+    keywords: ['Enchantment: Homeguard']
+  - name: 'Endless Hunger'
+    keywords: ['Endless Hunger', 'Fighter', 'Attack Damage', 'Life Steal & Vamp']
+  - name: 'Enhanced Lucky Dice'
+    keywords: ['Enhanced Lucky Dice']
+  - name: 'Enmity of the Masses'
+    keywords: ['Enmity of the Masses', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Entropy'
+    keywords: ['Entropy']
+  - name: 'Entropy Field'
+    keywords: ['Entropy Field']
+  - name: 'Equinox'
+    keywords: ['Equinox', 'Tank', 'Support', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Espresso Snax'
+    keywords: ['Espresso Snax']
+  - name: 'Essence Reaver'
+    keywords: ['Essence Reaver', 'er', 'Spellblade', 'Marksman', 'Attack Damage', 'Critical Strike', 'On-Hit Effects', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Eternal Winter'
+    keywords: ['Eternal Winter', 'GLP', 'hose', 'super soaker', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Evenshroud'
+    keywords: ['Evenshroud', 'Tank', 'Support', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Everfrost'
+    keywords: ['Everfrost', 'GLP', 'hose', 'supersoaker', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Evolution: Death Storm'
+    keywords: ['Evolution: Death Storm', 'Viktor', 'Ability Power', 'Magic Penetration']
+  - name: 'Evolution: Gravity Storm'
+    keywords: ['Evolution: Gravity Storm', 'Viktor', 'Ability Power', 'Movement']
+  - name: 'Evolution: Power Storm'
+    keywords: ['Evolution: Power Storm', 'Viktor', 'Ability Power', 'Armor', 'Magic Resistance']
+  - name: 'Executioner''s Calling'
+    keywords: ['Executioner''s Calling', 'grievous', 'grievous wounds', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage']
+  - name: 'Experimental Hexplate'
+    keywords: ['Experimental Hexplate', 'Fighter', 'Attack Damage', 'Attack Speed', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Explorer''s Ward'
+    keywords: ['Explorer''s Ward']
+  - name: 'Eye of Ascension'
+    keywords: ['Eye of Ascension', 'Support', 'Economy', 'Gold', 'reverie', 'Sightstone', 'shurelya', 'Ward']
+  - name: 'Eye of Frost'
+    keywords: ['Eye of Frost', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Eye of Luden'
+    keywords: ['Eye of Luden', 'boomstick', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Magic Penetration', 'Ability Haste', 'Movement']
+  - name: 'Eye of the Aspect'
+    keywords: ['Eye of the Aspect', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Eye of the Equinox'
+    keywords: ['Eye of the Equinox', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Eye of the Herald'
+    keywords: ['Eye of the Herald', 'Herald''s Eye']
+  - name: 'Eye of the Oasis'
+    keywords: ['Eye of the Oasis', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Eye of the Storm'
+    keywords: ['Eye of the Storm', 'Marksman', 'Attack Damage', 'Critical Strike', 'Attack Speed', 'On-Hit Effects']
+  - name: 'Eye of the Watchers'
+    keywords: ['Eye of the Watchers', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Face of the Mountain'
+    keywords: ['Face of the Mountain', 'Support', 'Economy', 'Gold']
+  - name: 'Faerie Charm'
+    keywords: ['Faerie Charm', 'Mage', 'Support', 'Mana & Regeneration']
+  - name: 'Farsight Alteration'
+    keywords: ['Farsight Alteration', 'blue', 'totem', 'trinket']
+  - name: 'Farsight Orb'
+    keywords: ['Farsight Orb']
+  - name: 'Fated Ashes'
+    keywords: ['Fated Ashes', 'Mage', 'Ability Power']
+  - name: 'Feral Flare'
+    keywords: ['Feral Flare']
+  - name: 'Fiendhunter Bolts'
+    keywords: ['Fiendhunter Bolts', 'Marksman', 'Critical Strike', 'Attack Speed', 'Movement']
+  - name: 'Fiendish Codex'
+    keywords: ['Fiendish Codex', 'book', 'Mage', 'Ability Power', 'Ability Haste']
+  - name: 'Fimbulwinter'
+    keywords: ['Fimbulwinter', 'Tank', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Fire at Will'
+    keywords: ['Fire at Will', 'Gangplank']
+  - name: 'Flash Zone'
+    keywords: ['Flash Zone']
+  - name: 'Flesheater'
+    keywords: ['Flesheater', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Flicker'
+    keywords: ['Flicker', 'Marksman', 'Attack Damage', 'Critical Strike', 'Ability Haste']
+  - name: 'Forbidden Idol'
+    keywords: ['Forbidden Idol', 'Support', 'Mana & Regeneration']
+  - name: 'Force of Arms'
+    keywords: ['Force of Arms', 'boomstick', 'gun', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Force of Entropy'
+    keywords: ['Force of Entropy', 'Tank', 'Critical Strike', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Force of Nature'
+    keywords: ['Force of Nature', 'fon', 'Tank', 'Health & Regeneration', 'Magic Resistance', 'Movement']
+  - name: 'Forever Forward'
+    keywords: ['Forever Forward', 'boots', 'Movement']
+  - name: 'Forgefire Cape'
+    keywords: ['Forgefire Cape', 'ornn', 'forge']
+  - name: 'Forgefire Crest'
+    keywords: ['Forgefire Crest', 'funfire', 'sunborn', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Fortification'
+    keywords: ['Fortification']
+  - name: 'Frost Queen''s Claim'
+    keywords: ['Frost Queen''s Claim', 'Support', 'Economy', 'Gold']
+  - name: 'Frosted Snax'
+    keywords: ['Frosted Snax']
+  - name: 'Frostfang'
+    keywords: ['Frostfang', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Frostfire Gauntlet'
+    keywords: ['Frostfire Gauntlet', 'iceborn', 'chilly mittens', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Frozen Fist'
+    keywords: ['Frozen Fist', 'Tank', 'On-Hit Effects', 'Health & Regeneration', 'Armor', 'Ability Haste']
+  - name: 'Frozen Heart'
+    keywords: ['Frozen Heart', 'fh', 'Tank', 'Support', 'Mana & Regeneration', 'Armor', 'Ability Haste']
+  - name: 'Frozen Mallet'
+    keywords: ['Frozen Mallet', 'fm']
+  - name: 'Fulmination'
+    keywords: ['Fulmination', 'energize', 'Marksman', 'Attack Damage', 'Attack Speed', 'Movement']
+  - name: 'Furor'
+    keywords: ['Furor']
+  - name: 'Galeforce'
+    keywords: ['Galeforce', 'squallrider', 'Marksman', 'Attack Damage', 'Critical Strike', 'Attack Speed', 'Movement']
+  - name: 'Gambler''s Blade'
+    keywords: ['Gambler''s Blade', 'Attack Speed', 'Ability Haste', 'Movement']
+  - name: 'Gargoyle Stoneplate'
+    keywords: ['Gargoyle Stoneplate', 'Tank', 'Armor', 'Magic Resistance', 'Ability Haste', 'Movement']
+  - name: 'Ghostcrawlers'
+    keywords: ['Ghostcrawlers', 'Movement']
+  - name: 'Giant Slayer'
+    keywords: ['Giant Slayer', 'gs']
+  - name: 'Giant''s Belt'
+    keywords: ['Giant''s Belt', 'Fighter', 'Mage', 'Tank', 'Health & Regeneration']
+  - name: 'Glacial Buckler'
+    keywords: ['Glacial Buckler', 'Tank', 'Support', 'Mana & Regeneration', 'Armor', 'Ability Haste']
+  - name: 'Glacial Shroud'
+    keywords: ['Glacial Shroud']
+  - name: 'Globe of Trust'
+    keywords: ['Globe of Trust', 'Mana & Regeneration']
+  - name: 'Glowing Mote'
+    keywords: ['Glowing Mote', 'haste', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Support', 'Ability Haste']
+  - name: 'Gold Stat Anvil Voucher'
+    keywords: ['Gold Stat Anvil Voucher']
+  - name: 'Golden Transcendence'
+    keywords: ['Golden Transcendence']
+  - name: 'Goredrinker'
+    keywords: ['Goredrinker', 'slurp', 'Fighter', 'Attack Damage', 'Health & Regeneration', 'Ability Haste', 'Life Steal & Vamp']
+  - name: 'Gouging Blade'
+    keywords: ['Gouging Blade']
+  - name: 'Gravity Boots'
+    keywords: ['Gravity Boots', 'Movement']
+  - name: 'Greater Lens'
+    keywords: ['Greater Lens']
+  - name: 'Greater Orb'
+    keywords: ['Greater Orb']
+  - name: 'Greater Stealth Totem'
+    keywords: ['Greater Stealth Totem', 'yellow']
+  - name: 'Greater Totem'
+    keywords: ['Greater Totem']
+  - name: 'Greater Vision Totem'
+    keywords: ['Greater Vision Totem', 'yellow']
+  - name: 'Grez''s Spectral Lantern'
+    keywords: ['Grez''s Spectral Lantern']
+  - name: 'Guardian Angel'
+    keywords: ['Guardian Angel', 'ga', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'Armor']
+  - name: 'Guardian''s Amulet'
+    keywords: ['Guardian''s Amulet', 'Support', 'Ability Power', 'Ability Haste']
+  - name: 'Guardian''s Blade'
+    keywords: ['Guardian''s Blade', 'dblade', 'Fighter', 'Marksman', 'Assassin', 'Tank', 'Attack Damage', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Guardian''s Dirk'
+    keywords: ['Guardian''s Dirk', 'Fighter', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Guardian''s Hammer'
+    keywords: ['Guardian''s Hammer', 'dblade', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'Health & Regeneration', 'Life Steal & Vamp']
+  - name: 'Guardian''s Horn'
+    keywords: ['Guardian''s Horn', 'Golden Arm of Kobe', 'Golden Bicep of Kobe', 'Horn', 'Horn of the ManWolf', 'ManWolf', 'Fighter', 'Tank', 'Support', 'Health & Regeneration']
+  - name: 'Guardian''s Orb'
+    keywords: ['Guardian''s Orb', 'Mage', 'Tank', 'Support', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Guardian''s Shroud'
+    keywords: ['Guardian''s Shroud', 'Mage', 'Tank', 'Ability Power', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Guinsoo''s Rageblade'
+    keywords: ['Guinsoo''s Rageblade', 'Fighter', 'Marksman', 'Attack Damage', 'Attack Speed', 'On-Hit Effects', 'Ability Power']
+  - name: 'Gunmetal Greaves'
+    keywords: ['Gunmetal Greaves', 'boots', 'Attack Speed', 'Movement', 'Life Steal & Vamp']
+  - name: 'Gusto'
+    keywords: ['Gusto']
+  - name: 'Gustwalker Hatchling'
+    keywords: ['Gustwalker Hatchling', 'jungle', 'blue', 'dog', 'doggo', 'woof', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Life Steal & Vamp']
+  - name: 'Hailblade'
+    keywords: ['Hailblade', 'jungle', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Life Steal & Vamp']
+  - name: 'Hamstringer'
+    keywords: ['Hamstringer', 'bleed', 'Marksman', 'Attack Damage', 'Critical Strike', 'Attack Speed']
+  - name: 'Harrowing Crescent'
+    keywords: ['Harrowing Crescent', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward', 'Attack Damage', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Haunting Guise'
+    keywords: ['Haunting Guise', 'mask', 'Mage', 'Ability Power', 'Health & Regeneration']
+  - name: 'Head of Kha''Zix'
+    keywords: ['Head of Kha''Zix', 'Rengar']
+  - name: 'Health Potion'
+    keywords: ['Health Potion', 'consumable', 'red', 'Health & Regeneration']
+  - name: 'Heart of Gold'
+    keywords: ['Heart of Gold']
+  - name: 'Heart of Targon'
+    keywords: ['Heart of Targon', 'Support', 'Economy', 'Gold', 'Targon''s Brace', 'Relic Shield']
+  - name: 'Hearthbound Axe'
+    keywords: ['Hearthbound Axe', 'blue arrow', 'Fighter', 'Attack Damage', 'Attack Speed', 'On-Hit Effects', 'Movement']
+  - name: 'Heartsteel'
+    keywords: ['Heartsteel', 'Quest', 'Steal', 'Boy Band', 'BoyBand', 'Tank', 'Health & Regeneration']
+  - name: 'Heavensfall'
+    keywords: ['Heavensfall', 'Fighter', 'Attack Damage', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Hellfire Hatchet'
+    keywords: ['Hellfire Hatchet', 'burn', 'Assassin', 'Attack Damage', 'Armor Penetration']
+  - name: 'Hemomancer''s Helm'
+    keywords: ['Hemomancer''s Helm', 'Omnivamp', 'Fighter', 'Attack Damage', 'Ability Haste', 'Life Steal & Vamp']
+  - name: 'Hex Core mk-1'
+    keywords: ['Hex Core mk-1', 'Viktor', 'viktor']
+  - name: 'Hex Core mk-2'
+    keywords: ['Hex Core mk-2', 'Viktor', 'viktor']
+  - name: 'Hexbolt Companion'
+    keywords: ['Hexbolt Companion', 'Tank', 'Attack Speed', 'Health & Regeneration']
+  - name: 'Hexdrinker'
+    keywords: ['Hexdrinker', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'Magic Resistance']
+  - name: 'Hexdrinker (old)'
+    keywords: ['Hexdrinker (old)']
+  - name: 'Hexoptics C44'
+    keywords: ['Hexoptics C44', 'Marksman', 'Attack Damage', 'Critical Strike']
+  - name: 'Hextech Alternator'
+    keywords: ['Hextech Alternator', 'revolver', 'pewpew', 'Mage', 'Ability Power']
+  - name: 'Hextech GLP-800'
+    keywords: ['Hextech GLP-800', 'frost cannon']
+  - name: 'Hextech Gunblade'
+    keywords: ['Hextech Gunblade', 'Mage', 'Attack Damage', 'Ability Power', 'Life Steal & Vamp']
+  - name: 'Hextech Protobelt-01'
+    keywords: ['Hextech Protobelt-01']
+  - name: 'Hextech Revolver'
+    keywords: ['Hextech Revolver', 'revolver']
+  - name: 'Hextech Rocketbelt'
+    keywords: ['Hextech Rocketbelt', 'protobelt', 'rocket belt', 'Mage', 'Ability Power', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Hollow Radiance'
+    keywords: ['Hollow Radiance', 'catastrophe', 'Tank', 'Health & Regeneration', 'Magic Resistance', 'Ability Haste']
+  - name: 'Hope Adrift'
+    keywords: ['Hope Adrift', 'Tank', 'Health & Regeneration', 'Armor', 'Ability Haste']
+  - name: 'Horizon Focus'
+    keywords: ['Horizon Focus', 'lock on', 'snipe', 'Mage', 'Ability Power', 'Ability Haste']
+  - name: 'Hubris'
+    keywords: ['Hubris', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Hullbreaker'
+    keywords: ['Hullbreaker', 'ahoy', 'hull', 'pirate', 'yarrr', 'Fighter', 'Attack Damage', 'Health & Regeneration', 'Movement']
+  - name: 'Hunter''s Machete'
+    keywords: ['Hunter''s Machete', 'jungle']
+  - name: 'Hunter''s Potion'
+    keywords: ['Hunter''s Potion', 'Green Potion']
+  - name: 'Hunter''s Talisman'
+    keywords: ['Hunter''s Talisman', 'jungle']
+  - name: 'Icathia''s Curse'
+    keywords: ['Icathia''s Curse', 'velkoz', 'Mage', 'Ability Power', 'Magic Penetration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Iceborn Gauntlet'
+    keywords: ['Iceborn Gauntlet', 'Spellblade', 'ibg', 'frostfire', 'frozen', 'frozen gauntlet', 'Fighter', 'Tank', 'On-Hit Effects', 'Health & Regeneration', 'Armor', 'Ability Haste']
+  - name: 'Ichor of Illumination'
+    keywords: ['Ichor of Illumination']
+  - name: 'Ichor of Rage'
+    keywords: ['Ichor of Rage']
+  - name: 'Immortal Shieldbow'
+    keywords: ['Immortal Shieldbow', 'Marksman', 'Attack Damage', 'Critical Strike', 'Health & Regeneration']
+  - name: 'Imperial Mandate'
+    keywords: ['Imperial Mandate', 'banner of command', 'flag', 'Support', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Infernal Mask'
+    keywords: ['Infernal Mask', 'ornn', 'forge']
+  - name: 'Infinite Convergence'
+    keywords: ['Infinite Convergence', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Infinity Edge'
+    keywords: ['Infinity Edge', 'ie', 'Marksman', 'Attack Damage', 'Critical Strike']
+  - name: 'Infinity Force'
+    keywords: ['Infinity Force', 'triforce', 'tons of damage', '3333', 'Fighter', 'Marksman', 'Attack Damage', 'Attack Speed', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Innervating Locket'
+    keywords: ['Innervating Locket', 'Mage', 'Ability Power', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Ionian Boots of Lucidity'
+    keywords: ['Ionian Boots of Lucidity', 'Ability Haste', 'Movement']
+  - name: 'Ionic Spark'
+    keywords: ['Ionic Spark']
+  - name: 'Ironspike Whip'
+    keywords: ['Ironspike Whip', 'Fighter', 'Attack Damage']
+  - name: 'Jak''Sho, The Protean'
+    keywords: ['Jak''Sho, The Protean', 'Jak''Sho', 'The Protean', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance']
+  - name: 'Jarvan I''s'
+    keywords: ['Jarvan I''s', 'Attack Speed', 'Magic Penetration', 'Armor', 'Magic Resistance', 'Ability Haste', 'Movement']
+  - name: 'Jaurim''s Fist'
+    keywords: ['Jaurim''s Fist']
+  - name: 'Juggernaut'
+    keywords: ['Juggernaut']
+  - name: 'Juice of Haste'
+    keywords: ['Juice of Haste']
+  - name: 'Juice of Power'
+    keywords: ['Juice of Power', 'Attack Damage', 'Ability Power']
+  - name: 'Juice of Vitality'
+    keywords: ['Juice of Vitality', 'Health & Regeneration']
+  - name: 'Kaenic Rookern'
+    keywords: ['Kaenic Rookern', 'Tank', 'Health & Regeneration', 'Magic Resistance']
+  - name: 'Kage''s Lucky Pick'
+    keywords: ['Kage''s Lucky Pick']
+  - name: 'Kindlegem'
+    keywords: ['Kindlegem', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Support', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Kinkou Jitte'
+    keywords: ['Kinkou Jitte', 'Fighter', 'Assassin', 'Mage', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Kircheis Shard'
+    keywords: ['Kircheis Shard', 'Marksman', 'Attack Damage', 'On-Hit Effects']
+  - name: 'Kitae''s Bloodrazor'
+    keywords: ['Kitae''s Bloodrazor']
+  - name: 'Knight''s Vow'
+    keywords: ['Knight''s Vow', 'kv', 'Tank', 'Support', 'Health & Regeneration', 'Armor', 'Ability Haste']
+  - name: 'Kraken Slayer'
+    keywords: ['Kraken Slayer', 'Marksman', 'Attack Damage', 'Attack Speed', 'Movement']
+  - name: 'Lane Swap Detector'
+    keywords: ['Lane Swap Detector']
+  - name: 'Last Whisper'
+    keywords: ['Last Whisper', 'lw', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'Armor Penetration']
+  - name: 'Leeching Leer'
+    keywords: ['Leeching Leer', 'wota', 'catalyst', 'Mage', 'Ability Power', 'Health & Regeneration', 'Life Steal & Vamp']
+  - name: 'Legendary Assassin Item'
+    keywords: ['Legendary Assassin Item']
+  - name: 'Legendary Fighter Item'
+    keywords: ['Legendary Fighter Item']
+  - name: 'Legendary Mage Item'
+    keywords: ['Legendary Mage Item']
+  - name: 'Legendary Marksman Item'
+    keywords: ['Legendary Marksman Item']
+  - name: 'Legendary Support Item'
+    keywords: ['Legendary Support Item']
+  - name: 'Legendary Tank Item'
+    keywords: ['Legendary Tank Item']
+  - name: 'Leviathan'
+    keywords: ['Leviathan', 'Tank', 'On-Hit Effects', 'Health & Regeneration']
+  - name: 'Leviathan (old)'
+    keywords: ['Leviathan (old)']
+  - name: 'Liandry''s Anguish'
+    keywords: ['Liandry''s Anguish', 'last shadow', 'ls', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Magic Penetration', 'Ability Haste']
+  - name: 'Liandry''s Lament'
+    keywords: ['Liandry''s Lament', 'last shadow', 'ls', 'Mage', 'Ability Power', 'Health & Regeneration']
+  - name: 'Liandry''s Torment'
+    keywords: ['Liandry''s Torment', 'last shadow', 'ls', 'burn', 'Mage', 'Ability Power', 'Health & Regeneration']
+  - name: 'Lich Bane'
+    keywords: ['Lich Bane', 'Spellblade', 'Mage', 'On-Hit Effects', 'Ability Power', 'Ability Haste', 'Movement']
+  - name: 'Lifeline'
+    keywords: ['Lifeline', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Movement']
+  - name: 'Lifewell Pendant'
+    keywords: ['Lifewell Pendant', 'spooky ghosts', 'Tank', 'Support', 'Health & Regeneration', 'Armor', 'Ability Haste']
+  - name: 'Lightbringer'
+    keywords: ['Lightbringer', 'lb']
+  - name: 'Lightning Rod'
+    keywords: ['Lightning Rod', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Movement']
+  - name: 'Lightning Rod (old)'
+    keywords: ['Lightning Rod (old)']
+  - name: 'Locket of the Iron Solari'
+    keywords: ['Locket of the Iron Solari', 'Tank', 'Support', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Long Sword'
+    keywords: ['Long Sword', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage']
+  - name: 'Looted Oracle''s Extract'
+    keywords: ['Looted Oracle''s Extract', 'kleptomancy']
+  - name: 'Lord Dominik''s Regards'
+    keywords: ['Lord Dominik''s Regards', 'lw', 'ldr', 'doms', 'Marksman', 'Attack Damage', 'Critical Strike', 'Armor Penetration']
+  - name: 'Lord Van Damm''s Pillager'
+    keywords: ['Lord Van Damm''s Pillager', 'lvd']
+  - name: 'Lost Chapter'
+    keywords: ['Lost Chapter', 'mana book', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Lucky Dice'
+    keywords: ['Lucky Dice']
+  - name: 'Luden''s Companion'
+    keywords: ['Luden''s Companion', 'boomstick', 'gun', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Luden''s Echo'
+    keywords: ['Luden''s Echo', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Luden''s Echo (3285)'
+    keywords: ['Luden''s Echo (3285)']
+  - name: 'Luden''s Echo (3286)'
+    keywords: ['Luden''s Echo (3286)']
+  - name: 'Luden''s Pulse'
+    keywords: ['Luden''s Pulse', 'ornn', 'forge']
+  - name: 'Luden''s Tempest'
+    keywords: ['Luden''s Tempest', 'boomstick', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Magic Penetration', 'Ability Haste', 'Movement']
+  - name: 'Madred''s Bloodrazor'
+    keywords: ['Madred''s Bloodrazor']
+  - name: 'Madred''s Razors'
+    keywords: ['Madred''s Razors']
+  - name: 'Magus'
+    keywords: ['Magus']
+  - name: 'Malady'
+    keywords: ['Malady']
+  - name: 'Malignance'
+    keywords: ['Malignance', 'burn', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Mana Manipulator'
+    keywords: ['Mana Manipulator']
+  - name: 'Mana Potion'
+    keywords: ['Mana Potion']
+  - name: 'Manamune'
+    keywords: ['Manamune', 'Muramana', 'tear', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'On-Hit Effects', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Manamune (Quick Charge)'
+    keywords: ['Manamune (Quick Charge)']
+  - name: 'Mandrake Ward'
+    keywords: ['Mandrake Ward']
+  - name: 'Mariner''s Vengeance'
+    keywords: ['Mariner''s Vengeance', 'ga']
+  - name: 'Marksman''s Rifle'
+    keywords: ['Marksman''s Rifle']
+  - name: 'Martyr''s Gambit'
+    keywords: ['Martyr''s Gambit']
+  - name: 'Maw of Malmortius'
+    keywords: ['Maw of Malmortius', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'Magic Resistance', 'Ability Haste']
+  - name: 'Mejai''s Soulstealer'
+    keywords: ['Mejai''s Soulstealer', 'book', 'Mage', 'Ability Power', 'Health & Regeneration', 'Movement']
+  - name: 'Meki Pendant'
+    keywords: ['Meki Pendant']
+  - name: 'Mercenary Upgrades'
+    keywords: ['Mercenary Upgrades']
+  - name: 'Mercurial Scimitar'
+    keywords: ['Mercurial Scimitar', 'merc scim', 'qss', 'quicksilver sash', 'silvermere dawn', 'Fighter', 'Marksman', 'Attack Damage', 'Magic Resistance', 'Movement', 'Life Steal & Vamp']
+  - name: 'Mercury''s Treads'
+    keywords: ['Mercury''s Treads', 'boots', 'mercs', 'Magic Resistance', 'Movement']
+  - name: 'Might of the Ruined King'
+    keywords: ['Might of the Ruined King', 'ornn', 'forge']
+  - name: 'Mikael''s Blessing'
+    keywords: ['Mikael''s Blessing', 'crucible', 'michael', 'mikael', 'Support', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Mikael''s Crucible'
+    keywords: ['Mikael''s Crucible']
+  - name: 'Minion Dematerializer'
+    keywords: ['Minion Dematerializer', 'Sojourner', 'Hexplosive']
+  - name: 'Mirage Blade'
+    keywords: ['Mirage Blade', 'Attack Speed', 'Movement']
+  - name: 'Mobility Boots'
+    keywords: ['Mobility Boots', 'boots', 'zoomers', 'Movement']
+  - name: 'Molten Edge'
+    keywords: ['Molten Edge', 'ornn', 'forge']
+  - name: 'Moonflair Spellblade'
+    keywords: ['Moonflair Spellblade', 'Mage', 'Ability Power', 'Health & Regeneration']
+  - name: 'Moonstone Renewer'
+    keywords: ['Moonstone Renewer', 'yuumi', 'Support', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Morellonomicon'
+    keywords: ['Morellonomicon', 'forbidden book', 'grievous', 'grievous wounds', 'last shadow', 'nmst', 'Mage', 'Support', 'Ability Power', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Mortal Reminder'
+    keywords: ['Mortal Reminder', 'grievous', 'grievous wounds', 'Marksman', 'Attack Damage', 'Critical Strike', 'Armor Penetration']
+  - name: 'Mosstomper Seedling'
+    keywords: ['Mosstomper Seedling', 'jungle', 'green', 'salamander', 'lizard', 'frog', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Life Steal & Vamp']
+  - name: 'Muramana'
+    keywords: ['Muramana', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'On-Hit Effects', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Muramana (Quick Charge)'
+    keywords: ['Muramana (Quick Charge)', 'Attack Damage', 'Mana & Regeneration']
+  - name: 'Murksphere'
+    keywords: ['Murksphere']
+  - name: 'Nashor''s Tooth'
+    keywords: ['Nashor''s Tooth', 'nashors', 'Marksman', 'Mage', 'Attack Speed', 'On-Hit Effects', 'Ability Power', 'Ability Haste']
+  - name: 'Navori Flickerblade'
+    keywords: ['Navori Flickerblade', 'crit shojin', 'Marksman', 'Critical Strike', 'Attack Speed', 'Movement']
+  - name: 'Navori Quickblades'
+    keywords: ['Navori Quickblades', 'Marksman', 'Attack Damage', 'Critical Strike', 'Ability Haste']
+  - name: 'Needlessly Large Rod'
+    keywords: ['Needlessly Large Rod', 'nlr', 'Mage', 'Ability Power']
+  - name: 'Negatron Cloak'
+    keywords: ['Negatron Cloak', 'Fighter', 'Tank', 'Support', 'Magic Resistance']
+  - name: 'Netherstride Grimoire'
+    keywords: ['Netherstride Grimoire']
+  - name: 'Night Harvester'
+    keywords: ['Night Harvester', 'dark', 'scythe', 'Mage', 'Ability Power', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Ninja Tabi'
+    keywords: ['Ninja Tabi']
+  - name: 'Nomad''s Eye'
+    keywords: ['Nomad''s Eye', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Nomad''s Medallion'
+    keywords: ['Nomad''s Medallion', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Noonquiver'
+    keywords: ['Noonquiver', 'Marksman', 'Attack Damage', 'Critical Strike', 'On-Hit Effects']
+  - name: 'Null-Magic Mantle'
+    keywords: ['Null-Magic Mantle', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Support', 'Magic Resistance']
+  - name: 'Oblivion Orb'
+    keywords: ['Oblivion Orb', 'grievous', 'grievous wounds', 'Mage', 'Support', 'Ability Power']
+  - name: 'Obsidian Cleaver'
+    keywords: ['Obsidian Cleaver', 'bc', 'Fighter', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Obsidian Edge'
+    keywords: ['Obsidian Edge', 'jungle', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Life Steal & Vamp']
+  - name: 'Odyn''s Veil'
+    keywords: ['Odyn''s Veil']
+  - name: 'Offense Upgrades'
+    keywords: ['Offense Upgrades']
+  - name: 'Ohmwrecker'
+    keywords: ['Ohmwrecker']
+  - name: 'Ohmwrecker (Turret Item)'
+    keywords: ['Ohmwrecker (Turret Item)', 'Armor Penetration']
+  - name: 'Oponn''s Razor'
+    keywords: ['Oponn''s Razor']
+  - name: 'Opportunity'
+    keywords: ['Opportunity', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Movement']
+  - name: 'Oracle Lens'
+    keywords: ['Oracle Lens', 'red', 'lens', 'spinny', 'sweeper', 'totem', 'trinket']
+  - name: 'Oracle''s Elixir'
+    keywords: ['Oracle''s Elixir']
+  - name: 'Oracle''s Extract'
+    keywords: ['Oracle''s Extract']
+  - name: 'Oracle''s Hood'
+    keywords: ['Oracle''s Hood']
+  - name: 'Oracle''s Lens'
+    keywords: ['Oracle''s Lens']
+  - name: 'Orb of Winter'
+    keywords: ['Orb of Winter']
+  - name: 'Overcharged'
+    keywords: ['Overcharged']
+  - name: 'Overlord''s Bloodmail'
+    keywords: ['Overlord''s Bloodmail', 'Fighter', 'Tank', 'Attack Damage', 'Health & Regeneration']
+  - name: 'Pathfinder''s Knife'
+    keywords: ['Pathfinder''s Knife', 'jungle']
+  - name: 'Pauldrons of Whiterock'
+    keywords: ['Pauldrons of Whiterock', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward', 'Tank', 'Attack Damage', 'Health & Regeneration']
+  - name: 'Peering Farsight Ward'
+    keywords: ['Peering Farsight Ward', 'kleptomancy', 'blue', 'totem']
+  - name: 'Pendant of Zephiris'
+    keywords: ['Pendant of Zephiris']
+  - name: 'Perfect Hex Core'
+    keywords: ['Perfect Hex Core', 'Viktor', 'viktor']
+  - name: 'Perfectly Timed Stopwatch'
+    keywords: ['Perfectly Timed Stopwatch', 'zhg', 'zonyas', 'zhonyas']
+  - name: 'Perplexity'
+    keywords: ['Perplexity', 'Mage', 'Armor Penetration', 'Ability Power', 'Magic Penetration', 'Movement']
+  - name: 'Phage'
+    keywords: ['Phage', 'mallet', 'Fighter', 'Tank', 'Attack Damage', 'Health & Regeneration']
+  - name: 'Phantom Dancer'
+    keywords: ['Phantom Dancer', 'pd', 'Marksman', 'Critical Strike', 'Attack Speed', 'Movement']
+  - name: 'Philosopher''s Medallion'
+    keywords: ['Philosopher''s Medallion', 'Support', 'Economy', 'Gold', 'Ancient Coin', 'Nomad''s Medallion']
+  - name: 'Philosopher''s Stone'
+    keywords: ['Philosopher''s Stone']
+  - name: 'Phreakish Gusto'
+    keywords: ['Phreakish Gusto']
+  - name: 'Pickaxe'
+    keywords: ['Pickaxe', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage']
+  - name: 'Pilfered Health Potion'
+    keywords: ['Pilfered Health Potion']
+  - name: 'Pilfered Potion of Rouge'
+    keywords: ['Pilfered Potion of Rouge', 'kleptomancy']
+  - name: 'Pilfered Stealth Ward'
+    keywords: ['Pilfered Stealth Ward', 'kleptomancy', 'green']
+  - name: 'Plated Steelcaps'
+    keywords: ['Plated Steelcaps', 'boots', 'ninja tabi', 'Armor', 'Movement']
+  - name: 'Poacher''s Dirk'
+    keywords: ['Poacher''s Dirk']
+  - name: 'Poacher''s Knife'
+    keywords: ['Poacher''s Knife']
+  - name: 'Poro-Snax'
+    keywords: ['Poro-Snax']
+  - name: 'Port Pad'
+    keywords: ['Port Pad']
+  - name: 'Pox Arcana'
+    keywords: ['Pox Arcana']
+  - name: 'Pridestalker''s Blade'
+    keywords: ['Pridestalker''s Blade', 'jungle']
+  - name: 'Primordial Dawn'
+    keywords: ['Primordial Dawn', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Priscilla''s Blessing'
+    keywords: ['Priscilla''s Blessing']
+  - name: 'Prismatic Item'
+    keywords: ['Prismatic Item']
+  - name: 'Prismatic Stat Voucher'
+    keywords: ['Prismatic Stat Voucher']
+  - name: 'Profane Hydra'
+    keywords: ['Profane Hydra', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Prospector''s Blade'
+    keywords: ['Prospector''s Blade']
+  - name: 'Prospector''s Ring'
+    keywords: ['Prospector''s Ring']
+  - name: 'Protoplasm Harness'
+    keywords: ['Protoplasm Harness', 'Tank', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Prototype Hex Core'
+    keywords: ['Prototype Hex Core', 'Viktor', 'viktor']
+  - name: 'Prowler''s Claw'
+    keywords: ['Prowler''s Claw', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Puppeteer'
+    keywords: ['Puppeteer', 'Support', 'Attack Speed', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Pyromancer''s Cloak'
+    keywords: ['Pyromancer''s Cloak', 'burn', 'Fighter', 'Marksman', 'Mage', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Quicksilver Sash'
+    keywords: ['Quicksilver Sash', 'qss', 'mercurial scimitar', 'silvermere dawn', 'Fighter', 'Marksman', 'Assassin', 'Magic Resistance']
+  - name: 'Quill Coat'
+    keywords: ['Quill Coat']
+  - name: 'Rabadon''s Deathcap'
+    keywords: ['Rabadon''s Deathcap', 'banksys', 'dc', 'dcap', 'hat', 'witchcap', 'wooglets', 'Mage', 'Ability Power']
+  - name: 'Rabadon''s Deathcrown'
+    keywords: ['Rabadon''s Deathcrown', 'banksys', 'dc', 'dcap', 'hat', 'Mage', 'Ability Power']
+  - name: 'Radiant Virtue'
+    keywords: ['Radiant Virtue', 'rv', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance']
+  - name: 'Rageknife'
+    keywords: ['Rageknife', 'angry', 'Fighter', 'Marksman', 'Attack Speed', 'On-Hit Effects']
+  - name: 'Rainbow Snax Party Pack!'
+    keywords: ['Rainbow Snax Party Pack!']
+  - name: 'Raise Morale'
+    keywords: ['Raise Morale', 'Gangplank']
+  - name: 'Randuin''s Omen'
+    keywords: ['Randuin''s Omen', 'Tank', 'Health & Regeneration', 'Armor']
+  - name: 'Ranger''s Trailblazer'
+    keywords: ['Ranger''s Trailblazer', 'jungle']
+  - name: 'Rapid Firecannon'
+    keywords: ['Rapid Firecannon', 'canon', 'gun', 'rapidfire', 'rfc', 'Marksman', 'Critical Strike', 'Attack Speed', 'Movement']
+  - name: 'Raptor Cloak'
+    keywords: ['Raptor Cloak']
+  - name: 'Ravenous Hydra'
+    keywords: ['Ravenous Hydra', 'rav hydra', 'Fighter', 'Attack Damage', 'Ability Haste', 'Life Steal & Vamp']
+  - name: 'Reality Fracture'
+    keywords: ['Reality Fracture', 'Kevins', 'Mage', 'Attack Speed', 'Ability Power', 'Health & Regeneration']
+  - name: 'Reaper''s Toll'
+    keywords: ['Reaper''s Toll', 'Marksman', 'Attack Speed', 'Movement']
+  - name: 'Rectrix'
+    keywords: ['Rectrix', 'Fighter', 'Assassin', 'Attack Damage', 'Movement']
+  - name: 'Recurve Bow'
+    keywords: ['Recurve Bow', 'Fighter', 'Marksman', 'Attack Speed', 'On-Hit Effects']
+  - name: 'Redemption'
+    keywords: ['Redemption', 'burn', 'Support', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Refillable Potion'
+    keywords: ['Refillable Potion', 'consumable', 'Green Potion', 'Health & Regeneration']
+  - name: 'Regicide'
+    keywords: ['Regicide', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Movement']
+  - name: 'Regrowth Pendant'
+    keywords: ['Regrowth Pendant']
+  - name: 'Reinforced Armor (Turret Item)'
+    keywords: ['Reinforced Armor (Turret Item)']
+  - name: 'Rejuvenation Bead'
+    keywords: ['Rejuvenation Bead', 'Tank', 'Health & Regeneration']
+  - name: 'Rejuvenation Potion'
+    keywords: ['Rejuvenation Potion']
+  - name: 'Relic Shield'
+    keywords: ['Relic Shield', 'Support', 'Gold', 'Economy', 'Tank', 'Ability Power', 'Health & Regeneration']
+  - name: 'Reliquary of the Golden Dawn'
+    keywords: ['Reliquary of the Golden Dawn', 'Tank', 'Support', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Remnant of the Ascended'
+    keywords: ['Remnant of the Ascended', 'Support', 'Economy', 'Gold', 'reverie', 'Sightstone', 'shurelya', 'Ward', 'Eye of Ascension']
+  - name: 'Remnant of the Aspect'
+    keywords: ['Remnant of the Aspect', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Remnant of the Watchers'
+    keywords: ['Remnant of the Watchers', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward', 'Eye of the Watchers']
+  - name: 'Renewal Tunic'
+    keywords: ['Renewal Tunic']
+  - name: 'Reverberation'
+    keywords: ['Reverberation', 'Tank', 'Attack Speed', 'Armor', 'Magic Resistance']
+  - name: 'Riftmaker'
+    keywords: ['Riftmaker', 'velkoz', 'Mage', 'Ability Power', 'Health & Regeneration', 'Ability Haste', 'Life Steal & Vamp']
+  - name: 'Righteous Glory'
+    keywords: ['Righteous Glory']
+  - name: 'Rimeforged Grasp'
+    keywords: ['Rimeforged Grasp', 'iceborn', 'chilly mittens', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Rite of Ruin'
+    keywords: ['Rite of Ruin', 'Mage', 'Critical Strike', 'Ability Power', 'Ability Haste']
+  - name: 'Rod of Ages'
+    keywords: ['Rod of Ages', 'RoA', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Ruby Crystal'
+    keywords: ['Ruby Crystal', 'red', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Support', 'Health & Regeneration']
+  - name: 'Ruby Sightstone'
+    keywords: ['Ruby Sightstone', 'Support', 'Ward']
+  - name: 'Runaan''s Hurricane'
+    keywords: ['Runaan''s Hurricane', 'Marksman', 'Critical Strike', 'Attack Speed', 'On-Hit Effects', 'Movement']
+  - name: 'Runecarver'
+    keywords: ['Runecarver', 'energize', 'Mage', 'Ability Power', 'Ability Haste', 'Movement']
+  - name: 'Runeglaive'
+    keywords: ['Runeglaive', 'jungle']
+  - name: 'Runegorger'
+    keywords: ['Runegorger']
+  - name: 'Runesteel Spaulders'
+    keywords: ['Runesteel Spaulders', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward', 'Tank', 'Attack Damage', 'Health & Regeneration']
+  - name: 'Runic Bulwark'
+    keywords: ['Runic Bulwark']
+  - name: 'Runic Compass'
+    keywords: ['Runic Compass', 'Support', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Runic Echoes'
+    keywords: ['Runic Echoes', 'jungle', 'blue', 'enchantment', 'runeglaive']
+  - name: 'Rylai''s Crystal Scepter'
+    keywords: ['Rylai''s Crystal Scepter', 'rylais', 'Mage', 'Ability Power', 'Health & Regeneration']
+  - name: 'Sage''s Ring'
+    keywords: ['Sage''s Ring']
+  - name: 'Salvation'
+    keywords: ['Salvation', 'ornn', 'forge']
+  - name: 'Sandshrike''s Claw'
+    keywords: ['Sandshrike''s Claw', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste', 'Movement']
+  - name: 'Sanguine Blade'
+    keywords: ['Sanguine Blade', 'Assassin', 'Attack Damage', 'Attack Speed', 'Armor Penetration', 'Life Steal & Vamp']
+  - name: 'Sanguine Gift'
+    keywords: ['Sanguine Gift', 'Mage', 'Ability Power', 'Ability Haste']
+  - name: 'Sapphire Crystal'
+    keywords: ['Sapphire Crystal', 'blue', 'Mage', 'Tank', 'Mana & Regeneration']
+  - name: 'Sated Devourer'
+    keywords: ['Sated Devourer', 'Attack Speed']
+  - name: 'Scarecrow Effigy'
+    keywords: ['Scarecrow Effigy', 'Fiddlesticks', 'yellow', 'totem', 'trinket']
+  - name: 'Scorchclaw Pup'
+    keywords: ['Scorchclaw Pup', 'jungle', 'red', 'cat', 'kitty', 'meow', 'Fighter', 'Marksman', 'Assassin', 'Mage', 'Tank', 'Life Steal & Vamp']
+  - name: 'Scout''s Slingshot'
+    keywords: ['Scout''s Slingshot', 'Marksman', 'Attack Speed', 'On-Hit Effects']
+  - name: 'Scouting Ahead'
+    keywords: ['Scouting Ahead']
+  - name: 'Scroll of Teleportation'
+    keywords: ['Scroll of Teleportation']
+  - name: 'Scrying Orb'
+    keywords: ['Scrying Orb', 'blue']
+  - name: 'Seat of Command'
+    keywords: ['Seat of Command', 'banner of command', 'flag', 'Support', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Seeker''s Armguard'
+    keywords: ['Seeker''s Armguard', 'zhg', 'zonyas', 'zhonyas', 'Mage', 'Ability Power', 'Armor']
+  - name: 'Seer Stone'
+    keywords: ['Seer Stone']
+  - name: 'Seething Sorrow'
+    keywords: ['Seething Sorrow', 'Fighter', 'Marksman', 'Attack Damage', 'Attack Speed', 'On-Hit Effects', 'Ability Power']
+  - name: 'Seraph''s Embrace'
+    keywords: ['Seraph''s Embrace', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Seraph''s Embrace (Quick Charge)'
+    keywords: ['Seraph''s Embrace (Quick Charge)', 'Ability Power', 'Mana & Regeneration']
+  - name: 'Serpent''s Fang'
+    keywords: ['Serpent''s Fang', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration']
+  - name: 'Serrated Dirk'
+    keywords: ['Serrated Dirk', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration']
+  - name: 'Serylda''s Grudge'
+    keywords: ['Serylda''s Grudge', 'slow', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Shadowflame'
+    keywords: ['Shadowflame', 'Mage', 'Ability Power', 'Magic Penetration']
+  - name: 'Shard of True Ice'
+    keywords: ['Shard of True Ice', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Shattered Armguard'
+    keywords: ['Shattered Armguard', 'Ability Power', 'Armor']
+  - name: 'Sheen'
+    keywords: ['Sheen', 'Jimmy Neutron', 'Fighter', 'Marksman', 'Mage', 'On-Hit Effects', 'Ability Haste']
+  - name: 'Shield Totem'
+    keywords: ['Shield Totem']
+  - name: 'Shield of Molten Stone'
+    keywords: ['Shield of Molten Stone', 'Tank', 'Health & Regeneration', 'Armor']
+  - name: 'Shojin''s Resolve'
+    keywords: ['Shojin''s Resolve', 'Fighter', 'Assassin', 'Attack Damage', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Shurelya''s Battlesong'
+    keywords: ['Shurelya''s Battlesong', 'shurelya', 'reverie', 'Support', 'Ability Power', 'Mana & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Shurelya''s Requiem'
+    keywords: ['Shurelya''s Requiem', 'shurelya', 'reverie', 'Tank', 'Support', 'Ability Power', 'Mana & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Shurelya''s Reverie'
+    keywords: ['Shurelya''s Reverie']
+  - name: 'Siege Ballista'
+    keywords: ['Siege Ballista']
+  - name: 'Siege Sight Warder'
+    keywords: ['Siege Sight Warder', 'Green Ward']
+  - name: 'Sightstone'
+    keywords: ['Sightstone', 'Support', 'Ward']
+  - name: 'Silvermere Dawn'
+    keywords: ['Silvermere Dawn', 'qss', 'mace', 'quicksilver sash', 'mercurial scimitar', 'Fighter', 'Assassin', 'Attack Damage', 'Health & Regeneration', 'Magic Resistance']
+  - name: 'Singularity Lantern'
+    keywords: ['Singularity Lantern']
+  - name: 'Skirmisher''s Sabre'
+    keywords: ['Skirmisher''s Sabre', 'jungle']
+  - name: 'Slightly Magical Boots'
+    keywords: ['Slightly Magical Boots', 'Movement']
+  - name: 'Sly Sack of Gold'
+    keywords: ['Sly Sack of Gold', 'kleptomancy']
+  - name: 'Solstice Sleigh'
+    keywords: ['Solstice Sleigh', 'Support', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Sorcerer''s Shoes'
+    keywords: ['Sorcerer''s Shoes', 'boots', 'sorcs', 'Magic Penetration', 'Movement']
+  - name: 'Soul Anchor'
+    keywords: ['Soul Anchor']
+  - name: 'Soul Shroud'
+    keywords: ['Soul Shroud']
+  - name: 'Soul Sickle'
+    keywords: ['Soul Sickle']
+  - name: 'Spear of Shojin'
+    keywords: ['Spear of Shojin', 'Fighter', 'Attack Damage', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Spectral Cutlass'
+    keywords: ['Spectral Cutlass', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Movement']
+  - name: 'Spectral Sickle'
+    keywords: ['Spectral Sickle', 'Support', 'Gold', 'Economy', 'Attack Damage', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Spectre''s Cowl'
+    keywords: ['Spectre''s Cowl', 'hat', 'ghost', 'Tank', 'Health & Regeneration', 'Magic Resistance']
+  - name: 'Spellbinder'
+    keywords: ['Spellbinder']
+  - name: 'Spellbreaker'
+    keywords: ['Spellbreaker']
+  - name: 'Spellslinger''s Shoes'
+    keywords: ['Spellslinger''s Shoes', 'boots', 'Magic Penetration', 'Movement']
+  - name: 'Spellthief''s Edge'
+    keywords: ['Spellthief''s Edge', 'Support', 'Economy', 'Gold', 'Mage', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Spirit Stone'
+    keywords: ['Spirit Stone']
+  - name: 'Spirit Visage'
+    keywords: ['Spirit Visage', 'sv', 'Tank', 'Health & Regeneration', 'Magic Resistance', 'Ability Haste']
+  - name: 'Spirit of the Ancient Golem'
+    keywords: ['Spirit of the Ancient Golem']
+  - name: 'Spirit of the Elder Lizard'
+    keywords: ['Spirit of the Elder Lizard']
+  - name: 'Spirit of the Spectral Wraith'
+    keywords: ['Spirit of the Spectral Wraith']
+  - name: 'Staff of Flowing Water'
+    keywords: ['Staff of Flowing Water', 'nami', 'Support', 'Ability Power', 'Mana & Regeneration', 'Ability Haste']
+  - name: 'Stalker''s Blade'
+    keywords: ['Stalker''s Blade', 'jungle']
+  - name: 'Starcaster'
+    keywords: ['Starcaster', 'yuumi', 'Support', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Stark''s Fervor'
+    keywords: ['Stark''s Fervor']
+  - name: 'Stat Bonus'
+    keywords: ['Stat Bonus']
+  - name: 'Stat-Stick of Stoicism'
+    keywords: ['Stat-Stick of Stoicism', 'debug']
+  - name: 'Statikk Shiv'
+    keywords: ['Statikk Shiv', 'Marksman', 'Attack Damage', 'Attack Speed', 'On-Hit Effects', 'Movement']
+  - name: 'Stealth Ward'
+    keywords: ['Stealth Ward', 'yellow', 'sweeper', 'totem', 'trinket']
+  - name: 'Stealth Ward (Item)'
+    keywords: ['Stealth Ward (Item)', 'green']
+  - name: 'Steel Shoulderguards'
+    keywords: ['Steel Shoulderguards', 'Support', 'Gold', 'Economy', 'Tank', 'Attack Damage', 'Health & Regeneration']
+  - name: 'Steel Sigil'
+    keywords: ['Steel Sigil', 'Bloodstone', 'Fighter', 'Attack Damage', 'Armor']
+  - name: 'Sterak''s Gage'
+    keywords: ['Sterak''s Gage', 'juggernaut', 'primal', 'shield', 'sterak''s cage', 'Fighter', 'Attack Damage', 'Health & Regeneration']
+  - name: 'Stinger'
+    keywords: ['Stinger']
+  - name: 'Stirring Wardstone'
+    keywords: ['Stirring Wardstone', 'Support', 'Ward', 'sightstone']
+  - name: 'Stopwatch'
+    keywords: ['Stopwatch', 'zhg', 'zonyas', 'zhonyas', 'Fighter', 'Marksman', 'Assassin', 'Mage']
+  - name: 'Stormrazor'
+    keywords: ['Stormrazor', 'energize', 'Windblade', 'Marksman', 'Attack Damage', 'Critical Strike', 'Attack Speed', 'On-Hit Effects']
+  - name: 'Stormsurge'
+    keywords: ['Stormsurge', 'Mage', 'Ability Power', 'Magic Penetration', 'Movement']
+  - name: 'Stridebreaker'
+    keywords: ['Stridebreaker', 'kneecapper', 'whipchain', 'Fighter', 'Attack Damage', 'Attack Speed', 'Health & Regeneration', 'Movement']
+  - name: 'Sundered Sky'
+    keywords: ['Sundered Sky', 'Fighter', 'Attack Damage', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Sunfire Aegis'
+    keywords: ['Sunfire Aegis', 'burn', 'sunborn', 'sunfire', 'Tank', 'Health & Regeneration', 'Armor', 'Ability Haste']
+  - name: 'Sunfire Cape'
+    keywords: ['Sunfire Cape']
+  - name: 'Super Mech Armor'
+    keywords: ['Super Mech Armor']
+  - name: 'Super Mech Power Field'
+    keywords: ['Super Mech Power Field']
+  - name: 'Super Spicy Snax'
+    keywords: ['Super Spicy Snax']
+  - name: 'Sweeping Lens'
+    keywords: ['Sweeping Lens', 'red']
+  - name: 'Swiftmarch'
+    keywords: ['Swiftmarch', 'boots', 'Movement']
+  - name: 'Swindler''s Orb'
+    keywords: ['Swindler''s Orb', 'Mana & Regeneration']
+  - name: 'Sword of Blossoming Dawn'
+    keywords: ['Sword of Blossoming Dawn', 'Support', 'Ability Power', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Sword of the Divine'
+    keywords: ['Sword of the Divine', 'sotd', 'Assassin', 'Critical Strike']
+  - name: 'Sword of the Occult'
+    keywords: ['Sword of the Occult', 'soto']
+  - name: 'Swordnado'
+    keywords: ['Swordnado', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Symbiotic Soles'
+    keywords: ['Symbiotic Soles', 'Synchronized Souls', 'Movement']
+  - name: 'Synchronized Souls'
+    keywords: ['Synchronized Souls', 'boots', 'Movement']
+  - name: 'Syzygy'
+    keywords: ['Syzygy', 'Fighter', 'Assassin', 'Attack Damage', 'Ability Haste', 'Movement']
+  - name: 'T.U.R.B.O.'
+    keywords: ['T.U.R.B.O.', 'Fighter', 'Attack Damage', 'Attack Speed', 'Health & Regeneration']
+  - name: 'Talisman of Ascension'
+    keywords: ['Talisman of Ascension', 'Support', 'Economy', 'Gold', 'Attack Damage', 'Critical Strike', 'Attack Speed', 'Armor Penetration', 'Ability Power', 'Mana & Regeneration', 'Magic Penetration', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste', 'Movement', 'Life Steal & Vamp']
+  - name: 'Targon''s Brace'
+    keywords: ['Targon''s Brace', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward']
+  - name: 'Targon''s Buckler'
+    keywords: ['Targon''s Buckler', 'Support', 'Economy', 'Gold', 'Sightstone', 'Ward', 'Tank', 'Ability Power', 'Health & Regeneration']
+  - name: 'Tear of the Goddess'
+    keywords: ['Tear of the Goddess', 'archangel''s staff', 'Seraph''s embrace', 'Winter''s approach', 'Fimbulwinter', 'Muramana', 'Manamune', 'Marksman', 'Mage', 'Mana & Regeneration']
+  - name: 'Tear of the Goddess (Quick Charge)'
+    keywords: ['Tear of the Goddess (Quick Charge)']
+  - name: 'Teleport'
+    keywords: ['Teleport']
+  - name: 'Terminus'
+    keywords: ['Terminus', 'bow', 'sentinel', 'Fighter', 'Marksman', 'Attack Damage', 'Attack Speed', 'On-Hit Effects', 'Armor Penetration', 'Magic Penetration']
+  - name: 'The Baron''s Gift'
+    keywords: ['The Baron''s Gift', 'nashors', 'Mage', 'Attack Speed', 'On-Hit Effects', 'Ability Power', 'Ability Haste']
+  - name: 'The Brutalizer'
+    keywords: ['The Brutalizer', 'Bloodstone', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'The Collector'
+    keywords: ['The Collector', 'deathblade', 'gun', 'lethality', 'Marksman', 'Assassin', 'Attack Damage', 'Critical Strike', 'Armor Penetration']
+  - name: 'The Golden Spatula'
+    keywords: ['The Golden Spatula', 'spatch', 'urf', 'manatee', 'Quest', 'Urf''s Champion', 'burn', 'Attack Damage', 'Critical Strike', 'Attack Speed', 'Ability Power', 'Mana & Regeneration', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste', 'Movement', 'Life Steal & Vamp']
+  - name: 'The Hex Core'
+    keywords: ['The Hex Core', 'Viktor']
+  - name: 'The Rose''s Pride'
+    keywords: ['The Rose''s Pride']
+  - name: 'The Unspoken Parasite'
+    keywords: ['The Unspoken Parasite', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance']
+  - name: 'Thornmail'
+    keywords: ['Thornmail', 'grievous wounds', 'Tank', 'Health & Regeneration', 'Armor']
+  - name: 'Tiamat'
+    keywords: ['Tiamat', 'Fighter', 'Tank', 'Attack Damage', 'On-Hit Effects']
+  - name: 'Timeworn Ancient Coin'
+    keywords: ['Timeworn Ancient Coin', 'Support', 'Gold', 'Economy']
+  - name: 'Timeworn Face of the Mountain'
+    keywords: ['Timeworn Face of the Mountain', 'Support', 'Economy', 'Gold']
+  - name: 'Timeworn Frost Queen''s Claim'
+    keywords: ['Timeworn Frost Queen''s Claim', 'Support', 'Economy', 'Gold']
+  - name: 'Timeworn Frostfang'
+    keywords: ['Timeworn Frostfang', 'Support', 'Economy', 'Gold']
+  - name: 'Timeworn Nomad''s Medallion'
+    keywords: ['Timeworn Nomad''s Medallion', 'Support', 'Economy', 'Gold']
+  - name: 'Timeworn Relic Shield'
+    keywords: ['Timeworn Relic Shield', 'Support', 'Gold', 'Economy']
+  - name: 'Timeworn Spellthief''s Edge'
+    keywords: ['Timeworn Spellthief''s Edge', 'Support', 'Economy', 'Gold']
+  - name: 'Timeworn Talisman of Ascension'
+    keywords: ['Timeworn Talisman of Ascension', 'Support', 'Economy', 'Gold']
+  - name: 'Timeworn Targon''s Brace'
+    keywords: ['Timeworn Targon''s Brace', 'Support', 'Gold', 'Economy']
+  - name: 'Titanic Hydra'
+    keywords: ['Titanic Hydra', 'beefer', 'juggernaut', 'Fighter', 'Tank', 'Attack Damage', 'On-Hit Effects', 'Health & Regeneration']
+  - name: 'Total Biscuit of Everlasting Will'
+    keywords: ['Total Biscuit of Everlasting Will', 'kleptomancy']
+  - name: 'Total Biscuit of Rejuvenation'
+    keywords: ['Total Biscuit of Rejuvenation']
+  - name: 'Tower: Beam of Ruination'
+    keywords: ['Tower: Beam of Ruination']
+  - name: 'Tower: Storm Bulwark'
+    keywords: ['Tower: Storm Bulwark']
+  - name: 'Tracker''s Knife'
+    keywords: ['Tracker''s Knife', 'jungle', 'Sightstone', 'Ward']
+  - name: 'Trailblazer'
+    keywords: ['Trailblazer', 'Tank', 'Support', 'Health & Regeneration', 'Armor', 'Movement']
+  - name: 'Travel Size Elixir of Iron'
+    keywords: ['Travel Size Elixir of Iron', 'kleptomancy', 'white']
+  - name: 'Travel Size Elixir of Sorcery'
+    keywords: ['Travel Size Elixir of Sorcery', 'kleptomancy', 'blue']
+  - name: 'Travel Size Elixir of Wrath'
+    keywords: ['Travel Size Elixir of Wrath', 'kleptomancy', 'red']
+  - name: 'Trickster''s Glass'
+    keywords: ['Trickster''s Glass', 'mirror']
+  - name: 'Trinity Force'
+    keywords: ['Trinity Force', 'Spellblade', 'triforce', 'tons of damage', '33333', 'Fighter', 'Marksman', 'Attack Damage', 'Attack Speed', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Trinity Fusion'
+    keywords: ['Trinity Fusion', 'ornn', 'forge']
+  - name: 'Tunneler'
+    keywords: ['Tunneler', 'drill', 'Fighter', 'Attack Damage', 'Health & Regeneration']
+  - name: 'Turbo Chemtank'
+    keywords: ['Turbo Chemtank', 'catastrophe', 'Tank', 'Health & Regeneration']
+  - name: 'Turbocharged Hexperiment'
+    keywords: ['Turbocharged Hexperiment', 'catastrophe', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste', 'Movement']
+  - name: 'Turret Plating'
+    keywords: ['Turret Plating']
+  - name: 'Twilight''s Edge'
+    keywords: ['Twilight''s Edge', 'Marksman', 'Mage', 'Attack Damage', 'Ability Power']
+  - name: 'Twin Mask'
+    keywords: ['Twin Mask']
+  - name: 'Twin Shadows'
+    keywords: ['Twin Shadows', 'spooky ghosts']
+  - name: 'Twin Shadows (3290)'
+    keywords: ['Twin Shadows (3290)']
+  - name: 'Typhoon'
+    keywords: ['Typhoon', 'squallrider', 'Marksman', 'Attack Damage', 'Critical Strike', 'Attack Speed', 'Movement']
+  - name: 'Typhoon Claws'
+    keywords: ['Typhoon Claws']
+  - name: 'Umbral Glaive'
+    keywords: ['Umbral Glaive', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Unending Despair'
+    keywords: ['Unending Despair', 'Tank', 'Health & Regeneration', 'Armor', 'Ability Haste']
+  - name: 'Upgraded Aeropack'
+    keywords: ['Upgraded Aeropack', 'protobelt', 'rocket belt', 'Mage', 'Ability Power', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Vampiric Scepter'
+    keywords: ['Vampiric Scepter', 'Fighter', 'Marksman', 'Assassin', 'Attack Damage', 'Life Steal & Vamp']
+  - name: 'Vanguard'
+    keywords: ['Vanguard']
+  - name: 'Vanguard Banner'
+    keywords: ['Vanguard Banner']
+  - name: 'Veigar''s Talisman of Ascension'
+    keywords: ['Veigar''s Talisman of Ascension']
+  - name: 'Verdant Barrier'
+    keywords: ['Verdant Barrier', 'necklace', 'Mage', 'Ability Power', 'Magic Resistance']
+  - name: 'Vespertide'
+    keywords: ['Vespertide', 'dark', 'scythe', 'Mage', 'Ability Power', 'Health & Regeneration', 'Ability Haste', 'Movement']
+  - name: 'Vigilant Wardstone'
+    keywords: ['Vigilant Wardstone', 'sightstone', 'ward', 'Support', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Vision Ward'
+    keywords: ['Vision Ward', 'pink']
+  - name: 'Void Immolation'
+    keywords: ['Void Immolation', 'Tank', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Void Staff'
+    keywords: ['Void Staff', 'Mage', 'Ability Power', 'Magic Penetration']
+  - name: 'Voltaic Cyclosword'
+    keywords: ['Voltaic Cyclosword', 'lethality', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Ability Haste']
+  - name: 'Warden''s Eye'
+    keywords: ['Warden''s Eye']
+  - name: 'Warden''s Mail'
+    keywords: ['Warden''s Mail', 'Tank', 'Armor']
+  - name: 'Warmog''s Armor'
+    keywords: ['Warmog''s Armor', 'Tank', 'Health & Regeneration']
+  - name: 'Warrior'
+    keywords: ['Warrior', 'jungle', 'red', 'enchantment']
+  - name: 'Watchful Wardstone'
+    keywords: ['Watchful Wardstone', 'sightstone', 'ward', 'Support', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Whispering Circlet'
+    keywords: ['Whispering Circlet', 'tear', 'Mage', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Wicked Hatchet'
+    keywords: ['Wicked Hatchet', 'ie']
+  - name: 'Will of the Ancients'
+    keywords: ['Will of the Ancients']
+  - name: 'Winged Moonplate'
+    keywords: ['Winged Moonplate', 'chaps', 'pants', 'leggings', 'zoomin', 'Tank', 'Health & Regeneration', 'Movement']
+  - name: 'Winter''s Approach'
+    keywords: ['Winter''s Approach', 'Fimbulwinter', 'tear', 'Tank', 'Mana & Regeneration', 'Health & Regeneration', 'Ability Haste']
+  - name: 'Wit''s End'
+    keywords: ['Wit''s End', 'Fighter', 'Marksman', 'Attack Speed', 'On-Hit Effects', 'Magic Resistance']
+  - name: 'Wizard''s Regalia'
+    keywords: ['Wizard''s Regalia']
+  - name: 'Wooglet''s Witchcap'
+    keywords: ['Wooglet''s Witchcap', 'Quest', 'Deathcap', 'Mage', 'Ability Power', 'Armor', 'Ability Haste']
+  - name: 'Wooglet''s Witchcrown'
+    keywords: ['Wooglet''s Witchcrown', 'ornn', 'forge']
+  - name: 'Wordless Promise'
+    keywords: ['Wordless Promise', 'Support', 'Ability Power', 'Ability Haste']
+  - name: 'World Atlas'
+    keywords: ['World Atlas', 'Map', 'Mage', 'Support', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Wriggle''s Lantern'
+    keywords: ['Wriggle''s Lantern']
+  - name: 'Wyrmfallen Sacrifice'
+    keywords: ['Wyrmfallen Sacrifice', 'Kraken Slayer', 'Marksman', 'Attack Damage', 'Attack Speed', 'Armor Penetration', 'Movement']
+  - name: 'Yordle Stompers'
+    keywords: ['Yordle Stompers']
+  - name: 'Youmuu''s Ghostblade'
+    keywords: ['Youmuu''s Ghostblade', 'lethality', 'haste', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Movement']
+  - name: 'Youmuu''s Wake'
+    keywords: ['Youmuu''s Wake', 'Assassin', 'Attack Damage', 'Armor Penetration', 'Movement']
+  - name: 'Youmuu''s Wraithblade'
+    keywords: ['Youmuu''s Wraithblade', 'ornn', 'forge']
+  - name: 'Your Cut'
+    keywords: ['Your Cut']
+  - name: 'Yun Tal Wildarrows'
+    keywords: ['Yun Tal Wildarrows', 'arrow', 'yuntal', 'Marksman', 'Attack Damage', 'Critical Strike', 'Attack Speed']
+  - name: 'Zaz''Zak''s Realmspike'
+    keywords: ['Zaz''Zak''s Realmspike', 'Support', 'Mana & Regeneration', 'Health & Regeneration']
+  - name: 'Zeal'
+    keywords: ['Zeal', 'Marksman', 'Critical Strike', 'Attack Speed', 'Movement']
+  - name: 'Zeke''s Convergence'
+    keywords: ['Zeke''s Convergence', 'haroldandkumar', 'Tank', 'Support', 'Health & Regeneration', 'Armor', 'Magic Resistance', 'Ability Haste']
+  - name: 'Zeke''s Harbinger'
+    keywords: ['Zeke''s Harbinger']
+  - name: 'Zeke''s Herald'
+    keywords: ['Zeke''s Herald']
+  - name: 'Zephyr'
+    keywords: ['Zephyr', 'Fighter', 'Marksman', 'Attack Speed', 'Ability Haste', 'Movement']
+  - name: 'Zhonya''s Hourglass'
+    keywords: ['Zhonya''s Hourglass', 'zhg', 'zonyas', 'zhonyas', 'Witchcap', 'Wooglets', 'Mage', 'Ability Power', 'Armor']
+  - name: 'Zhonya''s Paradox'
+    keywords: ['Zhonya''s Paradox', 'ornn', 'forge']
+  - name: 'Zhonya''s Ring'
+    keywords: ['Zhonya''s Ring']
+  - name: 'Zz''Rot Portal'
+    keywords: ['Zz''Rot Portal', 'Void Gate']
