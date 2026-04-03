@@ -56,3 +56,35 @@ This repo includes a local MVP API that serves the already-materialized Gold JSO
 If you want to point to a different Gold API folder:
 
 LEGACYDRAGON_GOLD_API_ROOT=/some/path/to/api uv run python src/run_api.py
+
+## MCP Server Base Structure
+
+Creating an MCP server for early patch exploration is a strong idea. It lets people query
+legacy data through standardized tools from MCP clients, while reusing your existing dataset.
+
+This repo now includes a base MCP skeleton:
+
+- app/mcp/config.py
+- app/mcp/data_access.py
+- app/mcp/server.py
+- src/run_mcp.py
+
+### Start locally (stdio)
+
+1. Sync dependencies:
+
+	uv sync
+
+2. Run the MCP server:
+
+	uv run python src/run_mcp.py
+
+### Optional custom patch root
+
+By default, the MCP skeleton reads from:
+
+- data/bronze/patches
+
+You can override it with:
+
+LEGACYDRAGON_PATCH_ROOT=/some/path/to/patches uv run python src/run_mcp.py
