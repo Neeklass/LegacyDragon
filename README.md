@@ -59,10 +59,7 @@ LEGACYDRAGON_GOLD_API_ROOT=/some/path/to/api uv run python src/run_api.py
 
 ## MCP Server Base Structure
 
-Creating an MCP server for early patch exploration is a strong idea. It lets people query
-legacy data through standardized tools from MCP clients, while reusing your existing dataset.
-
-This repo now includes a base MCP skeleton:
+This repo now includes a base MCP skeleton for early patch exploration:
 
 - app/mcp/config.py
 - app/mcp/data_access.py
